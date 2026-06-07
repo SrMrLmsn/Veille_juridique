@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-07T21:19:36.703733+00:00",
+  "updated": "2026-06-07T22:38:20.829112+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -23,10 +23,18 @@
       "name": "Commission européenne",
       "country": "EU",
       "color": "#9a7e00",
-      "count": 0
+      "count": 10
     }
   },
   "items": [
+    {
+      "title": "EDIH Summit 2026: Strengthening the AI Innovation Ecosystem",
+      "link": "https://digital-strategy.ec.europa.eu/en/events/edih-summit-2026-strengthening-ai-innovation-ecosystem",
+      "date": "2026-06-05T14:40:17+00:00",
+      "summary": "<span>EDIH Summit 2026: Strengthening the AI Innovation Ecosystem</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-06-05T16:40:17+02:00\" title=\"Friday, June 5, 2026 - 16:40\">Fri, 06/05/2026 - 16:40</time>\n</span>\n\n<div>\n  <div class=\"cnt-thumbnail-media ecl-u-type",
+      "source_id": "commission",
+      "source_name": "Commission européenne"
+    },
     {
       "title": "Ordre du jour de la séance plénière du 4 juin 2026",
       "link": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-4-juin-2026",
@@ -34,6 +42,46 @@
       "summary": "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 4 juin 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
       "source_id": "cnil",
       "source_name": "CNIL"
+    },
+    {
+      "title": "Proposal for the Cloud and AI Development Act (CADA)",
+      "link": "https://digital-strategy.ec.europa.eu/en/library/proposal-cloud-and-ai-development-act-cada",
+      "date": "2026-06-03T09:02:00+00:00",
+      "summary": "<span>Proposal for the Cloud and AI Development Act (CADA)</span>\n<span><span>dumimar</span></span>\n<span><time datetime=\"2026-06-03T11:02:00+02:00\" title=\"Wednesday, June 3, 2026 - 11:02\">Wed, 06/03/2026 - 11:02</time>\n</span>\n\n<div>\n  <div class=\"cnt-thumbnail-media ecl-u-type-m cnt-content-wrappe",
+      "source_id": "commission",
+      "source_name": "Commission européenne"
+    },
+    {
+      "title": "Commission proposes tech sovereignty package to strengthen Europe's digital autonomy and resilience",
+      "link": "https://digital-strategy.ec.europa.eu/en/news/commission-proposes-tech-sovereignty-package-strengthen-europes-digital-autonomy-and-resilience",
+      "date": "2026-06-03T09:01:00+00:00",
+      "summary": "<span>Commission proposes tech sovereignty package to strengthen Europe's digital autonomy and resilience</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-06-03T11:01:00+02:00\" title=\"Wednesday, June 3, 2026 - 11:01\">Wed, 06/03/2026 - 11:01</time>\n</span>\n\n<div>",
+      "source_id": "commission",
+      "source_name": "Commission européenne"
+    },
+    {
+      "title": "Proposal for the Chips Act 2.0",
+      "link": "https://digital-strategy.ec.europa.eu/en/library/proposal-chips-act-20",
+      "date": "2026-06-03T08:30:00+00:00",
+      "summary": "<span>Proposal for the Chips Act 2.0</span>\n<span><span>dumimar</span></span>\n<span><time datetime=\"2026-06-03T10:30:00+02:00\" title=\"Wednesday, June 3, 2026 - 10:30\">Wed, 06/03/2026 - 10:30</time>\n</span>\n\n<div>\n  <div class=\"cnt-thumbnail-media ecl-u-type-m cnt-content-wrapper\">",
+      "source_id": "commission",
+      "source_name": "Commission européenne"
+    },
+    {
+      "title": "Communication on European Tech Sovereignty, accompanied by an EU Open Source Strategy",
+      "link": "https://digital-strategy.ec.europa.eu/en/library/communication-european-tech-sovereignty-accompanied-eu-open-source-strategy",
+      "date": "2026-06-03T08:19:00+00:00",
+      "summary": "<span>Communication on European Tech Sovereignty, accompanied by an EU Open Source Strategy</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-06-03T10:19:00+02:00\" title=\"Wednesday, June 3, 2026 - 10:19\">Wed, 06/03/2026 - 10:19</time>\n</span>\n\n<div>\n  <div class=\"c",
+      "source_id": "commission",
+      "source_name": "Commission européenne"
+    },
+    {
+      "title": "European Commission survey: AI in healthcare and pharmaceuticals",
+      "link": "https://digital-strategy.ec.europa.eu/en/consultations/european-commission-survey-ai-healthcare-and-pharmaceuticals",
+      "date": "2026-06-03T07:24:18+00:00",
+      "summary": "<span>European Commission survey: AI in healthcare and pharmaceuticals</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-06-03T09:24:18+02:00\" title=\"Wednesday, June 3, 2026 - 09:24\">Wed, 06/03/2026 - 09:24</time>\n</span>\n\n<div>\n  <div class=\"cnt-thumbnail-media ec",
+      "source_id": "commission",
+      "source_name": "Commission européenne"
     },
     {
       "title": "Multiples vulnérabilités dans Microsoft Azure Linux (03 juin 2026)",
@@ -58,6 +106,14 @@
       "summary": "Une vulnérabilité a été découverte dans HPE Aruba Networking AOS-CX. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
       "source_id": "anssi",
       "source_name": "ANSSI"
+    },
+    {
+      "title": "Apply AI Webinar on AI for Cultural, Creative and Media Sectors",
+      "link": "https://digital-strategy.ec.europa.eu/en/events/apply-ai-webinar-ai-cultural-creative-and-media-sectors",
+      "date": "2026-06-02T10:29:48+00:00",
+      "summary": "<span>Apply AI Webinar on AI for Cultural, Creative and Media Sectors</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-06-02T12:29:48+02:00\" title=\"Tuesday, June 2, 2026 - 12:29\">Tue, 06/02/2026 - 12:29</time>\n</span>\n\n<div>\n  <div class=\"cnt-thumbnail-media ecl-u",
+      "source_id": "commission",
+      "source_name": "Commission européenne"
     },
     {
       "title": "Multiples vulnérabilités dans Mozilla Firefox (02 juin 2026)",
@@ -180,6 +236,14 @@
       "source_name": "ANSSI"
     },
     {
+      "title": "Targeted consultation: draft guidelines on trusted flaggers under the Digital Services Act (DSA)",
+      "link": "https://digital-strategy.ec.europa.eu/en/consultations/targeted-consultation-draft-guidelines-trusted-flaggers-under-digital-services-act-dsa",
+      "date": "2026-05-29T08:00:00+00:00",
+      "summary": "<span>Targeted consultation: draft guidelines on trusted flaggers under the Digital Services Act (DSA)</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-05-29T10:00:00+02:00\" title=\"Friday, May 29, 2026 - 10:00\">Fri, 05/29/2026 - 10:00</time>\n</span>\n\n<div>\n  <div",
+      "source_id": "commission",
+      "source_name": "Commission européenne"
+    },
+    {
       "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (29 mai 2026)",
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0664/",
       "date": "2026-05-29T00:00:00+00:00",
@@ -260,6 +324,14 @@
       "source_name": "CNIL"
     },
     {
+      "title": "Commission fines Temu €200 million for breaching the Digital Services Act",
+      "link": "https://digital-strategy.ec.europa.eu/en/news/commission-fines-temu-eu200-million-breaching-digital-services-act",
+      "date": "2026-05-28T10:12:30+00:00",
+      "summary": "<span>Commission fines Temu €200 million for breaching the Digital Services Act</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-05-28T12:12:30+02:00\" title=\"Thursday, May 28, 2026 - 12:12\">Thu, 05/28/2026 - 12:12</time>\n</span>\n\n<div>\n  <div class=\"cnt-thumbnail-",
+      "source_id": "commission",
+      "source_name": "Commission européenne"
+    },
+    {
       "title": "« IA générative et vie privée » : une affiche coproduite par la PIPC et la CNIL pour sensibiliser les utilisateurs d’IA à la protection de leurs données",
       "link": "https://www.cnil.fr/fr/ia-generative-et-vie-privee-affiche-coproduite-pipc-cnil",
       "date": "2026-05-27T12:00:00+00:00",
@@ -274,6 +346,14 @@
       "summary": "Régulièrement, la CNIL communique sur des violations de données typiques inspirées d’incidents réels qui lui sont notifiés. Cette publication a pour objectif de permettre à tous les professionnels de comprendre et de prévenir les risques d’accès à des données détenues par les sous-traitants.",
       "source_id": "cnil",
       "source_name": "CNIL"
+    },
+    {
+      "title": "Call for Tenders: Development, consultancy and support for a data altruism consent management system",
+      "link": "https://digital-strategy.ec.europa.eu/en/funding/call-tenders-development-consultancy-and-support-data-altruism-consent-management-system",
+      "date": "2026-05-27T08:40:00+00:00",
+      "summary": "<span>Call for Tenders: Development, consultancy and support for a data altruism consent management system</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-05-27T10:40:00+02:00\" title=\"Wednesday, May 27, 2026 - 10:40\">Wed, 05/27/2026 - 10:40</time>\n</span>\n\n<div>",
+      "source_id": "commission",
+      "source_name": "Commission européenne"
     },
     {
       "title": "Recherche en santé : la CNIL met à jour et élargit le champ des méthodologies de référence 001 et 003",
