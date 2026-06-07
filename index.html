@@ -7,6 +7,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet" />
   <style>
+    /* ── TOKENS ──────────────────────────────────────────── */
     :root {
       --ink:       #0f1117;
       --ink-soft:  #3d4151;
@@ -24,6 +25,8 @@
       --radius:    4px;
       --shadow:    0 1px 3px rgba(0,0,0,.08), 0 4px 16px rgba(0,0,0,.04);
     }
+
+    /* ── RESET ───────────────────────────────────────────── */
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
     html { font-size: 15px; }
     body {
@@ -35,6 +38,8 @@
     }
     a { color: inherit; text-decoration: none; }
     button { font-family: inherit; cursor: pointer; border: none; background: none; }
+
+    /* ── HEADER ──────────────────────────────────────────── */
     header {
       background: var(--ink);
       color: #fff;
@@ -71,6 +76,8 @@
       color: rgba(255,255,255,.4);
       letter-spacing: .04em;
     }
+
+    /* ── TABS ────────────────────────────────────────────── */
     .tabs-bar {
       background: var(--bg-card);
       border-bottom: 1px solid var(--rule);
@@ -88,10 +95,17 @@
       border-bottom: 2px solid transparent;
       transition: color .15s, border-color .15s;
     }
-    .tab-btn.active { color: var(--accent); border-bottom-color: var(--accent); }
+    .tab-btn.active {
+      color: var(--accent);
+      border-bottom-color: var(--accent);
+    }
     .tab-btn:hover:not(.active) { color: var(--ink-soft); }
+
+    /* ── LAYOUT ──────────────────────────────────────────── */
     .tab-panel { display: none; }
     .tab-panel.active { display: block; }
+
+    /* ── TOOLBAR (onglet 1) ───────────────────────────────── */
     .toolbar {
       max-width: 1140px;
       margin: 1.5rem auto 0;
@@ -126,7 +140,16 @@
       border-color: var(--accent);
       color: #fff;
     }
-    .search-wrap { margin-left: auto; position: relative; }
+    .chip .dot {
+      width: 7px; height: 7px;
+      border-radius: 50%;
+      background: currentColor;
+      opacity: .7;
+    }
+    .search-wrap {
+      margin-left: auto;
+      position: relative;
+    }
     .search-wrap input {
       padding: .4rem .75rem .4rem 2rem;
       border: 1.5px solid var(--rule);
@@ -150,6 +173,8 @@
       color: var(--ink-mute);
       pointer-events: none;
     }
+
+    /* ── FEED GRID ───────────────────────────────────────── */
     .feed-grid {
       max-width: 1140px;
       margin: 1.25rem auto 3rem;
@@ -170,8 +195,15 @@
       flex-direction: column;
       gap: .55rem;
     }
-    .card:hover { transform: translateY(-2px); box-shadow: 0 4px 20px rgba(0,0,0,.1); }
-    .card-meta { display: flex; align-items: center; gap: .5rem; }
+    .card:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 4px 20px rgba(0,0,0,.1);
+    }
+    .card-meta {
+      display: flex;
+      align-items: center;
+      gap: .5rem;
+    }
     .source-badge {
       font-size: .65rem;
       font-weight: 600;
@@ -181,7 +213,11 @@
       border-radius: 2px;
       color: #fff;
     }
-    .card-date { font-size: .68rem; color: var(--ink-mute); margin-left: auto; }
+    .card-date {
+      font-size: .68rem;
+      color: var(--ink-mute);
+      margin-left: auto;
+    }
     .card-title {
       font-family: 'Libre Baskerville', serif;
       font-size: .88rem;
@@ -197,8 +233,15 @@
       -webkit-box-orient: vertical;
       overflow: hidden;
     }
-    .card-link { font-size: .7rem; color: var(--accent); letter-spacing: .02em; margin-top: auto; }
+    .card-link {
+      font-size: .7rem;
+      color: var(--accent);
+      letter-spacing: .02em;
+      margin-top: auto;
+    }
     .card-link:hover { text-decoration: underline; }
+
+    /* ── EMPTY / LOADING ─────────────────────────────────── */
     .state-msg {
       grid-column: 1 / -1;
       text-align: center;
@@ -216,7 +259,13 @@
       margin-bottom: .75rem;
     }
     @keyframes spin { to { transform: rotate(360deg); } }
-    .legis-container { max-width: 1100px; margin: 2rem auto 4rem; padding: 0 2rem; }
+
+    /* ── ONGLET 2 : TEXTES LÉGISLATIFS ───────────────────── */
+    .legis-container {
+      max-width: 1100px;
+      margin: 2rem auto 4rem;
+      padding: 0 2rem;
+    }
     .legis-intro {
       font-size: .82rem;
       color: var(--ink-soft);
@@ -225,7 +274,14 @@
       max-width: 680px;
     }
     .legis-intro strong { color: var(--ink); }
-    .legis-filters { display: flex; gap: .5rem; flex-wrap: wrap; margin-bottom: 1.25rem; }
+
+    /* Filtres statut */
+    .legis-filters {
+      display: flex;
+      gap: .5rem;
+      flex-wrap: wrap;
+      margin-bottom: 1.25rem;
+    }
     .status-chip {
       padding: .28rem .75rem;
       border-radius: 99px;
@@ -237,12 +293,18 @@
       cursor: pointer;
       transition: all .15s;
     }
-    .status-chip.all        { background: var(--ink); color: #fff; }
+    .status-chip.all    { background: var(--ink); color: #fff; }
     .status-chip.en-vigueur { background: var(--green); color: #fff; }
     .status-chip.adopte     { background: #2874a6; color: #fff; }
     .status-chip.nego       { background: var(--orange); color: #fff; }
     .status-chip.proposition{ background: var(--gold); color: #fff; }
-    .status-chip.inactive   { background: transparent; color: var(--ink-mute); border-color: var(--rule); }
+    .status-chip.inactive {
+      background: transparent;
+      color: var(--ink-mute);
+      border-color: var(--rule);
+    }
+
+    /* Table */
     .legis-table-wrap {
       overflow-x: auto;
       border: 1px solid var(--rule);
@@ -250,14 +312,40 @@
       background: var(--bg-card);
       box-shadow: var(--shadow);
     }
-    table { width: 100%; border-collapse: collapse; font-size: .82rem; }
-    thead tr { background: var(--ink); color: #fff; }
-    th { padding: .7rem 1rem; text-align: left; font-size: .68rem; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; }
-    tbody tr { border-bottom: 1px solid var(--rule); transition: background .1s; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: .82rem;
+    }
+    thead tr {
+      background: var(--ink);
+      color: #fff;
+    }
+    th {
+      padding: .7rem 1rem;
+      text-align: left;
+      font-size: .68rem;
+      font-weight: 600;
+      letter-spacing: .08em;
+      text-transform: uppercase;
+    }
+    tbody tr {
+      border-bottom: 1px solid var(--rule);
+      transition: background .1s;
+    }
     tbody tr:last-child { border-bottom: none; }
     tbody tr:hover { background: var(--bg); }
-    td { padding: .85rem 1rem; vertical-align: top; line-height: 1.45; }
-    td:first-child { font-family: 'Libre Baskerville', serif; font-weight: 700; font-size: .84rem; white-space: nowrap; }
+    td {
+      padding: .85rem 1rem;
+      vertical-align: top;
+      line-height: 1.45;
+    }
+    td:first-child {
+      font-family: 'Libre Baskerville', serif;
+      font-weight: 700;
+      font-size: .84rem;
+      white-space: nowrap;
+    }
     .status-pill {
       display: inline-block;
       padding: .22rem .65rem;
@@ -273,11 +361,27 @@
     .s-nego       { background: #fde8d8; color: var(--orange); }
     .s-proposition{ background: var(--gold-lt); color: #7d6514; }
     .s-revision   { background: #f5e6ff; color: #6c3483; }
+
     td.desc { color: var(--ink-soft); font-size: .78rem; }
     td.date-cell { color: var(--ink-mute); font-size: .76rem; white-space: nowrap; }
-    .ref-link { font-size: .7rem; color: var(--accent); }
+
+    .ref-link {
+      font-size: .7rem;
+      color: var(--accent);
+    }
     .ref-link:hover { text-decoration: underline; }
-    footer { text-align: center; padding: 1.5rem; font-size: .7rem; color: var(--ink-mute); border-top: 1px solid var(--rule); letter-spacing: .04em; }
+
+    /* ── FOOTER ──────────────────────────────────────────── */
+    footer {
+      text-align: center;
+      padding: 1.5rem;
+      font-size: .7rem;
+      color: var(--ink-mute);
+      border-top: 1px solid var(--rule);
+      letter-spacing: .04em;
+    }
+
+    /* ── RESPONSIVE ──────────────────────────────────────── */
     @media (max-width: 640px) {
       .header-subtitle { display: none; }
       .tabs-bar { padding: 0 1rem; }
@@ -289,19 +393,363 @@
 </head>
 <body>
 
+<!-- ═══ HEADER ═══════════════════════════════════════════════ -->
 <header>
   <div class="header-logo">Veille<span>.</span>Numérique</div>
   <div class="header-subtitle">Droit du numérique &amp; régulation européenne</div>
   <div class="header-updated" id="lastUpdated"></div>
 </header>
 
+<!-- ═══ TABS ══════════════════════════════════════════════════ -->
 <div class="tabs-bar">
   <button class="tab-btn active" data-tab="actualites">Actualités institutionnelles</button>
   <button class="tab-btn" data-tab="textes">Textes législatifs</button>
 </div>
 
+<!-- ═══ ONGLET 1 : ACTUALITÉS ════════════════════════════════ -->
 <div id="tab-actualites" class="tab-panel active">
+
   <div class="toolbar">
     <span class="filter-label">Source :</span>
     <button class="chip active" data-filter="all">Toutes</button>
-    <button class="chip" data-filter="cnil">
+    <button class="chip" data-filter="cnil">🇫🇷 CNIL</button>
+    <button class="chip" data-filter="anssi">🛡️ ANSSI</button>
+    <button class="chip" data-filter="edpb">🇪🇺 EDPB</button>
+    <button class="chip" data-filter="commission">🇪🇺 Commission</button>
+    <button class="chip" data-filter="dpc">🇮🇪 DPC</button>
+    <div class="search-wrap">
+      <input type="text" id="searchInput" placeholder="Rechercher…" />
+    </div>
+  </div>
+
+  <div class="feed-grid" id="feedGrid">
+    <div class="state-msg">
+      <div class="spinner"></div><br>Chargement des flux…
+    </div>
+  </div>
+</div>
+
+<!-- ═══ ONGLET 2 : TEXTES LÉGISLATIFS ════════════════════════ -->
+<div id="tab-textes" class="tab-panel">
+  <div class="legis-container">
+
+    <p class="legis-intro">
+      Suivi des principaux <strong>règlements et directives européens</strong> en droit du numérique —
+      statut legislatif, dates clés et références officielles.
+      <em>Mis à jour manuellement ; dernière révision : juin 2026.</em>
+    </p>
+
+    <div class="legis-filters">
+      <button class="status-chip all" data-legis-filter="all">Tous</button>
+      <button class="status-chip en-vigueur inactive" data-legis-filter="en-vigueur">En vigueur</button>
+      <button class="status-chip adopte inactive" data-legis-filter="adopte">Adopté</button>
+      <button class="status-chip nego inactive" data-legis-filter="nego">Trilogues / Négociation</button>
+      <button class="status-chip proposition inactive" data-legis-filter="proposition">Proposition</button>
+    </div>
+
+    <div class="legis-table-wrap">
+      <table id="legisTable">
+        <thead>
+          <tr>
+            <th>Texte</th>
+            <th>Intitulé complet</th>
+            <th>Statut</th>
+            <th>Date clé</th>
+            <th>Description</th>
+            <th>Référence</th>
+          </tr>
+        </thead>
+        <tbody id="legisTbody">
+          <!-- Rempli par JS -->
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
+
+<footer>Veille.Numérique — Sources officielles publiques · Automatisé via GitHub Actions · 
+<a href="https://github.com" style="color:var(--accent)">GitHub Pages</a></footer>
+
+<!-- ═══ SCRIPT ════════════════════════════════════════════════ -->
+<script>
+/* ── DONNÉES LÉGISLATIVES ──────────────────────────────────── */
+const LEGIS_DATA = [
+  {
+    sigle: "RGPD",
+    nom: "Règlement général sur la protection des données",
+    statut: "en-vigueur",
+    date: "25 mai 2018",
+    desc: "Protection des données personnelles des personnes physiques dans l'UE. Obligations des responsables de traitement, droits des personnes, transferts internationaux.",
+    url: "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A32016R0679"
+  },
+  {
+    sigle: "DSA",
+    nom: "Digital Services Act — Règlement (UE) 2022/2065",
+    statut: "en-vigueur",
+    date: "17 fév. 2024",
+    desc: "Responsabilité des plateformes en ligne, modération des contenus illicites, obligations renforcées pour les très grandes plateformes (VLOP/VLOSE).",
+    url: "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A32022R2065"
+  },
+  {
+    sigle: "DMA",
+    nom: "Digital Markets Act — Règlement (UE) 2022/1925",
+    statut: "en-vigueur",
+    date: "2 mai 2023",
+    desc: "Régulation des contrôleurs d'accès (gatekeepers) sur les marchés numériques. Obligations ex ante d'interopérabilité, d'accès aux données, d'équité.",
+    url: "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A32022R1925"
+  },
+  {
+    sigle: "AI Act",
+    nom: "Règlement (UE) 2024/1689 sur l'intelligence artificielle",
+    statut: "en-vigueur",
+    date: "1er août 2024",
+    desc: "Approche par les risques (inacceptable / élevé / limité / minimal). Obligations pour les systèmes à haut risque, interdictions, gouvernance (AEIUA). Application progressive jusqu'en 2027.",
+    url: "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=OJ:L_202401689"
+  },
+  {
+    sigle: "NIS 2",
+    nom: "Directive (UE) 2022/2555 sur la cybersécurité",
+    statut: "en-vigueur",
+    date: "Transposition : 17 oct. 2024",
+    desc: "Extension du champ d'application (entités essentielles / importantes), obligations de gestion des risques cyber, signalement d'incidents, responsabilité des dirigeants.",
+    url: "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A32022L2555"
+  },
+  {
+    sigle: "DORA",
+    nom: "Digital Operational Resilience Act — Règlement (UE) 2022/2554",
+    statut: "en-vigueur",
+    date: "17 jan. 2025",
+    desc: "Résilience opérationnelle numérique du secteur financier. Gestion des risques ICT, tests de pénétration, gestion du risque tiers (prestataires critiques).",
+    url: "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A32022R2554"
+  },
+  {
+    sigle: "CRA",
+    nom: "Cyber Resilience Act — Règlement (UE) 2024/2847",
+    statut: "en-vigueur",
+    date: "11 déc. 2024",
+    desc: "Exigences de cybersécurité pour les produits comportant des éléments numériques (logiciels, objets connectés). Marquage CE, signalement des vulnérabilités. Application progressive 2026-2027.",
+    url: "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=OJ:L_202402847"
+  },
+  {
+    sigle: "Data Act",
+    nom: "Règlement (UE) 2023/2854 sur les données",
+    statut: "en-vigueur",
+    date: "12 sept. 2025",
+    desc: "Accès et partage des données générées par les objets connectés et services associés. Droits des utilisateurs, protection des secrets d'affaires, portabilité.",
+    url: "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A32023R2854"
+  },
+  {
+    sigle: "Data Governance Act",
+    nom: "Règlement (UE) 2022/868 sur la gouvernance des données",
+    statut: "en-vigueur",
+    date: "24 sept. 2023",
+    desc: "Réutilisation des données du secteur public, services d'intermédiation de données (data brokers), altruisme en matière de données (GAIA-X, espaces européens de données).",
+    url: "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A32022R0868"
+  },
+  {
+    sigle: "eIDAS 2",
+    nom: "Règlement (UE) 2024/1183 — Identité numérique",
+    statut: "en-vigueur",
+    date: "20 mai 2024",
+    desc: "Refonte du cadre européen d'identité numérique. Portefeuille européen d'identité numérique (EUDIW), reconnaissance mutuelle des moyens d'identification.",
+    url: "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=OJ:L_202401183"
+  },
+  {
+    sigle: "Directive droits d'auteur",
+    nom: "Directive (UE) 2019/790 sur le droit d'auteur dans le marché unique numérique",
+    statut: "en-vigueur",
+    date: "7 juin 2021",
+    desc: "Droit voisin des éditeurs de presse, exceptions au droit d'auteur (fouille de textes et de données — art. 4), responsabilité des plateformes de partage (art. 17).",
+    url: "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A32019L0790"
+  },
+  {
+    sigle: "ePrivacy",
+    nom: "Règlement ePrivacy — vie privée et communications électroniques",
+    statut: "nego",
+    date: "En attente — bloqué au Conseil depuis 2021",
+    desc: "Révision de la directive 2002/58/CE. Cookies, communications électroniques, métadonnées, spam. Divergences persistantes entre États membres sur le traitement des métadonnées.",
+    url: "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A52017PC0010"
+  },
+  {
+    sigle: "EUCS",
+    nom: "European Union Cybersecurity Certification Scheme (cloud)",
+    statut: "nego",
+    date: "Discussions en cours (ENISA / Commission)",
+    desc: "Schéma de certification de cybersécurité pour les services cloud. Niveaux de garantie (basique / substantiel / élevé). Controverses sur l'exigence de souveraineté.",
+    url: "https://www.enisa.europa.eu/topics/certification/cloud"
+  },
+  {
+    sigle: "AI Liability Dir.",
+    nom: "Directive sur la responsabilité civile liée à l'IA",
+    statut: "proposition",
+    date: "Prop. Commission : sept. 2022 — retirée mars 2025",
+    desc: "Allègement de la charge de la preuve pour les victimes de systèmes d'IA à haut risque. Présomption de causalité. Proposition retirée par la Commission en mars 2025.",
+    url: "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A52022PC0496"
+  },
+  {
+    sigle: "Product Liability Dir.",
+    nom: "Directive (UE) 2024/2853 sur la responsabilité du fait des produits",
+    statut: "en-vigueur",
+    date: "9 déc. 2024",
+    desc: "Refonte de la directive 1985. Intègre les logiciels et systèmes d'IA comme « produits ». Responsabilité sans faute du fabricant, charge de la preuve allégée.",
+    url: "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=OJ:L_202402853"
+  },
+  {
+    sigle: "Interop. Act",
+    nom: "Interoperability Act — Proposition de règlement",
+    statut: "proposition",
+    date: "Prop. attendue : 2025-2026",
+    desc: "Interopérabilité des systèmes d'information du secteur public européen. Dans le prolongement du DMA et de l'Open Data Directive.",
+    url: "https://digital-strategy.ec.europa.eu/en/policies/interoperability"
+  },
+];
+
+/* ── SOURCE COLORS ─────────────────────────────────────────── */
+const SOURCE_COLORS = {
+  cnil:       "#003189",
+  anssi:      "#005B8E",
+  edpb:       "#003399",
+  commission: "#9a7e00",
+  dpc:        "#169B62",
+};
+
+/* ── STATE ─────────────────────────────────────────────────── */
+let allItems    = [];
+let activeFilter = "all";
+let searchQuery  = "";
+let legisFilter  = "all";
+
+/* ── TABS ───────────────────────────────────────────────────── */
+document.querySelectorAll(".tab-btn").forEach(btn => {
+  btn.addEventListener("click", () => {
+    document.querySelectorAll(".tab-btn").forEach(b => b.classList.remove("active"));
+    document.querySelectorAll(".tab-panel").forEach(p => p.classList.remove("active"));
+    btn.classList.add("active");
+    document.getElementById(`tab-${btn.dataset.tab}`).classList.add("active");
+  });
+});
+
+/* ── FILTER CHIPS ───────────────────────────────────────────── */
+document.querySelectorAll(".chip").forEach(chip => {
+  chip.addEventListener("click", () => {
+    document.querySelectorAll(".chip").forEach(c => c.classList.remove("active"));
+    chip.classList.add("active");
+    activeFilter = chip.dataset.filter;
+    renderFeed();
+  });
+});
+
+document.getElementById("searchInput").addEventListener("input", e => {
+  searchQuery = e.target.value.toLowerCase();
+  renderFeed();
+});
+
+/* ── LEGIS FILTERS ──────────────────────────────────────────── */
+document.querySelectorAll("[data-legis-filter]").forEach(btn => {
+  btn.addEventListener("click", () => {
+    document.querySelectorAll("[data-legis-filter]").forEach(b => b.classList.add("inactive"));
+    btn.classList.remove("inactive");
+    legisFilter = btn.dataset.legisFilter;
+    renderLegis();
+  });
+});
+
+/* ── RENDER FEED ────────────────────────────────────────────── */
+function renderFeed() {
+  const grid = document.getElementById("feedGrid");
+  let items = allItems;
+
+  if (activeFilter !== "all") {
+    items = items.filter(i => i.source_id === activeFilter);
+  }
+  if (searchQuery) {
+    items = items.filter(i =>
+      i.title.toLowerCase().includes(searchQuery) ||
+      (i.summary || "").toLowerCase().includes(searchQuery)
+    );
+  }
+
+  if (!items.length) {
+    grid.innerHTML = `<div class="state-msg">Aucun résultat.</div>`;
+    return;
+  }
+
+  grid.innerHTML = items.map(item => {
+    const color = SOURCE_COLORS[item.source_id] || "#333";
+    const date  = item.date ? new Date(item.date).toLocaleDateString("fr-FR", {day:"2-digit",month:"short",year:"numeric"}) : "";
+    return `
+      <div class="card" onclick="window.open('${item.link}','_blank')">
+        <div class="card-meta">
+          <span class="source-badge" style="background:${color}">${item.source_name}</span>
+          <span class="card-date">${date}</span>
+        </div>
+        <div class="card-title">${item.title}</div>
+        ${item.summary ? `<div class="card-summary">${item.summary}</div>` : ""}
+        <div class="card-link">Lire la suite →</div>
+      </div>`;
+  }).join("");
+}
+
+/* ── RENDER LEGIS ───────────────────────────────────────────── */
+const STATUS_LABELS = {
+  "en-vigueur": ["s-en-vigueur", "En vigueur"],
+  "adopte":     ["s-adopte",     "Adopté"],
+  "nego":       ["s-nego",       "En négociation"],
+  "proposition":["s-proposition","Proposition"],
+  "revision":   ["s-revision",   "En révision"],
+};
+
+function renderLegis() {
+  const tbody = document.getElementById("legisTbody");
+  let rows = LEGIS_DATA;
+  if (legisFilter !== "all") rows = rows.filter(r => r.statut === legisFilter);
+
+  tbody.innerHTML = rows.map(r => {
+    const [cls, label] = STATUS_LABELS[r.statut] || ["",""];
+    return `
+      <tr>
+        <td>${r.sigle}</td>
+        <td>${r.nom}</td>
+        <td><span class="status-pill ${cls}">${label}</span></td>
+        <td class="date-cell">${r.date}</td>
+        <td class="desc">${r.desc}</td>
+        <td><a class="ref-link" href="${r.url}" target="_blank" rel="noopener">EUR-Lex →</a></td>
+      </tr>`;
+  }).join("");
+}
+
+/* ── LOAD FEEDS ─────────────────────────────────────────────── */
+async function loadFeeds() {
+  try {
+    const res  = await fetch(`/Veille_juridique/data/feeds.json?t=${Date.now()}`);
+    const data = await res.json();
+
+    allItems = data.items || [];
+
+    if (data.updated) {
+      const d = new Date(data.updated);
+      document.getElementById("lastUpdated").textContent =
+        `Mis à jour : ${d.toLocaleDateString("fr-FR", {day:"2-digit",month:"long",year:"numeric"})}`;
+    }
+
+    if (!allItems.length) {
+      document.getElementById("feedGrid").innerHTML =
+        `<div class="state-msg">Aucun article disponible.<br>
+        <small>Le workflow GitHub Actions n'a pas encore été exécuté.</small></div>`;
+      return;
+    }
+
+    renderFeed();
+  } catch (e) {
+    document.getElementById("feedGrid").innerHTML =
+      `<div class="state-msg">Erreur de chargement des flux.<br>
+      <small>Vérifiez que <code>data/feeds.json</code> est bien présent.</small></div>`;
+  }
+}
+
+/* ── INIT ───────────────────────────────────────────────────── */
+loadFeeds();
+renderLegis();
+</script>
+</body>
+</html>
