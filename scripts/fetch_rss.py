@@ -15,7 +15,8 @@ SOURCES = [
     {"id":"anssi","name":"ANSSI","country":"FR","url":"https://www.cert.ssi.gouv.fr/feed/","color":"#005B8E","icon":"🛡️"},
     {"id":"edpb","name":"EDPB","country":"EU","url":"https://www.edpb.europa.eu/feed/news_en","color":"#003399","icon":"🇪🇺"},
     {"id":"commission","name":"Commission européenne","country":"EU","url":"https://digital-strategy.ec.europa.eu/en/rss.xml","color":"#9a7e00","icon":"🇪🇺"},
-    {"id":"dpc","name":"DPC Ireland","country":"IE","url":"https://www.dataprotection.ie/en/news-media/news/rss.xml","color":"#169B62","icon":"🇮🇪"},
+    {"id":"ico","name":"ICO (UK)","country":"UK","url":"https://ico.org.uk/about-the-ico/media-centre/rss/","color":"#00529b","icon":"🇬🇧"},
+    {"id":"cepd","name":"CEPD","country":"EU","url":"https://www.edps.europa.eu/press-publications/press-news/rss_en","color":"#4a1486","icon":"🇪🇺"},
 ]
 
 MAX_ITEMS = 25
