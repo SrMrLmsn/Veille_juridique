@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-07T17:49:16.497259+00:00",
+  "updated": "2026-06-07T17:58:20.143916+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -29,11 +29,18 @@
       "icon": "🇪🇺",
       "count": 10
     },
-    "dpc": {
-      "name": "DPC Ireland",
-      "country": "IE",
-      "color": "#169B62",
-      "icon": "🇮🇪",
+    "ico": {
+      "name": "ICO (UK)",
+      "country": "UK",
+      "color": "#00529b",
+      "icon": "🇬🇧",
+      "count": 0
+    },
+    "cepd": {
+      "name": "CEPD",
+      "country": "EU",
+      "color": "#4a1486",
+      "icon": "🇪🇺",
       "count": 0
     }
   },
