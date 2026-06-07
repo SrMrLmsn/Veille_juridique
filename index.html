@@ -674,20 +674,41 @@ function renderFeed() {
     return;
   }
 
-  grid.innerHTML = items.map(item => {
+  grid.innerHTML = "";
+  items.forEach(item => {
     const color = SOURCE_COLORS[item.source_id] || "#333";
     const date  = item.date ? new Date(item.date).toLocaleDateString("fr-FR", {day:"2-digit",month:"short",year:"numeric"}) : "";
-    return `
-      <div class="card" onclick="window.open('${item.link}','_blank')">
-        <div class="card-meta">
-          <span class="source-badge" style="background:${color}">${item.source_name}</span>
-          <span class="card-date">${date}</span>
-        </div>
-        <div class="card-title">${item.title}</div>
-        ${item.summary ? `<div class="card-summary">${item.summary}</div>` : ""}
-        <div class="card-link">Lire la suite →</div>
-      </div>`;
-  }).join("");
+    const card = document.createElement("div");
+    card.className = "card";
+    card.addEventListener("click", function() { window.open(item.link, "_blank"); });
+    const meta = document.createElement("div");
+    meta.className = "card-meta";
+    const badge = document.createElement("span");
+    badge.className = "source-badge";
+    badge.style.background = color;
+    badge.textContent = item.source_name;
+    const dateEl = document.createElement("span");
+    dateEl.className = "card-date";
+    dateEl.textContent = date;
+    meta.appendChild(badge);
+    meta.appendChild(dateEl);
+    const title = document.createElement("div");
+    title.className = "card-title";
+    title.textContent = item.title;
+    const link = document.createElement("div");
+    link.className = "card-link";
+    link.textContent = "Lire la suite →";
+    card.appendChild(meta);
+    card.appendChild(title);
+    if (item.summary) {
+      const summary = document.createElement("div");
+      summary.className = "card-summary";
+      summary.textContent = item.summary;
+      card.appendChild(summary);
+    }
+    card.appendChild(link);
+    grid.appendChild(card);
+  });
 }
 
 /* ── RENDER LEGIS ───────────────────────────────────────────── */
