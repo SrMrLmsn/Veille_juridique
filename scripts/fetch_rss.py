@@ -1,6 +1,5 @@
 import json
 import feedparser
-import urllib.request
 from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
 
@@ -9,9 +8,9 @@ feedparser.USER_AGENT = "Mozilla/5.0 (compatible; veille-juridique-bot/1.0)"
 SOURCES = [
     {"id":"cnil","name":"CNIL","country":"FR","url":"https://www.cnil.fr/fr/rss.xml","color":"#003189","icon":"🇫🇷"},
     {"id":"anssi","name":"ANSSI","country":"FR","url":"https://www.cert.ssi.gouv.fr/feed/","color":"#005B8E","icon":"🛡️"},
-    {"id":"edpb","name":"EDPB","country":"EU","url":"https://www.edpb.europa.eu/en/rss.xml","color":"#003399","icon":"🇪🇺"},
+    {"id":"edpb","name":"EDPB","country":"EU","url":"https://www.edpb.europa.eu/en/news/news_en.rss","color":"#003399","icon":"🇪🇺"},
     {"id":"commission","name":"Commission européenne","country":"EU","url":"https://digital-strategy.ec.europa.eu/en/rss.xml","color":"#9a7e00","icon":"🇪🇺"},
-    {"id":"dpc","name":"DPC Ireland","country":"IE","url":"https://www.dataprotection.ie/en/news-media/press-releases/rss.xml","color":"#169B62","icon":"🇮🇪"},
+    {"id":"dpc","name":"DPC Ireland","country":"IE","url":"https://www.dataprotection.ie/en/news-media/news/rss.xml","color":"#169B62","icon":"🇮🇪"},
 ]
 
 MAX_ITEMS = 25
