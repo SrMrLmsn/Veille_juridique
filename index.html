@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Veille Juridique — Droit du Numérique</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --ink:       #0f1117;
+      --ink-soft:  #3d4151;
+      --ink-mute:  #7a7f94;
+      --bg:        #f7f5f0;
+      --bg-card:   #ffffff;
+      --rule:      #e2dfd8;
+      --accent:    #1a3a8f;
+      --accent-lt: #e8edf8;
+      --gold:      #b89a3e;
+      --gold-lt:   #faf5e8;
+      --red:       #c0392b;
+      --green:     #1a6e3c;
+      --orange:    #c05c10;
+      --radius:    4px;
+      --shadow:    0 1px 3px rgba(0,0,0,.08), 0 4px 16px rgba(0,0,0,.04);
+    }
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html { font-size: 15px; }
+    body {
+      font-family: 'DM Sans', sans-serif;
+      background: var(--bg);
+      color: var(--ink);
+      min-height: 100vh;
+      -webkit-font-smoothing: antialiased;
+    }
+    a { color: inherit; text-decoration: none; }
+    button { font-family: inherit; cursor: pointer; border: none; background: none; }
+    header {
+      background: var(--ink);
+      color: #fff;
+      padding: 0 2rem;
+      display: flex;
+      align-items: center;
+      gap: 1.5rem;
+      height: 56px;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      border-bottom: 2px solid var(--gold);
+    }
+    .header-logo {
+      font-family: 'Libre Baskerville', serif;
+      font-size: 1.05rem;
+      font-weight: 700;
+      letter-spacing: .02em;
+      white-space: nowrap;
+      color: #fff;
+    }
+    .header-logo span { color: var(--gold); }
+    .header-subtitle {
+      font-size: .72rem;
+      color: rgba(255,255,255,.45);
+      letter-spacing: .08em;
+      text-transform: uppercase;
+      border-left: 1px solid rgba(255,255,255,.18);
+      padding-left: 1.25rem;
+    }
+    .header-updated {
+      margin-left: auto;
+      font-size: .7rem;
+      color: rgba(255,255,255,.4);
+      letter-spacing: .04em;
+    }
+    .tabs-bar {
+      background: var(--bg-card);
+      border-bottom: 1px solid var(--rule);
+      padding: 0 2rem;
+      display: flex;
+      gap: 0;
+    }
+    .tab-btn {
+      padding: .85rem 1.5rem;
+      font-size: .82rem;
+      font-weight: 500;
+      letter-spacing: .04em;
+      text-transform: uppercase;
+      color: var(--ink-mute);
+      border-bottom: 2px solid transparent;
+      transition: color .15s, border-color .15s;
+    }
+    .tab-btn.active { color: var(--accent); border-bottom-color: var(--accent); }
+    .tab-btn:hover:not(.active) { color: var(--ink-soft); }
+    .tab-panel { display: none; }
+    .tab-panel.active { display: block; }
+    .toolbar {
+      max-width: 1140px;
+      margin: 1.5rem auto 0;
+      padding: 0 2rem;
+      display: flex;
+      align-items: center;
+      gap: .75rem;
+      flex-wrap: wrap;
+    }
+    .filter-label {
+      font-size: .72rem;
+      text-transform: uppercase;
+      letter-spacing: .08em;
+      color: var(--ink-mute);
+      margin-right: .25rem;
+    }
+    .chip {
+      display: inline-flex;
+      align-items: center;
+      gap: .35rem;
+      padding: .32rem .75rem;
+      border-radius: 99px;
+      font-size: .75rem;
+      font-weight: 500;
+      border: 1.5px solid var(--rule);
+      color: var(--ink-soft);
+      background: var(--bg-card);
+      transition: all .15s;
+    }
+    .chip.active, .chip:hover {
+      background: var(--accent);
+      border-color: var(--accent);
+      color: #fff;
+    }
+    .search-wrap { margin-left: auto; position: relative; }
+    .search-wrap input {
+      padding: .4rem .75rem .4rem 2rem;
+      border: 1.5px solid var(--rule);
+      border-radius: var(--radius);
+      background: var(--bg-card);
+      font-family: inherit;
+      font-size: .8rem;
+      color: var(--ink);
+      width: 220px;
+      outline: none;
+      transition: border-color .15s;
+    }
+    .search-wrap input:focus { border-color: var(--accent); }
+    .search-wrap::before {
+      content: '⌕';
+      position: absolute;
+      left: .6rem;
+      top: 50%;
+      transform: translateY(-50%);
+      font-size: 1rem;
+      color: var(--ink-mute);
+      pointer-events: none;
+    }
+    .feed-grid {
+      max-width: 1140px;
+      margin: 1.25rem auto 3rem;
+      padding: 0 2rem;
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+      gap: 1rem;
+    }
+    .card {
+      background: var(--bg-card);
+      border: 1px solid var(--rule);
+      border-radius: var(--radius);
+      padding: 1.1rem 1.25rem;
+      box-shadow: var(--shadow);
+      transition: transform .15s, box-shadow .15s;
+      cursor: pointer;
+      display: flex;
+      flex-direction: column;
+      gap: .55rem;
+    }
+    .card:hover { transform: translateY(-2px); box-shadow: 0 4px 20px rgba(0,0,0,.1); }
+    .card-meta { display: flex; align-items: center; gap: .5rem; }
+    .source-badge {
+      font-size: .65rem;
+      font-weight: 600;
+      letter-spacing: .06em;
+      text-transform: uppercase;
+      padding: .18rem .55rem;
+      border-radius: 2px;
+      color: #fff;
+    }
+    .card-date { font-size: .68rem; color: var(--ink-mute); margin-left: auto; }
+    .card-title {
+      font-family: 'Libre Baskerville', serif;
+      font-size: .88rem;
+      line-height: 1.45;
+      color: var(--ink);
+    }
+    .card-summary {
+      font-size: .76rem;
+      line-height: 1.55;
+      color: var(--ink-soft);
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+    .card-link { font-size: .7rem; color: var(--accent); letter-spacing: .02em; margin-top: auto; }
+    .card-link:hover { text-decoration: underline; }
+    .state-msg {
+      grid-column: 1 / -1;
+      text-align: center;
+      padding: 4rem 2rem;
+      color: var(--ink-mute);
+      font-size: .88rem;
+    }
+    .spinner {
+      display: inline-block;
+      width: 28px; height: 28px;
+      border: 2.5px solid var(--rule);
+      border-top-color: var(--accent);
+      border-radius: 50%;
+      animation: spin .7s linear infinite;
+      margin-bottom: .75rem;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    .legis-container { max-width: 1100px; margin: 2rem auto 4rem; padding: 0 2rem; }
+    .legis-intro {
+      font-size: .82rem;
+      color: var(--ink-soft);
+      margin-bottom: 1.5rem;
+      line-height: 1.6;
+      max-width: 680px;
+    }
+    .legis-intro strong { color: var(--ink); }
+    .legis-filters { display: flex; gap: .5rem; flex-wrap: wrap; margin-bottom: 1.25rem; }
+    .status-chip {
+      padding: .28rem .75rem;
+      border-radius: 99px;
+      font-size: .72rem;
+      font-weight: 600;
+      letter-spacing: .04em;
+      text-transform: uppercase;
+      border: 1.5px solid transparent;
+      cursor: pointer;
+      transition: all .15s;
+    }
+    .status-chip.all        { background: var(--ink); color: #fff; }
+    .status-chip.en-vigueur { background: var(--green); color: #fff; }
+    .status-chip.adopte     { background: #2874a6; color: #fff; }
+    .status-chip.nego       { background: var(--orange); color: #fff; }
+    .status-chip.proposition{ background: var(--gold); color: #fff; }
+    .status-chip.inactive   { background: transparent; color: var(--ink-mute); border-color: var(--rule); }
+    .legis-table-wrap {
+      overflow-x: auto;
+      border: 1px solid var(--rule);
+      border-radius: var(--radius);
+      background: var(--bg-card);
+      box-shadow: var(--shadow);
+    }
+    table { width: 100%; border-collapse: collapse; font-size: .82rem; }
+    thead tr { background: var(--ink); color: #fff; }
+    th { padding: .7rem 1rem; text-align: left; font-size: .68rem; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; }
+    tbody tr { border-bottom: 1px solid var(--rule); transition: background .1s; }
+    tbody tr:last-child { border-bottom: none; }
+    tbody tr:hover { background: var(--bg); }
+    td { padding: .85rem 1rem; vertical-align: top; line-height: 1.45; }
+    td:first-child { font-family: 'Libre Baskerville', serif; font-weight: 700; font-size: .84rem; white-space: nowrap; }
+    .status-pill {
+      display: inline-block;
+      padding: .22rem .65rem;
+      border-radius: 2px;
+      font-size: .65rem;
+      font-weight: 700;
+      letter-spacing: .06em;
+      text-transform: uppercase;
+      white-space: nowrap;
+    }
+    .s-en-vigueur { background: #d4edda; color: var(--green); }
+    .s-adopte     { background: #d6eaf8; color: #1a5276; }
+    .s-nego       { background: #fde8d8; color: var(--orange); }
+    .s-proposition{ background: var(--gold-lt); color: #7d6514; }
+    .s-revision   { background: #f5e6ff; color: #6c3483; }
+    td.desc { color: var(--ink-soft); font-size: .78rem; }
+    td.date-cell { color: var(--ink-mute); font-size: .76rem; white-space: nowrap; }
+    .ref-link { font-size: .7rem; color: var(--accent); }
+    .ref-link:hover { text-decoration: underline; }
+    footer { text-align: center; padding: 1.5rem; font-size: .7rem; color: var(--ink-mute); border-top: 1px solid var(--rule); letter-spacing: .04em; }
+    @media (max-width: 640px) {
+      .header-subtitle { display: none; }
+      .tabs-bar { padding: 0 1rem; }
+      .toolbar, .feed-grid, .legis-container { padding: 0 1rem; }
+      .tab-btn { padding: .75rem .9rem; font-size: .75rem; }
+      .search-wrap input { width: 160px; }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="header-logo">Veille<span>.</span>Numérique</div>
+  <div class="header-subtitle">Droit du numérique &amp; régulation européenne</div>
+  <div class="header-updated" id="lastUpdated"></div>
+</header>
+
+<div class="tabs-bar">
+  <button class="tab-btn active" data-tab="actualites">Actualités institutionnelles</button>
+  <button class="tab-btn" data-tab="textes">Textes législatifs</button>
+</div>
+
+<div id="tab-actualites" class="tab-panel active">
+  <div class="toolbar">
+    <span class="filter-label">Source :</span>
+    <button class="chip active" data-filter="all">Toutes</button>
+    <button class="chip" data-filter="cnil">
