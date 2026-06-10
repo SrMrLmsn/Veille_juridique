@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-10T08:57:48.796775+00:00",
+  "updated": "2026-06-10T12:32:01.108595+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -27,6 +27,30 @@
     }
   },
   "items": [
+    {
+      "title": "EDPB meets with EU Commissioner McGrath and adopts common data breach notification template",
+      "link": "https://www.edpb.europa.eu/news/news/2026/edpb-meets-eu-commissioner-mcgrath-and-adopts-common-data-breach-notification_en",
+      "date": "2026-06-10T12:00:00+00:00",
+      "summary": "<p>Brussels, 10 June – During its latest plenary, the EDPB met with Michael McGrath, Commissioner for Democracy, Justice, the Rule of Law and Consumer Protection. In addition, the Board has adopted a <a href=\"https://www.edpb.europa.eu/our-work-tools/our-documents/other/template-personal-data-breach",
+      "source_id": "edpb",
+      "source_name": "EDPB"
+    },
+    {
+      "title": "Commission publishes Code of Practice on marking and labelling AI-generated content",
+      "link": "https://digital-strategy.ec.europa.eu/en/news/commission-publishes-code-practice-marking-and-labelling-ai-generated-content",
+      "date": "2026-06-10T11:13:20+00:00",
+      "summary": "<span>Commission publishes Code of Practice on marking and labelling AI-generated content</span>\n<span><span>marsrgi</span></span>\n<span><time datetime=\"2026-06-10T13:13:20+02:00\" title=\"Wednesday, June 10, 2026 - 13:13\">Wed, 06/10/2026 - 13:13</time>\n</span>\n\n<div>\n  <div class=\"cnt-thumbnail-media",
+      "source_id": "commission",
+      "source_name": "Commission européenne"
+    },
+    {
+      "title": "Info session - Code of practice for transparency of AI-generated content & signature process",
+      "link": "https://digital-strategy.ec.europa.eu/en/events/info-session-code-practice-transparency-ai-generated-content-signature-process",
+      "date": "2026-06-10T07:58:00+00:00",
+      "summary": "<span>Info session - Code of practice for transparency of AI-generated content &amp; signature process</span>\n<span><span>marsrgi</span></span>\n<span><time datetime=\"2026-06-10T09:58:00+02:00\" title=\"Wednesday, June 10, 2026 - 09:58\">Wed, 06/10/2026 - 09:58</time>\n</span>\n\n<div>\n  <div class=\"cnt-th",
+      "source_id": "commission",
+      "source_name": "Commission européenne"
+    },
     {
       "title": "Bulletin d'actualité CERTFR-2026-ACT-025 (08 juin 2026)",
       "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-025/",
@@ -324,14 +348,6 @@
       "source_name": "CNIL"
     },
     {
-      "title": "Commission fines Temu €200 million for breaching the Digital Services Act",
-      "link": "https://digital-strategy.ec.europa.eu/en/news/commission-fines-temu-eu200-million-breaching-digital-services-act",
-      "date": "2026-05-28T10:12:30+00:00",
-      "summary": "<span>Commission fines Temu €200 million for breaching the Digital Services Act</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-05-28T12:12:30+02:00\" title=\"Thursday, May 28, 2026 - 12:12\">Thu, 05/28/2026 - 12:12</time>\n</span>\n\n<div>\n  <div class=\"cnt-thumbnail-",
-      "source_id": "commission",
-      "source_name": "Commission européenne"
-    },
-    {
       "title": "« IA générative et vie privée » : une affiche coproduite par la PIPC et la CNIL pour sensibiliser les utilisateurs d’IA à la protection de leurs données",
       "link": "https://www.cnil.fr/fr/ia-generative-et-vie-privee-affiche-coproduite-pipc-cnil",
       "date": "2026-05-27T12:00:00+00:00",
@@ -346,14 +362,6 @@
       "summary": "Régulièrement, la CNIL communique sur des violations de données typiques inspirées d’incidents réels qui lui sont notifiés. Cette publication a pour objectif de permettre à tous les professionnels de comprendre et de prévenir les risques d’accès à des données détenues par les sous-traitants.",
       "source_id": "cnil",
       "source_name": "CNIL"
-    },
-    {
-      "title": "Call for Tenders: Development, consultancy and support for a data altruism consent management system",
-      "link": "https://digital-strategy.ec.europa.eu/en/funding/call-tenders-development-consultancy-and-support-data-altruism-consent-management-system",
-      "date": "2026-05-27T08:40:00+00:00",
-      "summary": "<span>Call for Tenders: Development, consultancy and support for a data altruism consent management system</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-05-27T10:40:00+02:00\" title=\"Wednesday, May 27, 2026 - 10:40\">Wed, 05/27/2026 - 10:40</time>\n</span>\n\n<div>",
-      "source_id": "commission",
-      "source_name": "Commission européenne"
     },
     {
       "title": "Recherche en santé : la CNIL met à jour et élargit le champ des méthodologies de référence 001 et 003",
@@ -456,14 +464,6 @@
       "link": "https://www.edpb.europa.eu/news/news/2026/cef-2026-edpb-launches-coordinated-enforcement-action-transparency-and-information_en",
       "date": "2026-03-19T12:00:00+00:00",
       "summary": "<p>Brussels, 19 March - The EDPB has launched its Coordinated Enforcement Framework (CEF) action for 2026*. Following a year-long <a href=\"https://www.edpb.europa.eu/news/news/2025/cef-2025-launch-coordinated-enforcement-right-erasure_en\" target=\"_blank\">coordinated action on the right to erasure in",
-      "source_id": "edpb",
-      "source_name": "EDPB"
-    },
-    {
-      "title": "EDPB and EDPS support harmonisation of clinical trials under European Biotech Act, but call for specific safeguards for sensitive health data",
-      "link": "https://www.edpb.europa.eu/news/news/2026/edpb-and-edps-support-harmonisation-clinical-trials-under-european-biotech-act-call_en",
-      "date": "2026-03-12T12:00:00+00:00",
-      "summary": "<p>Brussels, 12 March 2026 – The European Data Protection Board (EDPB) and the European Data Protection Supervisor (EDPS) have adopted a <a href=\"https://www.edpb.europa.eu/our-work-tools/our-documents/edpbedps-joint-opinion/edpb-edps-joint-opinion-32026-proposal-european_en\">Joint Opinion on the Eu",
       "source_id": "edpb",
       "source_name": "EDPB"
     }
