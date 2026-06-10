@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-10T12:32:01.108595+00:00",
+  "updated": "2026-06-10T16:36:06.113174+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -28,6 +28,22 @@
   },
   "items": [
     {
+      "title": "Le CEPD rencontre le commissaire européen McGrath et adopte un modèle commun de notification des violations de données",
+      "link": "https://www.cnil.fr/fr/le-cepd-rencontre-le-commissaire-europeen-mcgrath-et-adopte-un-modele-commun-de-notification-des",
+      "date": "2026-06-10T12:00:00+00:00",
+      "summary": "Lors de sa dernière session plénière, le CEPD a rencontré Michael McGrath, commissaire européen chargé de la démocratie, de la justice, de l'État de droit et de la protection des consommateurs. Par ailleurs, le CEPD a adopté un&amp;nbsp;modèle commun de notification des violations de données.",
+      "source_id": "cnil",
+      "source_name": "CNIL"
+    },
+    {
+      "title": "Communications par voie électronique aux prospects et clients : quelles règles respecter ?",
+      "link": "https://www.cnil.fr/fr/communication-electronique-quelles-regles",
+      "date": "2026-06-10T12:00:00+00:00",
+      "summary": "Prospection commerciale, messages d’information… les entreprises échangent régulièrement avec leurs prospects et leurs clients. Selon les cas, les personnes doivent soit donner leur accord préalable, soit pouvoir s’opposer facilement.",
+      "source_id": "cnil",
+      "source_name": "CNIL"
+    },
+    {
       "title": "EDPB meets with EU Commissioner McGrath and adopts common data breach notification template",
       "link": "https://www.edpb.europa.eu/news/news/2026/edpb-meets-eu-commissioner-mcgrath-and-adopts-common-data-breach-notification_en",
       "date": "2026-06-10T12:00:00+00:00",
@@ -52,6 +68,110 @@
       "source_name": "Commission européenne"
     },
     {
+      "title": "Multiples vulnérabilités dans les produits Fortinet (10 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0725/",
+      "date": "2026-06-10T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à la confidentialité des données.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans les VPN Check Point (09 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0711/",
+      "date": "2026-06-09T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les VPN Check Point. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité. Check Point indique que la vulnérabilité CVE-2026-50751 est activement exploitée. La vulnérabilité CVE-2026-50751 affecte les...",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans les produits SAP (09 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0715/",
+      "date": "2026-06-09T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits SAP. Certaines d'entre elles permettent à un attaquant de provoquer une injection SQL (SQLi), une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Vulnérabilité dans CPython (09 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0704/",
+      "date": "2026-06-09T00:00:00+00:00",
+      "summary": "Une vulnérabilité a été découverte dans CPython. Elle permet à un attaquant de provoquer un déni de service à distance.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Vulnérabilité dans strongSwan (09 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0709/",
+      "date": "2026-06-09T00:00:00+00:00",
+      "summary": "Une vulnérabilité a été découverte dans strongSwan. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans les produits Spring (09 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0705/",
+      "date": "2026-06-09T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Spring. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Vulnérabilité dans les produits Schneider Electric EcoStruxure IT Data Center Expert (09 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0713/",
+      "date": "2026-06-09T00:00:00+00:00",
+      "summary": "Une vulnérabilité a été découverte dans les produits Schneider Electric EcoStruxure IT Data Center Expert. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Vulnérabilité dans Veeam Backup & Replication (09 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0712/",
+      "date": "2026-06-09T00:00:00+00:00",
+      "summary": "Une vulnérabilité a été découverte dans Veeam Backup & Replication. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans les produits Siemens (09 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0714/",
+      "date": "2026-06-09T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Siemens. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Vulnérabilité dans Moodle (09 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0707/",
+      "date": "2026-06-09T00:00:00+00:00",
+      "summary": "Une vulnérabilité a été découverte dans Moodle. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. Le greffon Socialwall doit être désactivé voire désinstallé.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans Google Chrome (09 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0708/",
+      "date": "2026-06-09T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. Google indique que la vulnérabilité CVE-2026-11645 est activement exploitée.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans Apache HTTP Server (09 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0710/",
+      "date": "2026-06-09T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Apache HTTP Server. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une injection de code indirecte à distance (XSS).",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans Apereo CAS (09 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0706/",
+      "date": "2026-06-09T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Apereo CAS. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
       "title": "Bulletin d'actualité CERTFR-2026-ACT-025 (08 juin 2026)",
       "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-025/",
       "date": "2026-06-08T00:00:00+00:00",
@@ -64,6 +184,30 @@
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0701/",
       "date": "2026-06-08T00:00:00+00:00",
       "summary": "De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Vulnérabilité dans Laravel (08 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0703/",
+      "date": "2026-06-08T00:00:00+00:00",
+      "summary": "Une vulnérabilité a été découverte dans Laravel. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans Microsoft Edge (08 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0700/",
+      "date": "2026-06-08T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans Spring Micrometer (08 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0702/",
+      "date": "2026-06-08T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Spring Micrometer. Elles permettent à un attaquant de provoquer un déni de service à distance.",
       "source_id": "anssi",
       "source_name": "ANSSI"
     },
@@ -92,14 +236,6 @@
       "source_name": "ANSSI"
     },
     {
-      "title": "Multiples vulnérabilités dans Google Chrome (05 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0692/",
-      "date": "2026-06-05T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
       "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (05 juin 2026)",
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0697/",
       "date": "2026-06-05T00:00:00+00:00",
@@ -108,26 +244,10 @@
       "source_name": "ANSSI"
     },
     {
-      "title": "Multiples vulnérabilités dans CPython (05 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0691/",
-      "date": "2026-06-05T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans CPython. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données, un contournement de la politique de sécurité et un déni de service.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
       "title": "Multiples vulnérabilités dans le noyau Linux de Debian LTS (05 juin 2026)",
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0696/",
       "date": "2026-06-05T00:00:00+00:00",
       "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian LTS. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Traefik (05 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0690/",
-      "date": "2026-06-05T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Traefik. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.",
       "source_id": "anssi",
       "source_name": "ANSSI"
     },
@@ -162,38 +282,6 @@
       "summary": "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 4 juin 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
       "source_id": "cnil",
       "source_name": "CNIL"
-    },
-    {
-      "title": "Vulnérabilité dans les produits Cisco (04 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0689/",
-      "date": "2026-06-04T00:00:00+00:00",
-      "summary": "Une vulnérabilité a été découverte dans les produits Cisco. Elle permet à un attaquant de provoquer une falsification de requêtes côté serveur (SSRF).",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans les produits NetApp (04 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0686/",
-      "date": "2026-06-04T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits NetApp. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Synology Chat Server pour DSM (04 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0687/",
-      "date": "2026-06-04T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Synology Chat Server pour DSM. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans FreeRadius (04 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0688/",
-      "date": "2026-06-04T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans FreeRadius. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un problème de sécurité non spécifié par l'éditeur.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
     },
     {
       "title": "Proposal for the Cloud and AI Development Act (CADA)",
@@ -236,76 +324,12 @@
       "source_name": "Commission européenne"
     },
     {
-      "title": "Multiples vulnérabilités dans Microsoft Azure Linux (03 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0685/",
-      "date": "2026-06-03T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Azure Linux. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Mozilla Firefox (03 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0684/",
-      "date": "2026-06-03T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Mozilla Firefox. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Vulnérabilité dans HPE Aruba Networking AOS-CX (03 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0683/",
-      "date": "2026-06-03T00:00:00+00:00",
-      "summary": "Une vulnérabilité a été découverte dans HPE Aruba Networking AOS-CX. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Vulnérabilité dans les produits Laravel (03 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0682/",
-      "date": "2026-06-03T00:00:00+00:00",
-      "summary": "Une vulnérabilité a été découverte dans les produits Laravel. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
       "title": "Apply AI Webinar on AI for Cultural, Creative and Media Sectors",
       "link": "https://digital-strategy.ec.europa.eu/en/events/apply-ai-webinar-ai-cultural-creative-and-media-sectors",
       "date": "2026-06-02T10:29:48+00:00",
       "summary": "<span>Apply AI Webinar on AI for Cultural, Creative and Media Sectors</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-06-02T12:29:48+02:00\" title=\"Tuesday, June 2, 2026 - 12:29\">Tue, 06/02/2026 - 12:29</time>\n</span>\n\n<div>\n  <div class=\"cnt-thumbnail-media ecl-u",
       "source_id": "commission",
       "source_name": "Commission européenne"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Google Android (02 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0679/",
-      "date": "2026-06-02T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Google Android. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données. Google indique que la vulnérabilité...",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans les produits Microsoft (02 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0681/",
-      "date": "2026-06-02T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un problème de sécurité non spécifié par l'éditeur.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Vulnérabilité dans Apache Kafka (02 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0678/",
-      "date": "2026-06-02T00:00:00+00:00",
-      "summary": "Une vulnérabilité a été découverte dans Apache Kafka. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Microsoft Edge (02 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0680/",
-      "date": "2026-06-02T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
     },
     {
       "title": "Targeted consultation: draft guidelines on trusted flaggers under the Digital Services Act (DSA)",
@@ -372,36 +396,12 @@
       "source_name": "CNIL"
     },
     {
-      "title": "Ordre du jour de la séance plénière du 21 mai 2026",
-      "link": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-21-mai-2026",
-      "date": "2026-05-21T12:00:00+00:00",
-      "summary": "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 21 mai 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
-      "source_id": "cnil",
-      "source_name": "CNIL"
-    },
-    {
-      "title": "Rapport annuel : le bilan et les actions marquantes de la CNIL en 2025",
-      "link": "https://www.cnil.fr/fr/rapport-annuel-2025",
-      "date": "2026-05-18T12:00:00+00:00",
-      "summary": "Accompagnement des professionnels, contrôle de leurs pratiques, sensibilisation du public, mais aussi régulation de l’IA, cybersécurité et coopération européenne… la CNIL fait le bilan d’une année 2025 intense, au service de la protection des données personnelles et de la vie privée de tous.",
-      "source_id": "cnil",
-      "source_name": "CNIL"
-    },
-    {
       "title": "Europe Day 2026: let’s celebrate together",
       "link": "https://www.edpb.europa.eu/news/news/2026/europe-day-2026-lets-celebrate-together_en",
       "date": "2026-05-05T12:00:00+00:00",
       "summary": "<p>Brussels, 5 May – On 9 May each year, Europeans celebrate the anniversary of the Schuman Declaration, the key moment which led to the creation of the EU as we know it today. To mark this special occasion, the European institutions will open their doors to the public on <strong>9 May 2026</strong>",
       "source_id": "edpb",
       "source_name": "EDPB"
-    },
-    {
-      "title": "Multiples vulnérabilités dans MISP (30 avril 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0515/",
-      "date": "2026-04-30T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans MISP. Elles permettent à un attaquant de provoquer une élévation de privilèges, une injection SQL (SQLi) et un contournement de la politique de sécurité.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
     },
     {
       "title": "Marking 10 years of the GDPR: the evolution of the European data protection landscape",
