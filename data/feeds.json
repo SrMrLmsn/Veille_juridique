@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-12T12:54:53.344398+00:00",
+  "updated": "2026-06-12T16:19:57.672562+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -48,6 +48,14 @@
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0734/",
       "date": "2026-06-11T00:00:00+00:00",
       "summary": "De multiples vulnérabilités ont été découvertes dans les produits Palo Alto Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans les produits Microsoft (11 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0737/",
+      "date": "2026-06-11T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
       "source_id": "anssi",
       "source_name": "ANSSI"
     },
@@ -216,14 +224,6 @@
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0730/",
       "date": "2026-06-10T00:00:00+00:00",
       "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Azure. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans les VPN Check Point (09 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0711/",
-      "date": "2026-06-09T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les VPN Check Point. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité. Check Point indique que la vulnérabilité CVE-2026-50751 est activement exploitée. La vulnérabilité CVE-2026-50751 affecte les...",
       "source_id": "anssi",
       "source_name": "ANSSI"
     },
