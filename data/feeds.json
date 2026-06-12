@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-12T05:14:38.410564+00:00",
+  "updated": "2026-06-12T09:42:39.910081+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -27,6 +27,14 @@
     }
   },
   "items": [
+    {
+      "title": "Coordinated Supervision Committee extends scope to include Eurodac",
+      "link": "https://www.edpb.europa.eu/news/news/2026/coordinated-supervision-committee-extends-scope-include-eurodac_en",
+      "date": "2026-06-12T12:00:00+00:00",
+      "summary": "<p>Brussels, 12 June – As of today, coordinated supervision of the <strong>European Union’s asylum and migration database (Eurodac) </strong>will be carried out by the Coordinated Supervision Committee (CSC). Eurodac is an information system initially designed to compare the<strong> fingerprints of",
+      "source_id": "edpb",
+      "source_name": "EDPB"
+    },
     {
       "title": "Le CEPD rencontre le commissaire européen McGrath et adopte un modèle commun de notification des violations de données",
       "link": "https://www.cnil.fr/fr/le-cepd-rencontre-le-commissaire-europeen-mcgrath-et-adopte-un-modele-commun-de-notification-des",
@@ -456,14 +464,6 @@
       "link": "https://www.edpb.europa.eu/news/news/2026/edpb-and-edps-support-strengthening-eus-cybersecurity-and-easing-compliance-while_en",
       "date": "2026-03-19T12:00:00+00:00",
       "summary": "<p>Brussels, 19 March 2026 – The European Data Protection Board (EDPB) and the European Data Protection Supervisor (EDPS) have adopted a <a href=\"https://www.edpb.europa.eu/our-work-tools/our-documents/edpbedps-joint-opinion/edpb-edps-joint-opinion-42026-proposal_en\" target=\"_blank\">Joint Opinion on",
-      "source_id": "edpb",
-      "source_name": "EDPB"
-    },
-    {
-      "title": "CEF 2026: EDPB launches coordinated enforcement action on transparency and information obligations under the GDPR",
-      "link": "https://www.edpb.europa.eu/news/news/2026/cef-2026-edpb-launches-coordinated-enforcement-action-transparency-and-information_en",
-      "date": "2026-03-19T12:00:00+00:00",
-      "summary": "<p>Brussels, 19 March - The EDPB has launched its Coordinated Enforcement Framework (CEF) action for 2026*. Following a year-long <a href=\"https://www.edpb.europa.eu/news/news/2025/cef-2025-launch-coordinated-enforcement-right-erasure_en\" target=\"_blank\">coordinated action on the right to erasure in",
       "source_id": "edpb",
       "source_name": "EDPB"
     }
