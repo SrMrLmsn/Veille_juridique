@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13T23:06:35.206679+00:00",
+  "updated": "2026-06-14T01:55:20.351745+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -17,16 +17,24 @@
       "name": "EDPB",
       "country": "EU",
       "color": "#003399",
-      "count": 0
+      "count": 10
     },
     "commission": {
       "name": "Commission européenne",
       "country": "EU",
       "color": "#9a7e00",
-      "count": 0
+      "count": 10
     }
   },
   "items": [
+    {
+      "title": "Coordinated Supervision Committee extends scope to include Eurodac",
+      "link": "https://www.edpb.europa.eu/news/news/2026/coordinated-supervision-committee-extends-scope-include-eurodac_en",
+      "date": "2026-06-12T12:00:00+00:00",
+      "summary": "<p>Brussels, 12 June – As of today, coordinated supervision of the <strong>European Union’s asylum and migration database (Eurodac) </strong>will be carried out by the Coordinated Supervision Committee (CSC). Eurodac is an information system initially designed to compare the<strong> fingerprints of",
+      "source_id": "edpb",
+      "source_name": "EDPB"
+    },
     {
       "title": "Multiples vulnérabilités dans MongoDB (11 juin 2026)",
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0735/",
@@ -66,6 +74,30 @@
       "summary": "Prospection commerciale, messages d’information… les entreprises échangent régulièrement avec leurs prospects et leurs clients. Selon les cas, les personnes doivent soit donner leur accord préalable, soit pouvoir s’opposer facilement.",
       "source_id": "cnil",
       "source_name": "CNIL"
+    },
+    {
+      "title": "EDPB meets with EU Commissioner McGrath and adopts common data breach notification template",
+      "link": "https://www.edpb.europa.eu/news/news/2026/edpb-meets-eu-commissioner-mcgrath-and-adopts-common-data-breach-notification_en",
+      "date": "2026-06-10T12:00:00+00:00",
+      "summary": "<p>Brussels, 10 June – During its latest plenary, the EDPB met with Michael McGrath, Commissioner for Democracy, Justice, the Rule of Law and Consumer Protection. In addition, the Board has adopted a <a href=\"https://www.edpb.europa.eu/our-work-tools/our-documents/other/template-personal-data-breach",
+      "source_id": "edpb",
+      "source_name": "EDPB"
+    },
+    {
+      "title": "Commission publishes Code of Practice on marking and labelling AI-generated content",
+      "link": "https://digital-strategy.ec.europa.eu/en/news/commission-publishes-code-practice-marking-and-labelling-ai-generated-content",
+      "date": "2026-06-10T11:13:20+00:00",
+      "summary": "<span>Commission publishes Code of Practice on marking and labelling AI-generated content</span>\n<span><span>marsrgi</span></span>\n<span><time datetime=\"2026-06-10T13:13:20+02:00\" title=\"Wednesday, June 10, 2026 - 13:13\">Wed, 06/10/2026 - 13:13</time>\n</span>\n\n<div>\n  <div class=\"cnt-thumbnail-media",
+      "source_id": "commission",
+      "source_name": "Commission européenne"
+    },
+    {
+      "title": "Info session - Code of practice for transparency of AI-generated content & signature process",
+      "link": "https://digital-strategy.ec.europa.eu/en/events/info-session-code-practice-transparency-ai-generated-content-signature-process",
+      "date": "2026-06-10T07:58:00+00:00",
+      "summary": "<span>Info session - Code of practice for transparency of AI-generated content &amp; signature process</span>\n<span><span>marsrgi</span></span>\n<span><time datetime=\"2026-06-10T09:58:00+02:00\" title=\"Wednesday, June 10, 2026 - 09:58\">Wed, 06/10/2026 - 09:58</time>\n</span>\n\n<div>\n  <div class=\"cnt-th",
+      "source_id": "commission",
+      "source_name": "Commission européenne"
     },
     {
       "title": "Multiples vulnérabilités dans les produits Fortinet (10 juin 2026)",
@@ -228,6 +260,14 @@
       "source_name": "ANSSI"
     },
     {
+      "title": "EDIH Summit 2026: Strengthening the AI Innovation Ecosystem",
+      "link": "https://digital-strategy.ec.europa.eu/en/events/edih-summit-2026-strengthening-ai-innovation-ecosystem",
+      "date": "2026-06-05T14:40:17+00:00",
+      "summary": "<span>EDIH Summit 2026: Strengthening the AI Innovation Ecosystem</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-06-05T16:40:17+02:00\" title=\"Friday, June 5, 2026 - 16:40\">Fri, 06/05/2026 - 16:40</time>\n</span>\n\n<div>\n  <div class=\"cnt-thumbnail-media ecl-u-type",
+      "source_id": "commission",
+      "source_name": "Commission européenne"
+    },
+    {
       "title": "Vulnérabilité dans Cisco Catalyst SD-WAN (05 juin 2026)",
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0699/",
       "date": "2026-06-05T00:00:00+00:00",
@@ -242,6 +282,62 @@
       "summary": "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 4 juin 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
       "source_id": "cnil",
       "source_name": "CNIL"
+    },
+    {
+      "title": "Proposal for the Cloud and AI Development Act (CADA)",
+      "link": "https://digital-strategy.ec.europa.eu/en/library/proposal-cloud-and-ai-development-act-cada",
+      "date": "2026-06-03T09:02:00+00:00",
+      "summary": "<span>Proposal for the Cloud and AI Development Act (CADA)</span>\n<span><span>dumimar</span></span>\n<span><time datetime=\"2026-06-03T11:02:00+02:00\" title=\"Wednesday, June 3, 2026 - 11:02\">Wed, 06/03/2026 - 11:02</time>\n</span>\n\n<div>\n  <div class=\"cnt-thumbnail-media ecl-u-type-m cnt-content-wrappe",
+      "source_id": "commission",
+      "source_name": "Commission européenne"
+    },
+    {
+      "title": "Commission proposes tech sovereignty package to strengthen Europe's digital autonomy and resilience",
+      "link": "https://digital-strategy.ec.europa.eu/en/news/commission-proposes-tech-sovereignty-package-strengthen-europes-digital-autonomy-and-resilience",
+      "date": "2026-06-03T09:01:00+00:00",
+      "summary": "<span>Commission proposes tech sovereignty package to strengthen Europe's digital autonomy and resilience</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-06-03T11:01:00+02:00\" title=\"Wednesday, June 3, 2026 - 11:01\">Wed, 06/03/2026 - 11:01</time>\n</span>\n\n<div>",
+      "source_id": "commission",
+      "source_name": "Commission européenne"
+    },
+    {
+      "title": "Proposal for the Chips Act 2.0",
+      "link": "https://digital-strategy.ec.europa.eu/en/library/proposal-chips-act-20",
+      "date": "2026-06-03T08:30:00+00:00",
+      "summary": "<span>Proposal for the Chips Act 2.0</span>\n<span><span>dumimar</span></span>\n<span><time datetime=\"2026-06-03T10:30:00+02:00\" title=\"Wednesday, June 3, 2026 - 10:30\">Wed, 06/03/2026 - 10:30</time>\n</span>\n\n<div>\n  <div class=\"cnt-thumbnail-media ecl-u-type-m cnt-content-wrapper\">",
+      "source_id": "commission",
+      "source_name": "Commission européenne"
+    },
+    {
+      "title": "Communication on European Tech Sovereignty, accompanied by an EU Open Source Strategy",
+      "link": "https://digital-strategy.ec.europa.eu/en/library/communication-european-tech-sovereignty-accompanied-eu-open-source-strategy",
+      "date": "2026-06-03T08:19:00+00:00",
+      "summary": "<span>Communication on European Tech Sovereignty, accompanied by an EU Open Source Strategy</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-06-03T10:19:00+02:00\" title=\"Wednesday, June 3, 2026 - 10:19\">Wed, 06/03/2026 - 10:19</time>\n</span>\n\n<div>\n  <div class=\"c",
+      "source_id": "commission",
+      "source_name": "Commission européenne"
+    },
+    {
+      "title": "European Commission survey: AI in healthcare and pharmaceuticals",
+      "link": "https://digital-strategy.ec.europa.eu/en/consultations/european-commission-survey-ai-healthcare-and-pharmaceuticals",
+      "date": "2026-06-03T07:24:18+00:00",
+      "summary": "<span>European Commission survey: AI in healthcare and pharmaceuticals</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-06-03T09:24:18+02:00\" title=\"Wednesday, June 3, 2026 - 09:24\">Wed, 06/03/2026 - 09:24</time>\n</span>\n\n<div>\n  <div class=\"cnt-thumbnail-media ec",
+      "source_id": "commission",
+      "source_name": "Commission européenne"
+    },
+    {
+      "title": "Apply AI Webinar on AI for Cultural, Creative and Media Sectors",
+      "link": "https://digital-strategy.ec.europa.eu/en/events/apply-ai-webinar-ai-cultural-creative-and-media-sectors",
+      "date": "2026-06-02T10:29:48+00:00",
+      "summary": "<span>Apply AI Webinar on AI for Cultural, Creative and Media Sectors</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-06-02T12:29:48+02:00\" title=\"Tuesday, June 2, 2026 - 12:29\">Tue, 06/02/2026 - 12:29</time>\n</span>\n\n<div>\n  <div class=\"cnt-thumbnail-media ecl-u",
+      "source_id": "commission",
+      "source_name": "Commission européenne"
+    },
+    {
+      "title": "Targeted consultation: draft guidelines on trusted flaggers under the Digital Services Act (DSA)",
+      "link": "https://digital-strategy.ec.europa.eu/en/consultations/targeted-consultation-draft-guidelines-trusted-flaggers-under-digital-services-act-dsa",
+      "date": "2026-05-29T08:00:00+00:00",
+      "summary": "<span>Targeted consultation: draft guidelines on trusted flaggers under the Digital Services Act (DSA)</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-05-29T10:00:00+02:00\" title=\"Friday, May 29, 2026 - 10:00\">Fri, 05/29/2026 - 10:00</time>\n</span>\n\n<div>\n  <div",
+      "source_id": "commission",
+      "source_name": "Commission européenne"
     },
     {
       "title": "Ordre du jour de la séance plénière du 28 mai 2026",
@@ -306,6 +402,70 @@
       "summary": "[Mise à jour du 11 juin 2026] Le 9 juin 2026, Microsoft a publié des versions correctives. [Publication initiale] Le 14 mai 2026, Microsoft a publié un avis de sécurité concernant la vulnérabilité CVE-2026-42897 affectant Exchange Server. Elle permet à un attaquant non authentifié de provoquer...",
       "source_id": "anssi",
       "source_name": "ANSSI"
+    },
+    {
+      "title": "Europe Day 2026: let’s celebrate together",
+      "link": "https://www.edpb.europa.eu/news/news/2026/europe-day-2026-lets-celebrate-together_en",
+      "date": "2026-05-05T12:00:00+00:00",
+      "summary": "<p>Brussels, 5 May – On 9 May each year, Europeans celebrate the anniversary of the Schuman Declaration, the key moment which led to the creation of the EU as we know it today. To mark this special occasion, the European institutions will open their doors to the public on <strong>9 May 2026</strong>",
+      "source_id": "edpb",
+      "source_name": "EDPB"
+    },
+    {
+      "title": "Marking 10 years of the GDPR: the evolution of the European data protection landscape",
+      "link": "https://www.edpb.europa.eu/news/news/2026/marking-10-years-gdpr-evolution-european-data-protection-landscape_en",
+      "date": "2026-04-27T12:00:00+00:00",
+      "summary": "<p>Brussels, 27 April – Today marks the 10th anniversary of the GDPR’s adoption, the first comprehensive data protection framework spanning an entire continent, establishing clear rights for individuals and obligations for organisations across Europe.</p>\n<h3>The moment that led to the creation of t",
+      "source_id": "edpb",
+      "source_name": "EDPB"
+    },
+    {
+      "title": "Stakeholder event on competition and data protection",
+      "link": "https://www.edpb.europa.eu/news/news/2026/stakeholder-event-competition-and-data-protection_en",
+      "date": "2026-04-23T12:00:00+00:00",
+      "summary": "<p>Brussels, 23 April – The EDPB is organising a remote stakeholder event in the context of its joint work with the European Commission on upcoming<strong> guidelines on the interplay between competition and data protection</strong>.&nbsp;</p>\n<p>The event is an opportunity for stakeholders to infor",
+      "source_id": "edpb",
+      "source_name": "EDPB"
+    },
+    {
+      "title": "EDPB brings clarity to data processing for scientific research, speeds up the finalisation of the anonymisation guidelines and approves first European data protection seal as a tool for transfers",
+      "link": "https://www.edpb.europa.eu/news/news/2026/edpb-brings-clarity-data-processing-scientific-research-speeds-finalisation_en",
+      "date": "2026-04-16T12:00:00+00:00",
+      "summary": "<p>Brussels, 16 April – During its latest plenary, the EDPB has adopted <a href=\"https://www.edpb.europa.eu/our-work-tools/documents/public-consultations/2026/guidelines-12026-processing-personal-data_en\">Guidelines on processing of personal data for scientific research purposes</a>. In addition, th",
+      "source_id": "edpb",
+      "source_name": "EDPB"
+    },
+    {
+      "title": "Enhancing compliance and consistency: EDPB adopts DPIA template",
+      "link": "https://www.edpb.europa.eu/news/news/2026/enhancing-compliance-and-consistency-edpb-adopts-dpia-template_en",
+      "date": "2026-04-14T12:00:00+00:00",
+      "summary": "<p>Brussels, 14 April - In line with the <a href=\"https://www.edpb.europa.eu/our-work-tools/our-documents/statements/helsinki-statement-enhanced-clarity-support-and-engagement_en\" target=\"_blank\">EDPB’s Helsinki Statement</a> to make GDPR compliance easier and strengthen consistency across Europe, t",
+      "source_id": "edpb",
+      "source_name": "EDPB"
+    },
+    {
+      "title": "EDPB annual report 2025: supporting stakeholders through guidance and dialogue",
+      "link": "https://www.edpb.europa.eu/news/news/2026/edpb-annual-report-2025-supporting-stakeholders-through-guidance-and-dialogue_en",
+      "date": "2026-04-09T12:00:00+00:00",
+      "summary": "<p>Brussels, 09 April - The European Data Protection Board (EDPB) has published its&nbsp;<a href=\"https://www.edpb.europa.eu/our-work-tools/our-documents/annual-report/edpb-annual-report-2025_en\">2025 Annual Report</a>. The report provides an overview of the EDPB work carried out in 2025 and reflect",
+      "source_id": "edpb",
+      "source_name": "EDPB"
+    },
+    {
+      "title": "EDPB conference on cross-regulatory cooperation: what we learned",
+      "link": "https://www.edpb.europa.eu/news/news/2026/edpb-conference-cross-regulatory-cooperation-what-we-learned_en",
+      "date": "2026-03-24T12:00:00+00:00",
+      "summary": "<p><span lang=\"EN-GB\">Brussels, 23 March - On 17 March 2026, the <strong>EDPB conference “Cross-regulatory interplay and cooperation in the EU: a data protection perspective”</strong> took place in Brussels. The event showcased high-level discussions, featuring contributions from representatives of",
+      "source_id": "edpb",
+      "source_name": "EDPB"
+    },
+    {
+      "title": "EDPB and EDPS support strengthening EU’s cybersecurity and easing compliance while protecting individuals’ personal data",
+      "link": "https://www.edpb.europa.eu/news/news/2026/edpb-and-edps-support-strengthening-eus-cybersecurity-and-easing-compliance-while_en",
+      "date": "2026-03-19T12:00:00+00:00",
+      "summary": "<p>Brussels, 19 March 2026 – The European Data Protection Board (EDPB) and the European Data Protection Supervisor (EDPS) have adopted a <a href=\"https://www.edpb.europa.eu/our-work-tools/our-documents/edpbedps-joint-opinion/edpb-edps-joint-opinion-42026-proposal_en\" target=\"_blank\">Joint Opinion on",
+      "source_id": "edpb",
+      "source_name": "EDPB"
     }
   ]
 }
