@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T16:34:56.426926+00:00",
+  "updated": "2026-06-18T19:30:10.410651+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -17,13 +17,13 @@
       "name": "EDPB",
       "country": "EU",
       "color": "#003399",
-      "count": 0
+      "count": 10
     },
     "commission": {
       "name": "Commission européenne",
       "country": "EU",
       "color": "#9a7e00",
-      "count": 0
+      "count": 10
     }
   },
   "items": [
@@ -34,6 +34,86 @@
       "summary": "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 18 juin 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
       "source_id": "cnil",
       "source_name": "CNIL"
+    },
+    {
+      "title": "2026 State of the Digital Decade report shows progress but urges closing structural gaps to reach 2030 goals",
+      "link": "https://digital-strategy.ec.europa.eu/en/news/2026-state-digital-decade-report-shows-progress-urges-closing-structural-gaps-reach-2030-goals",
+      "date": "2026-06-17T09:35:00+00:00",
+      "summary": "<span>2026 State of the Digital Decade report shows progress but urges closing structural gaps to reach 2030 goals</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-06-17T11:35:00+02:00\" title=\"Wednesday, June 17, 2026 - 11:35\">Wed, 06/17/2026 - 11:35</time>\n</span",
+      "source_id": "commission",
+      "source_name": "Commission européenne"
+    },
+    {
+      "title": "State of the Digital Decade 2026 - Factsheet",
+      "link": "https://digital-strategy.ec.europa.eu/en/library/state-digital-decade-2026-factsheet",
+      "date": "2026-06-17T08:22:00+00:00",
+      "summary": "<span>State of the Digital Decade 2026 - Factsheet</span>\n<span><span>dumimar</span></span>\n<span><time datetime=\"2026-06-17T10:22:00+02:00\" title=\"Wednesday, June 17, 2026 - 10:22\">Wed, 06/17/2026 - 10:22</time>\n</span>\n\n<div>\n  <div class=\"cnt-thumbnail-media ecl-u-type-m cnt-content-wrapper\">",
+      "source_id": "commission",
+      "source_name": "Commission européenne"
+    },
+    {
+      "title": "Digital Decade 2026 - Progress report on multi-country projects",
+      "link": "https://digital-strategy.ec.europa.eu/en/library/digital-decade-2026-progress-report-multi-country-projects",
+      "date": "2026-06-17T07:43:00+00:00",
+      "summary": "<span>Digital Decade 2026 - Progress report on multi-country projects</span>\n<span><span>dumimar</span></span>\n<span><time datetime=\"2026-06-17T09:43:00+02:00\" title=\"Wednesday, June 17, 2026 - 09:43\">Wed, 06/17/2026 - 09:43</time>\n</span>\n\n<div>\n  <div class=\"cnt-thumbnail-media ecl-u-type-m cnt-co",
+      "source_id": "commission",
+      "source_name": "Commission européenne"
+    },
+    {
+      "title": "Digital Decade 2026 - Monitoring of 2025 EU-level recommendations",
+      "link": "https://digital-strategy.ec.europa.eu/en/library/digital-decade-2026-monitoring-2025-eu-level-recommendations",
+      "date": "2026-06-17T07:22:00+00:00",
+      "summary": "<span>Digital Decade 2026 - Monitoring of 2025 EU-level recommendations</span>\n<span><span>dumimar</span></span>\n<span><time datetime=\"2026-06-17T09:22:00+02:00\" title=\"Wednesday, June 17, 2026 - 09:22\">Wed, 06/17/2026 - 09:22</time>\n</span>\n\n<div>\n  <div class=\"cnt-thumbnail-media ecl-u-type-m cnt-",
+      "source_id": "commission",
+      "source_name": "Commission européenne"
+    },
+    {
+      "title": "State of the Digital Decade 2026 - Closing structural gaps and mobilising investments for 2030 and beyond",
+      "link": "https://digital-strategy.ec.europa.eu/en/library/state-digital-decade-2026-closing-structural-gaps-and-mobilising-investments-2030-and-beyond",
+      "date": "2026-06-17T07:15:00+00:00",
+      "summary": "<span>State of the Digital Decade 2026 - Closing structural gaps and mobilising investments for 2030 and beyond</span>\n<span><span>dumimar</span></span>\n<span><time datetime=\"2026-06-17T09:15:00+02:00\" title=\"Wednesday, June 17, 2026 - 09:15\">Wed, 06/17/2026 - 09:15</time>\n</span>\n\n<div>\n  <div clas",
+      "source_id": "commission",
+      "source_name": "Commission européenne"
+    },
+    {
+      "title": "Digital Decade 2026 - DESI methodological note",
+      "link": "https://digital-strategy.ec.europa.eu/en/library/digital-decade-2026-desi-methodological-note",
+      "date": "2026-06-17T07:15:00+00:00",
+      "summary": "<span>Digital Decade 2026 - DESI methodological note</span>\n<span><span>dumimar</span></span>\n<span><time datetime=\"2026-06-17T09:15:00+02:00\" title=\"Wednesday, June 17, 2026 - 09:15\">Wed, 06/17/2026 - 09:15</time>\n</span>\n\n<div>\n  <div class=\"cnt-thumbnail-media ecl-u-type-m cnt-content-wrapper\">",
+      "source_id": "commission",
+      "source_name": "Commission européenne"
+    },
+    {
+      "title": "The 2026 Digital Decade eHealth Indicator Study",
+      "link": "https://digital-strategy.ec.europa.eu/en/library/2026-digital-decade-ehealth-indicator-study",
+      "date": "2026-06-17T07:15:00+00:00",
+      "summary": "<span>The 2026 Digital Decade eHealth Indicator Study</span>\n<span><span>dumimar</span></span>\n<span><time datetime=\"2026-06-17T09:15:00+02:00\" title=\"Wednesday, June 17, 2026 - 09:15\">Wed, 06/17/2026 - 09:15</time>\n</span>\n\n<div>\n  <div class=\"cnt-thumbnail-media ecl-u-type-m cnt-content-wrapper\">",
+      "source_id": "commission",
+      "source_name": "Commission européenne"
+    },
+    {
+      "title": "Digital Decade 2026 - 5G Observatory Report",
+      "link": "https://digital-strategy.ec.europa.eu/en/library/digital-decade-2026-5g-observatory-report",
+      "date": "2026-06-17T07:10:00+00:00",
+      "summary": "<span>Digital Decade 2026 - 5G Observatory Report</span>\n<span><span>dumimar</span></span>\n<span><time datetime=\"2026-06-17T09:10:00+02:00\" title=\"Wednesday, June 17, 2026 - 09:10\">Wed, 06/17/2026 - 09:10</time>\n</span>\n\n<div>\n  <div class=\"cnt-thumbnail-media ecl-u-type-m cnt-content-wrapper\">",
+      "source_id": "commission",
+      "source_name": "Commission européenne"
+    },
+    {
+      "title": "Digital Decade 2026 - Connectivity Coverage in Europe 2025 report",
+      "link": "https://digital-strategy.ec.europa.eu/en/library/digital-decade-2026-connectivity-coverage-europe-2025-report",
+      "date": "2026-06-17T07:10:00+00:00",
+      "summary": "<span>Digital Decade 2026 - Connectivity Coverage in Europe 2025 report</span>\n<span><span>dumimar</span></span>\n<span><time datetime=\"2026-06-17T09:10:00+02:00\" title=\"Wednesday, June 17, 2026 - 09:10\">Wed, 06/17/2026 - 09:10</time>\n</span>\n\n<div>\n  <div class=\"cnt-thumbnail-media ecl-u-type-m cnt-",
+      "source_id": "commission",
+      "source_name": "Commission européenne"
+    },
+    {
+      "title": "Digital Decade 2026: eGovernment Benchmark 2026",
+      "link": "https://digital-strategy.ec.europa.eu/en/library/digital-decade-2026-egovernment-benchmark-2026",
+      "date": "2026-06-17T07:07:00+00:00",
+      "summary": "<span>Digital Decade 2026: eGovernment Benchmark 2026</span>\n<span><span>dumimar</span></span>\n<span><time datetime=\"2026-06-17T09:07:00+02:00\" title=\"Wednesday, June 17, 2026 - 09:07\">Wed, 06/17/2026 - 09:07</time>\n</span>\n\n<div>\n  <div class=\"cnt-thumbnail-media ecl-u-type-m cnt-content-wrapper\">",
+      "source_id": "commission",
+      "source_name": "Commission européenne"
     },
     {
       "title": "Multiples vulnérabilités dans les produits Qnap (17 juin 2026)",
@@ -172,6 +252,14 @@
       "source_name": "ANSSI"
     },
     {
+      "title": "Coordinated Supervision Committee extends scope to include Eurodac",
+      "link": "https://www.edpb.europa.eu/news/news/2026/coordinated-supervision-committee-extends-scope-include-eurodac_en",
+      "date": "2026-06-12T12:00:00+00:00",
+      "summary": "<p>Brussels, 12 June – As of today, coordinated supervision of the <strong>European Union’s asylum and migration database (Eurodac) </strong>will be carried out by the Coordinated Supervision Committee (CSC). Eurodac is an information system initially designed to compare the<strong> fingerprints of",
+      "source_id": "edpb",
+      "source_name": "EDPB"
+    },
+    {
       "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (12 juin 2026)",
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0747/",
       "date": "2026-06-12T00:00:00+00:00",
@@ -252,6 +340,14 @@
       "source_name": "CNIL"
     },
     {
+      "title": "EDPB meets with EU Commissioner McGrath and adopts common data breach notification template",
+      "link": "https://www.edpb.europa.eu/news/news/2026/edpb-meets-eu-commissioner-mcgrath-and-adopts-common-data-breach-notification_en",
+      "date": "2026-06-10T12:00:00+00:00",
+      "summary": "<p>Brussels, 10 June – During its latest plenary, the EDPB met with Michael McGrath, Commissioner for Democracy, Justice, the Rule of Law and Consumer Protection. In addition, the Board has adopted a <a href=\"https://www.edpb.europa.eu/our-work-tools/our-documents/other/template-personal-data-breach",
+      "source_id": "edpb",
+      "source_name": "EDPB"
+    },
+    {
       "title": "Ordre du jour de la séance plénière du 4 juin 2026",
       "link": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-4-juin-2026",
       "date": "2026-06-04T12:00:00+00:00",
@@ -300,12 +396,76 @@
       "source_name": "ANSSI"
     },
     {
+      "title": "Europe Day 2026: let’s celebrate together",
+      "link": "https://www.edpb.europa.eu/news/news/2026/europe-day-2026-lets-celebrate-together_en",
+      "date": "2026-05-05T12:00:00+00:00",
+      "summary": "<p>Brussels, 5 May – On 9 May each year, Europeans celebrate the anniversary of the Schuman Declaration, the key moment which led to the creation of the EU as we know it today. To mark this special occasion, the European institutions will open their doors to the public on <strong>9 May 2026</strong>",
+      "source_id": "edpb",
+      "source_name": "EDPB"
+    },
+    {
+      "title": "Marking 10 years of the GDPR: the evolution of the European data protection landscape",
+      "link": "https://www.edpb.europa.eu/news/news/2026/marking-10-years-gdpr-evolution-european-data-protection-landscape_en",
+      "date": "2026-04-27T12:00:00+00:00",
+      "summary": "<p>Brussels, 27 April – Today marks the 10th anniversary of the GDPR’s adoption, the first comprehensive data protection framework spanning an entire continent, establishing clear rights for individuals and obligations for organisations across Europe.</p>\n<h3>The moment that led to the creation of t",
+      "source_id": "edpb",
+      "source_name": "EDPB"
+    },
+    {
+      "title": "Stakeholder event on competition and data protection",
+      "link": "https://www.edpb.europa.eu/news/news/2026/stakeholder-event-competition-and-data-protection_en",
+      "date": "2026-04-23T12:00:00+00:00",
+      "summary": "<p>Brussels, 23 April – The EDPB is organising a remote stakeholder event in the context of its joint work with the European Commission on upcoming<strong> guidelines on the interplay between competition and data protection</strong>.&nbsp;</p>\n<p>The event is an opportunity for stakeholders to infor",
+      "source_id": "edpb",
+      "source_name": "EDPB"
+    },
+    {
+      "title": "EDPB brings clarity to data processing for scientific research, speeds up the finalisation of the anonymisation guidelines and approves first European data protection seal as a tool for transfers",
+      "link": "https://www.edpb.europa.eu/news/news/2026/edpb-brings-clarity-data-processing-scientific-research-speeds-finalisation_en",
+      "date": "2026-04-16T12:00:00+00:00",
+      "summary": "<p>Brussels, 16 April – During its latest plenary, the EDPB has adopted <a href=\"https://www.edpb.europa.eu/our-work-tools/documents/public-consultations/2026/guidelines-12026-processing-personal-data_en\">Guidelines on processing of personal data for scientific research purposes</a>. In addition, th",
+      "source_id": "edpb",
+      "source_name": "EDPB"
+    },
+    {
+      "title": "Enhancing compliance and consistency: EDPB adopts DPIA template",
+      "link": "https://www.edpb.europa.eu/news/news/2026/enhancing-compliance-and-consistency-edpb-adopts-dpia-template_en",
+      "date": "2026-04-14T12:00:00+00:00",
+      "summary": "<p>Brussels, 14 April - In line with the <a href=\"https://www.edpb.europa.eu/our-work-tools/our-documents/statements/helsinki-statement-enhanced-clarity-support-and-engagement_en\" target=\"_blank\">EDPB’s Helsinki Statement</a> to make GDPR compliance easier and strengthen consistency across Europe, t",
+      "source_id": "edpb",
+      "source_name": "EDPB"
+    },
+    {
+      "title": "EDPB annual report 2025: supporting stakeholders through guidance and dialogue",
+      "link": "https://www.edpb.europa.eu/news/news/2026/edpb-annual-report-2025-supporting-stakeholders-through-guidance-and-dialogue_en",
+      "date": "2026-04-09T12:00:00+00:00",
+      "summary": "<p>Brussels, 09 April - The European Data Protection Board (EDPB) has published its&nbsp;<a href=\"https://www.edpb.europa.eu/our-work-tools/our-documents/annual-report/edpb-annual-report-2025_en\">2025 Annual Report</a>. The report provides an overview of the EDPB work carried out in 2025 and reflect",
+      "source_id": "edpb",
+      "source_name": "EDPB"
+    },
+    {
+      "title": "EDPB conference on cross-regulatory cooperation: what we learned",
+      "link": "https://www.edpb.europa.eu/news/news/2026/edpb-conference-cross-regulatory-cooperation-what-we-learned_en",
+      "date": "2026-03-24T12:00:00+00:00",
+      "summary": "<p><span lang=\"EN-GB\">Brussels, 23 March - On 17 March 2026, the <strong>EDPB conference “Cross-regulatory interplay and cooperation in the EU: a data protection perspective”</strong> took place in Brussels. The event showcased high-level discussions, featuring contributions from representatives of",
+      "source_id": "edpb",
+      "source_name": "EDPB"
+    },
+    {
       "title": "Note d’alerte – Ciblage des messageries instantanées (20 mars 2026)",
       "link": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-003/",
       "date": "2026-03-20T00:00:00+00:00",
       "summary": "Le CERT-FR observe une recrudescence de campagnes d’attaques ciblant les comptes de messagerie instantanées. Ces campagnes ciblent particulièrement les secteurs régaliens (personnalités politiques, cadres de l’administration) mais aussi les personnels de la société civile exerçant des fonctions...",
       "source_id": "anssi",
       "source_name": "ANSSI"
+    },
+    {
+      "title": "EDPB and EDPS support strengthening EU’s cybersecurity and easing compliance while protecting individuals’ personal data",
+      "link": "https://www.edpb.europa.eu/news/news/2026/edpb-and-edps-support-strengthening-eus-cybersecurity-and-easing-compliance-while_en",
+      "date": "2026-03-19T12:00:00+00:00",
+      "summary": "<p>Brussels, 19 March 2026 – The European Data Protection Board (EDPB) and the European Data Protection Supervisor (EDPS) have adopted a <a href=\"https://www.edpb.europa.eu/our-work-tools/our-documents/edpbedps-joint-opinion/edpb-edps-joint-opinion-42026-proposal_en\" target=\"_blank\">Joint Opinion on",
+      "source_id": "edpb",
+      "source_name": "EDPB"
     }
   ]
 }
