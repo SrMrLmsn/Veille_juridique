@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-19T04:27:00.968701+00:00",
+  "updated": "2026-06-19T09:20:44.818295+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -27,6 +27,14 @@
     }
   },
   "items": [
+    {
+      "title": "Sécurité des données : les règles essentielles pour protéger les données et votre activité",
+      "link": "https://www.cnil.fr/fr/securite-des-donnees-les-regles-essentielles",
+      "date": "2026-06-19T12:00:00+00:00",
+      "summary": "Le numérique offre des opportunités pour développer votre entreprise, mais il s’accompagne aussi de risques concernant la sécurité des données que vous détenez, qu’elles soient personnelles (fichiers clients, employés…) ou non (informations financières, industrielles…). Il est donc impératif de sécu",
+      "source_id": "cnil",
+      "source_name": "CNIL"
+    },
     {
       "title": "Ordre du jour de la séance plénière du 18 juin 2026",
       "link": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-18-juin-2026",
@@ -376,14 +384,6 @@
       "link": "https://www.cnil.fr/fr/quelles-qualifications-pour-les-acteurs-de-linformatique-en-nuage-cloud",
       "date": "2026-05-28T12:00:00+00:00",
       "summary": "Avant de traiter des données personnelles, il est essentiel que les acteurs identifient leurs rôles. La CNIL fournit des orientations pour aider ceux du secteur de l’informatique en nuage (cloud) à identifier leurs responsabilités avec des exemples concrets.",
-      "source_id": "cnil",
-      "source_name": "CNIL"
-    },
-    {
-      "title": "Données de santé : sanction de 5 millions d’euros à l’encontre de la société IQVIA",
-      "link": "https://www.cnil.fr/fr/donnees-sante-sanction-5-millions-iqvia",
-      "date": "2026-05-28T12:00:00+00:00",
-      "summary": "Le 26 mai 2026, la société IQVIA OPERATIONS FRANCE a été sanctionnée d’une amende de 5&amp;nbsp;millions d’euros, notamment pour non-respect des garanties visant à limiter les risques pour les personnes dans le cadre de la gestion d’entrepôts de données de santé.",
       "source_id": "cnil",
       "source_name": "CNIL"
     },
