@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22T10:22:24.602811+00:00",
+  "updated": "2026-06-22T15:36:10.279117+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -17,7 +17,7 @@
       "name": "EDPB",
       "country": "EU",
       "color": "#003399",
-      "count": 0
+      "count": 10
     },
     "commission": {
       "name": "Commission européenne",
@@ -28,12 +28,28 @@
   },
   "items": [
     {
+      "title": "EDPB gets a new look: discover the new website and brand identity",
+      "link": "https://www.edpb.europa.eu/news/edpb-gets-a-new-look-discover-the-new-website-and-brand-identity_en",
+      "date": "2026-06-22T12:00:00+00:00",
+      "summary": "<p>Brussels, 22 June - Since its establishment in 2018, the core mission of the EDPB has been to uphold and safeguard the right to data protection. Over the years, the EDPB has played a key role in ensuring the <strong>consistent application</strong> of the GDPR across Europe, by <strong>providing g",
+      "source_id": "edpb",
+      "source_name": "EDPB"
+    },
+    {
       "title": "Sécurité des données : les règles essentielles pour protéger les données et votre activité",
       "link": "https://www.cnil.fr/fr/securite-des-donnees-les-regles-essentielles",
       "date": "2026-06-19T12:00:00+00:00",
       "summary": "Le numérique offre des opportunités pour développer votre entreprise, mais il s’accompagne aussi de risques concernant la sécurité des données que vous détenez, qu’elles soient personnelles (fichiers clients, employés…) ou non (informations financières, industrielles…). Il est donc impératif de sécu",
       "source_id": "cnil",
       "source_name": "CNIL"
+    },
+    {
+      "title": "Multiples vulnérabilités dans les produits IBM (19 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0788/",
+      "date": "2026-06-19T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
     },
     {
       "title": "Ordre du jour de la séance plénière du 18 juin 2026",
@@ -72,6 +88,46 @@
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0771/",
       "date": "2026-06-18T00:00:00+00:00",
       "summary": "De multiples vulnérabilités ont été découvertes dans Drupal. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une injection SQL (SQLi) et une falsification de requêtes côté serveur (SSRF).",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans les produits Mitel (18 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0770/",
+      "date": "2026-06-18T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Mitel. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans Splunk AI Toolkit (18 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0774/",
+      "date": "2026-06-18T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Splunk AI Toolkit. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans Nginx (18 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0775/",
+      "date": "2026-06-18T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Nginx. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans les produits Atlassian (18 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0773/",
+      "date": "2026-06-18T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Atlassian. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans Google Android 17 (18 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0778/",
+      "date": "2026-06-18T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Google Android 17. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
       "source_id": "anssi",
       "source_name": "ANSSI"
     },
@@ -236,22 +292,6 @@
       "source_name": "CNIL"
     },
     {
-      "title": "Multiples vulnérabilités dans Redmine (16 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0754/",
-      "date": "2026-06-16T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Redmine. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Vulnérabilité dans LibreNMS (16 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0755/",
-      "date": "2026-06-16T00:00:00+00:00",
-      "summary": "Une vulnérabilité a été découverte dans LibreNMS. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
       "title": "Multiples vulnérabilités dans Microsoft Edge (16 juin 2026)",
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0757/",
       "date": "2026-06-16T00:00:00+00:00",
@@ -300,28 +340,12 @@
       "source_name": "CNIL"
     },
     {
-      "title": "Bulletin d'actualité CERTFR-2026-ACT-026 (15 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-026/",
-      "date": "2026-06-15T00:00:00+00:00",
-      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques pour prioriser l'application des...",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Microsoft Azure (15 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0753/",
-      "date": "2026-06-15T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Azure. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans les produits Mattermost (15 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0752/",
-      "date": "2026-06-15T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Mattermost. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
+      "title": "Coordinated Supervision Committee extends scope to include Eurodac",
+      "link": "https://www.edpb.europa.eu/news/coordinated-supervision-committee-extends-scope-to-include-eurodac_en",
+      "date": "2026-06-12T12:00:00+00:00",
+      "summary": "<p>Brussels, 12 June – As of today, coordinated supervision of the <strong>European Union’s asylum and migration database (Eurodac) </strong>will be carried out by the Coordinated Supervision Committee (CSC). Eurodac is an information system initially designed to compare the<strong> fingerprints of",
+      "source_id": "edpb",
+      "source_name": "EDPB"
     },
     {
       "title": "Le CEPD rencontre le commissaire européen McGrath et adopte un modèle commun de notification des violations de données",
@@ -340,12 +364,68 @@
       "source_name": "CNIL"
     },
     {
+      "title": "EDPB meets with EU Commissioner McGrath and adopts common data breach notification template",
+      "link": "https://www.edpb.europa.eu/news/edpb-meets-with-eu-commissioner-mcgrath-and-adopts-common-data-breach-notification-template_en",
+      "date": "2026-06-10T12:00:00+00:00",
+      "summary": "<p>Brussels, 10 June – During its latest plenary, the EDPB met with Michael McGrath, Commissioner for Democracy, Justice, the Rule of Law and Consumer Protection. In addition, the Board has adopted a <a href=\"https://www.edpb.europa.eu/public-consultations/template-for-personal-data-breach-notificat",
+      "source_id": "edpb",
+      "source_name": "EDPB"
+    },
+    {
       "title": "Ordre du jour de la séance plénière du 4 juin 2026",
       "link": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-4-juin-2026",
       "date": "2026-06-04T12:00:00+00:00",
       "summary": "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 4 juin 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
       "source_id": "cnil",
       "source_name": "CNIL"
+    },
+    {
+      "title": "The Italian SA imposed a 40 000 EUR fine on a company for violating the confidentiality of a employee's email account after the end of his employment",
+      "link": "https://www.edpb.europa.eu/news/the-italian-sa-imposed-a-40-000-eur-fine-on-a-company-for-violating-the-confidentiality-of-a_en",
+      "date": "2026-06-04T12:00:00+00:00",
+      "summary": "<div class=\"heading-wrapper\"><h2 id=\"background-information\">Background information</h2><ul><li>Date of final decision: 18 December 2025</li><li>National case</li><li>Controller:&nbsp;LTL S.p.A.<br />Legal Reference(s): Article 5 (Principles relating to processing of personal data), Article 12 (Tran",
+      "source_id": "edpb",
+      "source_name": "EDPB"
+    },
+    {
+      "title": "The Italian SA fined Poste Vita for data breach",
+      "link": "https://www.edpb.europa.eu/news/the-italian-sa-fined-poste-vita-for-data-breach_en",
+      "date": "2026-06-04T12:00:00+00:00",
+      "summary": "<div class=\"heading-wrapper\"><h2 id=\"background-information\">Background information</h2><ul><li>Date of final decision: 10 July 2025</li><li>National case</li><li>Controller: Poste Vita s.p.a.<br />Legal Reference(s): Article 5 (Principles relating to processing of personal data), Article 33 (Notifi",
+      "source_id": "edpb",
+      "source_name": "EDPB"
+    },
+    {
+      "title": "Imposition of fine on a telecommunications company for violations of data subject’s rights",
+      "link": "https://www.edpb.europa.eu/news/imposition-of-fine-on-a-telecommunications-company-for-violations-of-data-subjects-rights_en",
+      "date": "2026-06-04T12:00:00+00:00",
+      "summary": "<div class=\"heading-wrapper\"><h2 id=\"background-information\">Background information</h2><ul><li>Date of final decision: 11 February 2026</li><li>National case</li><li>Controller: Vodafone-Panafon S.A Hellenic Telecommunications Company</li><li>Legal Reference: Article 12: Transparent information, co",
+      "source_id": "edpb",
+      "source_name": "EDPB"
+    },
+    {
+      "title": "The Italian Supervisory Authority fined a company 120 000 EUR for tracking five employees who drove company cars",
+      "link": "https://www.edpb.europa.eu/news/the-italian-supervisory-authority-fined-a-company-120-000-eur-for-tracking-five-employees-who_en",
+      "date": "2026-06-04T12:00:00+00:00",
+      "summary": "<div class=\"heading-wrapper\"><h2 id=\"background-information\">Background information</h2><ul><li>Date of final decision: 27 November 2025</li><li>National case</li><li>Controller: Pioneer Hi-Bred Italia Sementi s.r.l.<br />Legal Reference(s): Article 5 (Principles relating to processing of personal d",
+      "source_id": "edpb",
+      "source_name": "EDPB"
+    },
+    {
+      "title": "Italian SA fines a company for post-sick leave questionnaires",
+      "link": "https://www.edpb.europa.eu/news/italian-sa-fines-a-company-for-post-sick-leave-questionnaires_en",
+      "date": "2026-06-04T12:00:00+00:00",
+      "summary": "<div class=\"heading-wrapper\"><h2 id=\"background-information\">Background information</h2><ul><li>Date of final decision: 10 July 2025</li><li>National case</li><li>Controller: Magna PT S.p.A.<br />Legal Reference(s): Article 5 (Principles relating to processing of personal data), Article 6 (Lawfulnes",
+      "source_id": "edpb",
+      "source_name": "EDPB"
+    },
+    {
+      "title": "The Italian Supervisory Authority has fined Verisure Italia for unlawful processing of personal data for direct marketing purposes",
+      "link": "https://www.edpb.europa.eu/news/the-italian-supervisory-authority-has-fined-verisure-italia-for-unlawful-processing-of_en",
+      "date": "2026-06-04T12:00:00+00:00",
+      "summary": "<div class=\"heading-wrapper\"><h2 id=\"background-information\">Background information</h2><ul><li>Date of final decision: 27 November 2025</li><li>National case</li><li>Controller:&nbsp;&nbsp;&nbsp;&nbsp;Verisure Italia srl</li><li>Legal Reference(s): Article 5 (Principles relating to processing of pe",
+      "source_id": "edpb",
+      "source_name": "EDPB"
     },
     {
       "title": "Ordre du jour de la séance plénière du 28 mai 2026",
@@ -372,12 +452,12 @@
       "source_name": "CNIL"
     },
     {
-      "title": "Multiples vulnérabilités dans les produits Mattermost (22 mai 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0632/",
-      "date": "2026-05-22T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Mattermost. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
+      "title": "EDPB and EDPS support strengthening EU’s cybersecurity and easing compliance while protecting individuals’ personal data",
+      "link": "https://www.edpb.europa.eu/news/edpb-and-edps-support-strengthening-eus-cybersecurity-and-easing-compliance-while-protecting_en",
+      "date": "2026-05-19T12:00:00+00:00",
+      "summary": "<p>Brussels, 19 March 2026 – The European Data Protection Board (EDPB) and the European Data Protection Supervisor (EDPS) have adopted a <a href=\"https://www.edpb.europa.eu/documents/legislative-opinion/edpb-edps-joint-opinion-42026-on-the-proposal-for-a-cybersecurity-act_en\" target=\"_blank\">Joint O",
+      "source_id": "edpb",
+      "source_name": "EDPB"
     },
     {
       "title": "Note d’alerte – Ciblage des messageries instantanées (20 mars 2026)",
