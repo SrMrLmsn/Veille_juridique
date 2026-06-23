@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T11:18:40.923195+00:00",
+  "updated": "2026-06-23T13:59:10.741487+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -28,6 +28,14 @@
   },
   "items": [
     {
+      "title": "Élections professionnelles dans la fonction publique et vote électronique : comment transmettre les rapports d’expertise à la CNIL ?",
+      "link": "https://www.cnil.fr/fr/elections-professionnelles-fonction-publique-vote-electronique",
+      "date": "2026-06-23T12:00:00+00:00",
+      "summary": "Lorsque le recours au vote électronique est prévu pour les élections professionnelles dans la fonction publique, le système de vote doit faire l’objet d’une expertise indépendante. Dans ce cadre, les rapports d’expertise doivent désormais être transmis à la CNIL.",
+      "source_id": "cnil",
+      "source_name": "CNIL"
+    },
+    {
       "title": "EDPB gets a new look: discover the new website and brand identity",
       "link": "https://www.edpb.europa.eu/news/edpb-gets-a-new-look-discover-the-new-website-and-brand-identity_en",
       "date": "2026-06-22T12:00:00+00:00",
@@ -48,6 +56,22 @@
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0788/",
       "date": "2026-06-19T00:00:00+00:00",
       "summary": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans le noyau Linux de Debian LTS (19 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0784/",
+      "date": "2026-06-19T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian LTS. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (19 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0787/",
+      "date": "2026-06-19T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données.",
       "source_id": "anssi",
       "source_name": "ANSSI"
     },
@@ -292,22 +316,6 @@
       "source_name": "CNIL"
     },
     {
-      "title": "Multiples vulnérabilités dans Microsoft Edge (16 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0757/",
-      "date": "2026-06-16T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Vulnérabilité dans Cisco Catalyst (16 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0756/",
-      "date": "2026-06-16T00:00:00+00:00",
-      "summary": "Une vulnérabilité a été découverte dans Cisco Catalyst. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données. Cisco indique que la vulnérabilité CVE-2026-20262 est activement exploitée.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
       "title": "Multiples vulnérabilités dans les produits Moxa (16 juin 2026)",
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0760/",
       "date": "2026-06-16T00:00:00+00:00",
@@ -440,14 +448,6 @@
       "link": "https://www.cnil.fr/fr/privacy-research-day-2026",
       "date": "2026-05-28T12:00:00+00:00",
       "summary": "La cinquième édition de la Journée de recherche sur la vie privée (Privacy Research Day) se tiendra le 24 juin 2026, dans le cadre du G7 des autorités de protection des données accueilli par la CNIL. Cet évènement international, reliant le monde académique aux acteurs de la régulation des données, s",
-      "source_id": "cnil",
-      "source_name": "CNIL"
-    },
-    {
-      "title": "Quelles qualifications pour les acteurs de l’informatique en nuage (cloud) ?",
-      "link": "https://www.cnil.fr/fr/quelles-qualifications-pour-les-acteurs-de-linformatique-en-nuage-cloud",
-      "date": "2026-05-28T12:00:00+00:00",
-      "summary": "Avant de traiter des données personnelles, il est essentiel que les acteurs identifient leurs rôles. La CNIL fournit des orientations pour aider ceux du secteur de l’informatique en nuage (cloud) à identifier leurs responsabilités avec des exemples concrets.",
       "source_id": "cnil",
       "source_name": "CNIL"
     },
