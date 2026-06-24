@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T07:58:57.929195+00:00",
+  "updated": "2026-06-24T11:12:15.133069+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -27,6 +27,22 @@
     }
   },
   "items": [
+    {
+      "title": "Victimes de violations de données : restez vigilants face aux offres d’accompagnement",
+      "link": "https://www.cnil.fr/fr/vigilance-accompagnement-violation-de-donnees",
+      "date": "2026-06-24T12:00:00+00:00",
+      "summary": "Des victimes de violations de données personnelles reçoivent des courriels proposant une aide pour faire supprimer leurs informations en ligne. La CNIL invite à la prudence face à ces démarches dont elle n’est pas à l’origine.",
+      "source_id": "cnil",
+      "source_name": "CNIL"
+    },
+    {
+      "title": "Supporting GDPR consistency: EDPB launches dedicated form",
+      "link": "https://www.edpb.europa.eu/news/supporting-gdpr-consistency-edpb-launches-dedicated-form_en",
+      "date": "2026-06-24T12:00:00+00:00",
+      "summary": "<p>Brussels, 24 June – The EDPB has launched a <a href=\"https://www.edpb.europa.eu/contact/flag-an-inconsistency_en\" target=\"_blank\">dedicated contact form</a> for stakeholders to report possible inconsistencies in how the GDPR is interpreted across Europe. This initiative reflects the commitments s",
+      "source_id": "edpb",
+      "source_name": "EDPB"
+    },
     {
       "title": "Élections professionnelles dans la fonction publique et vote électronique : comment transmettre les rapports d’expertise à la CNIL ?",
       "link": "https://www.cnil.fr/fr/elections-professionnelles-fonction-publique-vote-electronique",
@@ -442,22 +458,6 @@
       "summary": "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 28 mai 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
       "source_id": "cnil",
       "source_name": "CNIL"
-    },
-    {
-      "title": "Privacy Research Day : suivez la retransmission en direct",
-      "link": "https://www.cnil.fr/fr/privacy-research-day-2026",
-      "date": "2026-05-28T12:00:00+00:00",
-      "summary": "La cinquième édition de la Journée de recherche sur la vie privée (Privacy Research Day) se tiendra le 24 juin 2026, dans le cadre du G7 des autorités de protection des données accueilli par la CNIL. Cet évènement international, reliant le monde académique aux acteurs de la régulation des données, s",
-      "source_id": "cnil",
-      "source_name": "CNIL"
-    },
-    {
-      "title": "EDPB and EDPS support strengthening EU’s cybersecurity and easing compliance while protecting individuals’ personal data",
-      "link": "https://www.edpb.europa.eu/news/edpb-and-edps-support-strengthening-eus-cybersecurity-and-easing-compliance-while-protecting_en",
-      "date": "2026-05-19T12:00:00+00:00",
-      "summary": "<p>Brussels, 19 March 2026 – The European Data Protection Board (EDPB) and the European Data Protection Supervisor (EDPS) have adopted a <a href=\"https://www.edpb.europa.eu/documents/legislative-opinion/edpb-edps-joint-opinion-42026-on-the-proposal-for-a-cybersecurity-act_en\" target=\"_blank\">Joint O",
-      "source_id": "edpb",
-      "source_name": "EDPB"
     },
     {
       "title": "Note d’alerte – Ciblage des messageries instantanées (20 mars 2026)",
