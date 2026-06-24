@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T13:35:52.100509+00:00",
+  "updated": "2026-06-24T16:23:16.268949+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -27,6 +27,22 @@
     }
   },
   "items": [
+    {
+      "title": "Informations publiques",
+      "link": "https://www.cnil.fr/fr/informations-publiques",
+      "date": "2026-06-24T12:00:00+00:00",
+      "summary": "Cette page recense les informations publiques de la CNIL (documents, vidéos, open data).",
+      "source_id": "cnil",
+      "source_name": "CNIL"
+    },
+    {
+      "title": "Remise du prix « Protection de la vie privée » 2026 par la CNIL et l’Inria",
+      "link": "https://www.cnil.fr/fr/prix-inria-cnil-2026",
+      "date": "2026-06-24T12:00:00+00:00",
+      "summary": "Lors de la Journée de recherche sur la vie privée, le 24 juin 2026,&amp;nbsp;la CNIL et l’Inria ont remis le prix 2026 de la protection de la vie privée à une équipe de chercheurs internationaux pour leur article portant sur l’articulation entre la réglementation et la recherche concernant les desig",
+      "source_id": "cnil",
+      "source_name": "CNIL"
+    },
     {
       "title": "Victimes de violations de données : restez vigilants face aux offres d’accompagnement",
       "link": "https://www.cnil.fr/fr/vigilance-accompagnement-violation-de-donnees",
@@ -396,14 +412,6 @@
       "source_name": "EDPB"
     },
     {
-      "title": "Ordre du jour de la séance plénière du 4 juin 2026",
-      "link": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-4-juin-2026",
-      "date": "2026-06-04T12:00:00+00:00",
-      "summary": "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 4 juin 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
-      "source_id": "cnil",
-      "source_name": "CNIL"
-    },
-    {
       "title": "The Italian SA imposed a 40 000 EUR fine on a company for violating the confidentiality of a employee's email account after the end of his employment",
       "link": "https://www.edpb.europa.eu/news/the-italian-sa-imposed-a-40-000-eur-fine-on-a-company-for-violating-the-confidentiality-of-a_en",
       "date": "2026-06-04T12:00:00+00:00",
@@ -450,14 +458,6 @@
       "summary": "<div class=\"heading-wrapper\"><h2 id=\"background-information\">Background information</h2><ul><li>Date of final decision: 27 November 2025</li><li>National case</li><li>Controller:&nbsp;&nbsp;&nbsp;&nbsp;Verisure Italia srl</li><li>Legal Reference(s): Article 5 (Principles relating to processing of pe",
       "source_id": "edpb",
       "source_name": "EDPB"
-    },
-    {
-      "title": "Ordre du jour de la séance plénière du 28 mai 2026",
-      "link": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-28-mai-2026",
-      "date": "2026-05-28T12:00:00+00:00",
-      "summary": "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 28 mai 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
-      "source_id": "cnil",
-      "source_name": "CNIL"
     },
     {
       "title": "Note d’alerte – Ciblage des messageries instantanées (20 mars 2026)",
