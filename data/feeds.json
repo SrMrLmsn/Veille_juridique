@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T16:23:16.268949+00:00",
+  "updated": "2026-06-24T18:17:52.638629+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -27,6 +27,14 @@
     }
   },
   "items": [
+    {
+      "title": "Quatre auteurs reçoivent le deuxième prix CNIL/EHESS pour leur recherche sur la réception du règlement IA par les citoyens européens",
+      "link": "https://www.cnil.fr/fr/prix-ehess-cnil-2026",
+      "date": "2026-06-24T12:00:00+00:00",
+      "summary": "Lors de la Journée de recherche sur la vie privée, le 24 juin 2026, Gabriel Lima, Gustavo Gil Gasiola, Frederike Zufall et Yixin Zou ont reçu le 2ème prix CNIL/EHESS pour leur article sur la régulation de l’intelligence artificielle et son alignement avec les attentes citoyennes.",
+      "source_id": "cnil",
+      "source_name": "CNIL"
+    },
     {
       "title": "Informations publiques",
       "link": "https://www.cnil.fr/fr/informations-publiques",
@@ -392,14 +400,6 @@
       "link": "https://www.cnil.fr/fr/le-cepd-rencontre-le-commissaire-europeen-mcgrath-et-adopte-un-modele-commun-de-notification-des",
       "date": "2026-06-10T12:00:00+00:00",
       "summary": "Lors de sa dernière session plénière, le CEPD a rencontré Michael McGrath, commissaire européen chargé de la démocratie, de la justice, de l'État de droit et de la protection des consommateurs. Par ailleurs, le CEPD a adopté un&amp;nbsp;modèle commun de notification des violations de données.",
-      "source_id": "cnil",
-      "source_name": "CNIL"
-    },
-    {
-      "title": "Communications par voie électronique aux prospects et clients : quelles règles respecter ?",
-      "link": "https://www.cnil.fr/fr/communication-electronique-quelles-regles",
-      "date": "2026-06-10T12:00:00+00:00",
-      "summary": "Prospection commerciale, messages d’information… les entreprises échangent régulièrement avec leurs prospects et leurs clients. Selon les cas, les personnes doivent soit donner leur accord préalable, soit pouvoir s’opposer facilement.",
       "source_id": "cnil",
       "source_name": "CNIL"
     },
