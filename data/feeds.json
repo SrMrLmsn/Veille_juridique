@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T06:09:22.679572+00:00",
+  "updated": "2026-06-25T09:52:00.019636+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -27,6 +27,14 @@
     }
   },
   "items": [
+    {
+      "title": "One-Stop-Shop case digest on right to object and right to erasure updated",
+      "link": "https://www.edpb.europa.eu/news/one-stop-shop-case-digest-on-right-to-object-and-right-to-erasure-updated_en",
+      "date": "2026-06-25T12:00:00+00:00",
+      "summary": "<p><strong>Brussels, 25 June</strong> - The EDPB has published an update of the <a href=\"https://www.edpb.europa.eu/documents/support-pool-of-experts/one-stop-shop-case-digest-on-right-to-object-and-right-to-erasure_en\" target=\"_blank\">One-Stop-Shop (OSS) case digest on right to object and right to",
+      "source_id": "edpb",
+      "source_name": "EDPB"
+    },
     {
       "title": "Quatre auteurs reçoivent le deuxième prix CNIL/EHESS pour leur recherche sur la réception du règlement IA par les citoyens européens",
       "link": "https://www.cnil.fr/fr/prix-ehess-cnil-2026",
@@ -448,14 +456,6 @@
       "link": "https://www.edpb.europa.eu/news/italian-sa-fines-a-company-for-post-sick-leave-questionnaires_en",
       "date": "2026-06-04T12:00:00+00:00",
       "summary": "<div class=\"heading-wrapper\"><h2 id=\"background-information\">Background information</h2><ul><li>Date of final decision: 10 July 2025</li><li>National case</li><li>Controller: Magna PT S.p.A.<br />Legal Reference(s): Article 5 (Principles relating to processing of personal data), Article 6 (Lawfulnes",
-      "source_id": "edpb",
-      "source_name": "EDPB"
-    },
-    {
-      "title": "The Italian Supervisory Authority has fined Verisure Italia for unlawful processing of personal data for direct marketing purposes",
-      "link": "https://www.edpb.europa.eu/news/the-italian-supervisory-authority-has-fined-verisure-italia-for-unlawful-processing-of_en",
-      "date": "2026-06-04T12:00:00+00:00",
-      "summary": "<div class=\"heading-wrapper\"><h2 id=\"background-information\">Background information</h2><ul><li>Date of final decision: 27 November 2025</li><li>National case</li><li>Controller:&nbsp;&nbsp;&nbsp;&nbsp;Verisure Italia srl</li><li>Legal Reference(s): Article 5 (Principles relating to processing of pe",
       "source_id": "edpb",
       "source_name": "EDPB"
     },
