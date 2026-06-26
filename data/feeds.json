@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T11:45:23.874765+00:00",
+  "updated": "2026-06-26T14:27:27.703084+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -27,6 +27,14 @@
     }
   },
   "items": [
+    {
+      "title": "Technologies émergentes et protection des mineurs : les autorités de protection des données du G7 s’accordent sur des principes clés",
+      "link": "https://www.cnil.fr/fr/g7-technologies-protection-mineurs",
+      "date": "2026-06-26T12:00:00+00:00",
+      "summary": "Les autorités de protection des données des pays du G7 se sont réunies à Paris les 25 et 26 juin à l’invitation de la CNIL dans le cadre de la présidence française du G7. Elles ont adopté une déclaration sur les mécanismes de vérification de l’âge respectueux de la vie privée, ainsi qu’un document s",
+      "source_id": "cnil",
+      "source_name": "CNIL"
+    },
     {
       "title": "One-Stop-Shop case digest on right to object and right to erasure updated",
       "link": "https://www.edpb.europa.eu/news/one-stop-shop-case-digest-on-right-to-object-and-right-to-erasure-updated_en",
@@ -402,14 +410,6 @@
       "summary": "<p>Brussels, 12 June – As of today, coordinated supervision of the <strong>European Union’s asylum and migration database (Eurodac) </strong>will be carried out by the Coordinated Supervision Committee (CSC). Eurodac is an information system initially designed to compare the<strong> fingerprints of",
       "source_id": "edpb",
       "source_name": "EDPB"
-    },
-    {
-      "title": "Le CEPD rencontre le commissaire européen McGrath et adopte un modèle commun de notification des violations de données",
-      "link": "https://www.cnil.fr/fr/le-cepd-rencontre-le-commissaire-europeen-mcgrath-et-adopte-un-modele-commun-de-notification-des",
-      "date": "2026-06-10T12:00:00+00:00",
-      "summary": "Lors de sa dernière session plénière, le CEPD a rencontré Michael McGrath, commissaire européen chargé de la démocratie, de la justice, de l'État de droit et de la protection des consommateurs. Par ailleurs, le CEPD a adopté un&amp;nbsp;modèle commun de notification des violations de données.",
-      "source_id": "cnil",
-      "source_name": "CNIL"
     },
     {
       "title": "EDPB meets with EU Commissioner McGrath and adopts common data breach notification template",
