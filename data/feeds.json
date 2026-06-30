@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T04:45:28.621439+00:00",
+  "updated": "2026-06-30T08:31:03.301066+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -27,6 +27,22 @@
     }
   },
   "items": [
+    {
+      "title": "Véhicules connectés : dans quelles conditions vos données de localisation peuvent être utilisées ?",
+      "link": "https://www.cnil.fr/fr/vehicules-connectes-utilisation-de-vos-donnees",
+      "date": "2026-06-30T12:00:00+00:00",
+      "summary": "Les véhicules connectés collectent des données de localisation pour proposer certains services liés au divertissement ou à la sécurité. Ces informations peuvent révéler des éléments très personnels sur votre vie privée. La CNIL rappelle les garanties à mettre en œuvre et les droits des personnes.",
+      "source_id": "cnil",
+      "source_name": "CNIL"
+    },
+    {
+      "title": "Véhicules connectés : la CNIL publie sa recommandation sur l’utilisation des données de localisation",
+      "link": "https://www.cnil.fr/fr/recommandation-vehicules-connectes-localisation",
+      "date": "2026-06-30T12:00:00+00:00",
+      "summary": "À l’issue d’une consultation publique, la CNIL publie ses recommandations sur l’utilisation par les professionnels des données de localisation des véhicules connectés (voitures, cycles, scooters, etc.). Objectif&amp;nbsp;: renforcer la sécurité juridique et donner plus de transparence aux utilisateu",
+      "source_id": "cnil",
+      "source_name": "CNIL"
+    },
     {
       "title": "Technologies émergentes et protection des mineurs : les autorités de protection des données du G7 s’accordent sur des principes clés",
       "link": "https://www.cnil.fr/fr/g7-technologies-protection-mineurs",
@@ -394,22 +410,6 @@
       "summary": "<span>Digital Decade 2026: eGovernment Benchmark 2026</span>\n<span><span>dumimar</span></span>\n<span><time datetime=\"2026-06-17T09:07:00+02:00\" title=\"Wednesday, June 17, 2026 - 09:07\">Wed, 06/17/2026 - 09:07</time>\n</span>\n\n<div>\n  <div class=\"cnt-thumbnail-media ecl-u-type-m cnt-content-wrapper\">",
       "source_id": "commission",
       "source_name": "Commission européenne"
-    },
-    {
-      "title": "Nomination de Jean-Michel FIETIER au poste de directeur administratif et financier de la CNIL",
-      "link": "https://www.cnil.fr/fr/nomination-jean-michel-fietier",
-      "date": "2026-06-16T12:00:00+00:00",
-      "summary": "À compter du 15 juin 2026, Jean-Michel FIETIER est nommé directeur administratif et financier de la CNIL. Il succède à Jean-Marc SALMON, qui occupait ces fonctions depuis 2020.",
-      "source_id": "cnil",
-      "source_name": "CNIL"
-    },
-    {
-      "title": "Revoir le webinaire - Pixels de suivi dans les courriels : présentation des recommandations de la CNIL",
-      "link": "https://www.cnil.fr/fr/webinaire-pixels-de-suivi-recommandations-cnil",
-      "date": "2026-06-15T12:00:00+00:00",
-      "summary": "La CNIL vous propose de décrypter un sujet ou une actualité en lien avec la protection des données à travers une série de webinaires. Retrouvez ce nouvel épisode consacré aux pixels de suivi.",
-      "source_id": "cnil",
-      "source_name": "CNIL"
     },
     {
       "title": "Coordinated Supervision Committee extends scope to include Eurodac",
