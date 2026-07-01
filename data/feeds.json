@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T12:14:22.025890+00:00",
+  "updated": "2026-07-01T15:18:51.130101+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -36,18 +36,18 @@
       "source_name": "EDPB"
     },
     {
-      "title": "Véhicules connectés : dans quelles conditions vos données de localisation peuvent être utilisées ?",
-      "link": "https://www.cnil.fr/fr/vehicules-connectes-utilisation-de-vos-donnees",
-      "date": "2026-06-30T12:00:00+00:00",
-      "summary": "Les véhicules connectés collectent des données de localisation pour proposer certains services liés au divertissement ou à la sécurité. Ces informations peuvent révéler des éléments très personnels sur votre vie privée. La CNIL rappelle les garanties à mettre en œuvre et les droits des personnes.",
-      "source_id": "cnil",
-      "source_name": "CNIL"
-    },
-    {
       "title": "Véhicules connectés : la CNIL publie sa recommandation sur l’utilisation des données de localisation",
       "link": "https://www.cnil.fr/fr/recommandation-vehicules-connectes-localisation",
       "date": "2026-06-30T12:00:00+00:00",
       "summary": "À l’issue d’une consultation publique, la CNIL publie ses recommandations sur l’utilisation par les professionnels des données de localisation des véhicules connectés (voitures, cycles, scooters, etc.). Objectif&amp;nbsp;: renforcer la sécurité juridique et donner plus de transparence aux utilisateu",
+      "source_id": "cnil",
+      "source_name": "CNIL"
+    },
+    {
+      "title": "Véhicules connectés : dans quelles conditions vos données de localisation peuvent être utilisées ?",
+      "link": "https://www.cnil.fr/fr/vehicules-connectes-utilisation-de-vos-donnees",
+      "date": "2026-06-30T12:00:00+00:00",
+      "summary": "Les véhicules connectés collectent des données de localisation pour proposer certains services liés au divertissement ou à la sécurité. Ces informations peuvent révéler des éléments très personnels sur votre vie privée. La CNIL rappelle les garanties à mettre en œuvre et les droits des personnes.",
       "source_id": "cnil",
       "source_name": "CNIL"
     },
@@ -80,6 +80,30 @@
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0807/",
       "date": "2026-06-26T00:00:00+00:00",
       "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans Tenable Nessus (26 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0804/",
+      "date": "2026-06-26T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Tenable Nessus. Elles permettent à un attaquant de provoquer une injection SQL (SQLi).",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (26 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0808/",
+      "date": "2026-06-26T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans Asterisk (26 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0805/",
+      "date": "2026-06-26T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Asterisk. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.",
       "source_id": "anssi",
       "source_name": "ANSSI"
     },
@@ -284,34 +308,10 @@
       "source_name": "ANSSI"
     },
     {
-      "title": "Multiples vulnérabilités dans le noyau Linux de Debian LTS (19 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0784/",
-      "date": "2026-06-19T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian LTS. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
       "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (19 juin 2026)",
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0787/",
       "date": "2026-06-19T00:00:00+00:00",
       "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (19 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0782/",
-      "date": "2026-06-19T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Microsoft Azure (19 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0783/",
-      "date": "2026-06-19T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Azure. Elles permettent à un attaquant de provoquer une élévation de privilèges et un problème de sécurité non spécifié par l'éditeur.",
       "source_id": "anssi",
       "source_name": "ANSSI"
     },
