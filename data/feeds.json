@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T08:58:36.612362+00:00",
+  "updated": "2026-07-01T12:14:22.025890+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -27,6 +27,14 @@
     }
   },
   "items": [
+    {
+      "title": "EDPB and AMLA to develop Joint Guidelines on partnerships for information sharing",
+      "link": "https://www.edpb.europa.eu/news/edpb-and-amla-to-develop-joint-guidelines-on-partnerships-for-information-sharing_en",
+      "date": "2026-07-01T12:00:00+00:00",
+      "summary": "<p>Brussels/Frankfurt, 1 July – The EDPB and the Anti-Money Laundering Authority (AMLA) are working together to bring greater clarity to a question of growing importance for industry and authorities alike: how to share information to fight financial crime while protecting personal data.</p><h3>Why i",
+      "source_id": "edpb",
+      "source_name": "EDPB"
+    },
     {
       "title": "Véhicules connectés : dans quelles conditions vos données de localisation peuvent être utilisées ?",
       "link": "https://www.cnil.fr/fr/vehicules-connectes-utilisation-de-vos-donnees",
@@ -440,14 +448,6 @@
       "link": "https://www.edpb.europa.eu/news/the-italian-sa-fined-poste-vita-for-data-breach_en",
       "date": "2026-06-04T12:00:00+00:00",
       "summary": "<div class=\"heading-wrapper\"><h2 id=\"background-information\">Background information</h2><ul><li>Date of final decision: 10 July 2025</li><li>National case</li><li>Controller: Poste Vita s.p.a.<br />Legal Reference(s): Article 5 (Principles relating to processing of personal data), Article 33 (Notifi",
-      "source_id": "edpb",
-      "source_name": "EDPB"
-    },
-    {
-      "title": "Imposition of fine on a telecommunications company for violations of data subject’s rights",
-      "link": "https://www.edpb.europa.eu/news/imposition-of-fine-on-a-telecommunications-company-for-violations-of-data-subjects-rights_en",
-      "date": "2026-06-04T12:00:00+00:00",
-      "summary": "<div class=\"heading-wrapper\"><h2 id=\"background-information\">Background information</h2><ul><li>Date of final decision: 11 February 2026</li><li>National case</li><li>Controller: Vodafone-Panafon S.A Hellenic Telecommunications Company</li><li>Legal Reference: Article 12: Transparent information, co",
       "source_id": "edpb",
       "source_name": "EDPB"
     },
