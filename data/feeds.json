@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T04:40:10.975417+00:00",
+  "updated": "2026-07-02T08:12:17.498848+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -27,6 +27,14 @@
     }
   },
   "items": [
+    {
+      "title": "Jeux d’argent et de hasard : appliquer le RGPD aux traitements de données des joueurs",
+      "link": "https://www.cnil.fr/fr/jeux-argent-hasard-application-rgpd",
+      "date": "2026-07-02T12:00:00+00:00",
+      "summary": "Les opérateurs de jeux d’argent et de hasard doivent concilier les exigences du RGPD avec leurs obligations sectorielles. Pour accompagner les acteurs dans cette démarche, l’ANJ a élaboré, en concertation avec la CNIL, un guide apportant des repères pratiques.",
+      "source_id": "cnil",
+      "source_name": "CNIL"
+    },
     {
       "title": "EDPB and AMLA to develop Joint Guidelines on partnerships for information sharing",
       "link": "https://www.edpb.europa.eu/news/edpb-and-amla-to-develop-joint-guidelines-on-partnerships-for-information-sharing_en",
@@ -330,14 +338,6 @@
       "summary": "Une vulnérabilité a été découverte dans Traefik. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
       "source_id": "anssi",
       "source_name": "ANSSI"
-    },
-    {
-      "title": "Ordre du jour de la séance plénière du 18 juin 2026",
-      "link": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-18-juin-2026",
-      "date": "2026-06-18T12:00:00+00:00",
-      "summary": "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 18 juin 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
-      "source_id": "cnil",
-      "source_name": "CNIL"
     },
     {
       "title": "2026 State of the Digital Decade report shows progress but urges closing structural gaps to reach 2030 goals",
