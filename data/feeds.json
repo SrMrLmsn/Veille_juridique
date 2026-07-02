@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-02T20:42:03.505078+00:00",
+  "updated": "2026-07-02T22:08:40.847247+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
       "country": "FR",
       "color": "#003189",
-      "count": 10
+      "count": 0
     },
     "anssi": {
       "name": "ANSSI",
@@ -28,36 +28,12 @@
   },
   "items": [
     {
-      "title": "Jeux d’argent et de hasard : appliquer le RGPD aux traitements de données des joueurs",
-      "link": "https://www.cnil.fr/fr/jeux-argent-hasard-application-rgpd",
-      "date": "2026-07-02T12:00:00+00:00",
-      "summary": "Les opérateurs de jeux d’argent et de hasard doivent concilier les exigences du RGPD avec leurs obligations sectorielles. Pour accompagner les acteurs dans cette démarche, l’ANJ a élaboré, en concertation avec la CNIL, un guide apportant des repères pratiques.",
-      "source_id": "cnil",
-      "source_name": "CNIL"
-    },
-    {
       "title": "EDPB and AMLA to develop Joint Guidelines on partnerships for information sharing",
       "link": "https://www.edpb.europa.eu/news/edpb-and-amla-to-develop-joint-guidelines-on-partnerships-for-information-sharing_en",
       "date": "2026-07-01T12:00:00+00:00",
       "summary": "<p>Brussels/Frankfurt, 1 July – The EDPB and the Anti-Money Laundering Authority (AMLA) are working together to bring greater clarity to a question of growing importance for industry and authorities alike: how to share information to fight financial crime while protecting personal data.</p><h3>Why i",
       "source_id": "edpb",
       "source_name": "EDPB"
-    },
-    {
-      "title": "Véhicules connectés : dans quelles conditions vos données de localisation peuvent être utilisées ?",
-      "link": "https://www.cnil.fr/fr/vehicules-connectes-utilisation-de-vos-donnees",
-      "date": "2026-06-30T12:00:00+00:00",
-      "summary": "Les véhicules connectés collectent des données de localisation pour proposer certains services liés au divertissement ou à la sécurité. Ces informations peuvent révéler des éléments très personnels sur votre vie privée. La CNIL rappelle les garanties à mettre en œuvre et les droits des personnes.",
-      "source_id": "cnil",
-      "source_name": "CNIL"
-    },
-    {
-      "title": "Véhicules connectés : la CNIL publie sa recommandation sur l’utilisation des données de localisation",
-      "link": "https://www.cnil.fr/fr/recommandation-vehicules-connectes-localisation",
-      "date": "2026-06-30T12:00:00+00:00",
-      "summary": "À l’issue d’une consultation publique, la CNIL publie ses recommandations sur l’utilisation par les professionnels des données de localisation des véhicules connectés (voitures, cycles, scooters, etc.). Objectif&amp;nbsp;: renforcer la sécurité juridique et donner plus de transparence aux utilisateu",
-      "source_id": "cnil",
-      "source_name": "CNIL"
     },
     {
       "title": "Bulletin d'actualité CERTFR-2026-ACT-028 (29 juin 2026)",
@@ -98,14 +74,6 @@
       "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Azure Linux. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
       "source_id": "anssi",
       "source_name": "ANSSI"
-    },
-    {
-      "title": "Technologies émergentes et protection des mineurs : les autorités de protection des données du G7 s’accordent sur des principes clés",
-      "link": "https://www.cnil.fr/fr/g7-technologies-protection-mineurs",
-      "date": "2026-06-26T12:00:00+00:00",
-      "summary": "Les autorités de protection des données des pays du G7 se sont réunies à Paris les 25 et 26 juin à l’invitation de la CNIL dans le cadre de la présidence française du G7. Elles ont adopté une déclaration sur les mécanismes de vérification de l’âge respectueux de la vie privée, ainsi qu’un document s",
-      "source_id": "cnil",
-      "source_name": "CNIL"
     },
     {
       "title": "Multiples vulnérabilités dans le noyau Linux de Debian (26 juin 2026)",
@@ -212,38 +180,6 @@
       "source_name": "ANSSI"
     },
     {
-      "title": "Quatre auteurs reçoivent le deuxième prix CNIL/EHESS pour leur recherche sur la réception du règlement IA par les citoyens européens",
-      "link": "https://www.cnil.fr/fr/prix-ehess-cnil-2026",
-      "date": "2026-06-24T12:00:00+00:00",
-      "summary": "Lors de la Journée de recherche sur la vie privée, le 24 juin 2026, Gabriel Lima, Gustavo Gil Gasiola, Frederike Zufall et Yixin Zou ont reçu le 2ème prix CNIL/EHESS pour leur article sur la régulation de l’intelligence artificielle et son alignement avec les attentes citoyennes.",
-      "source_id": "cnil",
-      "source_name": "CNIL"
-    },
-    {
-      "title": "Informations publiques",
-      "link": "https://www.cnil.fr/fr/informations-publiques",
-      "date": "2026-06-24T12:00:00+00:00",
-      "summary": "Cette page recense les informations publiques de la CNIL (documents, vidéos, open data).",
-      "source_id": "cnil",
-      "source_name": "CNIL"
-    },
-    {
-      "title": "Remise du prix « Protection de la vie privée » 2026 par la CNIL et l’Inria",
-      "link": "https://www.cnil.fr/fr/prix-inria-cnil-2026",
-      "date": "2026-06-24T12:00:00+00:00",
-      "summary": "Lors de la Journée de recherche sur la vie privée, le 24 juin 2026,&amp;nbsp;la CNIL et l’Inria ont remis le prix 2026 de la protection de la vie privée à une équipe de chercheurs internationaux pour leur article portant sur l’articulation entre la réglementation et la recherche concernant les desig",
-      "source_id": "cnil",
-      "source_name": "CNIL"
-    },
-    {
-      "title": "Victimes de violations de données : restez vigilants face aux offres d’accompagnement",
-      "link": "https://www.cnil.fr/fr/vigilance-accompagnement-violation-de-donnees",
-      "date": "2026-06-24T12:00:00+00:00",
-      "summary": "Des victimes de violations de données personnelles reçoivent des courriels proposant une aide pour faire supprimer leurs informations en ligne. La CNIL invite à la prudence face à ces démarches dont elle n’est pas à l’origine.",
-      "source_id": "cnil",
-      "source_name": "CNIL"
-    },
-    {
       "title": "Supporting GDPR consistency: EDPB launches dedicated form",
       "link": "https://www.edpb.europa.eu/news/supporting-gdpr-consistency-edpb-launches-dedicated-form_en",
       "date": "2026-06-24T12:00:00+00:00",
@@ -274,14 +210,6 @@
       "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Azure Linux. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
       "source_id": "anssi",
       "source_name": "ANSSI"
-    },
-    {
-      "title": "Élections professionnelles dans la fonction publique et vote électronique : comment transmettre les rapports d’expertise à la CNIL ?",
-      "link": "https://www.cnil.fr/fr/elections-professionnelles-fonction-publique-vote-electronique",
-      "date": "2026-06-23T12:00:00+00:00",
-      "summary": "Lorsque le recours au vote électronique est prévu pour les élections professionnelles dans la fonction publique, le système de vote doit faire l’objet d’une expertise indépendante. Dans ce cadre, les rapports d’expertise doivent désormais être transmis à la CNIL.",
-      "source_id": "cnil",
-      "source_name": "CNIL"
     },
     {
       "title": "Multiples vulnérabilités dans Moodle (23 juin 2026)",
@@ -330,14 +258,6 @@
       "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
       "source_id": "anssi",
       "source_name": "ANSSI"
-    },
-    {
-      "title": "Sécurité des données : les règles essentielles pour protéger les données et votre activité",
-      "link": "https://www.cnil.fr/fr/securite-des-donnees-les-regles-essentielles",
-      "date": "2026-06-19T12:00:00+00:00",
-      "summary": "Le numérique offre des opportunités pour développer votre entreprise, mais il s’accompagne aussi de risques concernant la sécurité des données que vous détenez, qu’elles soient personnelles (fichiers clients, employés…) ou non (informations financières, industrielles…). Il est donc impératif de sécu",
-      "source_id": "cnil",
-      "source_name": "CNIL"
     },
     {
       "title": "2026 State of the Digital Decade report shows progress but urges closing structural gaps to reach 2030 goals",
