@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T08:12:17.498848+00:00",
+  "updated": "2026-07-02T11:07:36.821328+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -44,18 +44,18 @@
       "source_name": "EDPB"
     },
     {
-      "title": "Véhicules connectés : dans quelles conditions vos données de localisation peuvent être utilisées ?",
-      "link": "https://www.cnil.fr/fr/vehicules-connectes-utilisation-de-vos-donnees",
-      "date": "2026-06-30T12:00:00+00:00",
-      "summary": "Les véhicules connectés collectent des données de localisation pour proposer certains services liés au divertissement ou à la sécurité. Ces informations peuvent révéler des éléments très personnels sur votre vie privée. La CNIL rappelle les garanties à mettre en œuvre et les droits des personnes.",
-      "source_id": "cnil",
-      "source_name": "CNIL"
-    },
-    {
       "title": "Véhicules connectés : la CNIL publie sa recommandation sur l’utilisation des données de localisation",
       "link": "https://www.cnil.fr/fr/recommandation-vehicules-connectes-localisation",
       "date": "2026-06-30T12:00:00+00:00",
       "summary": "À l’issue d’une consultation publique, la CNIL publie ses recommandations sur l’utilisation par les professionnels des données de localisation des véhicules connectés (voitures, cycles, scooters, etc.). Objectif&amp;nbsp;: renforcer la sécurité juridique et donner plus de transparence aux utilisateu",
+      "source_id": "cnil",
+      "source_name": "CNIL"
+    },
+    {
+      "title": "Véhicules connectés : dans quelles conditions vos données de localisation peuvent être utilisées ?",
+      "link": "https://www.cnil.fr/fr/vehicules-connectes-utilisation-de-vos-donnees",
+      "date": "2026-06-30T12:00:00+00:00",
+      "summary": "Les véhicules connectés collectent des données de localisation pour proposer certains services liés au divertissement ou à la sécurité. Ces informations peuvent révéler des éléments très personnels sur votre vie privée. La CNIL rappelle les garanties à mettre en œuvre et les droits des personnes.",
       "source_id": "cnil",
       "source_name": "CNIL"
     },
