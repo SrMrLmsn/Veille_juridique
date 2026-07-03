@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T06:47:35.643359+00:00",
+  "updated": "2026-07-03T10:06:04.940005+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -27,6 +27,22 @@
     }
   },
   "items": [
+    {
+      "title": "Le métier de DPO à l’heure de l’intelligence artificielle : publication des résultats de l’enquête",
+      "link": "https://www.cnil.fr/fr/enquete-dpo-ia",
+      "date": "2026-07-03T12:00:00+00:00",
+      "summary": "L’intégration de l’IA dans les pratiques professionnelles et l’entrée en application du règlement IA créent de nouveaux défis pour les DPO et leurs organisations. Afin de mieux comprendre leurs attentes et préoccupations, le ministère du Travail et des Solidarités, l’AFCDP et la CNIL publient les ré",
+      "source_id": "cnil",
+      "source_name": "CNIL"
+    },
+    {
+      "title": "Ordre du jour de la séance plénière du 2 juillet 2026",
+      "link": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-2-juillet-2026",
+      "date": "2026-07-02T12:00:00+00:00",
+      "summary": "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 2 juillet 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
+      "source_id": "cnil",
+      "source_name": "CNIL"
+    },
     {
       "title": "Jeux d’argent et de hasard : appliquer le RGPD aux traitements de données des joueurs",
       "link": "https://www.cnil.fr/fr/jeux-argent-hasard-application-rgpd",
@@ -276,14 +292,6 @@
       "source_name": "ANSSI"
     },
     {
-      "title": "Élections professionnelles dans la fonction publique et vote électronique : comment transmettre les rapports d’expertise à la CNIL ?",
-      "link": "https://www.cnil.fr/fr/elections-professionnelles-fonction-publique-vote-electronique",
-      "date": "2026-06-23T12:00:00+00:00",
-      "summary": "Lorsque le recours au vote électronique est prévu pour les élections professionnelles dans la fonction publique, le système de vote doit faire l’objet d’une expertise indépendante. Dans ce cadre, les rapports d’expertise doivent désormais être transmis à la CNIL.",
-      "source_id": "cnil",
-      "source_name": "CNIL"
-    },
-    {
       "title": "Multiples vulnérabilités dans Moodle (23 juin 2026)",
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0794/",
       "date": "2026-06-23T00:00:00+00:00",
@@ -330,14 +338,6 @@
       "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
       "source_id": "anssi",
       "source_name": "ANSSI"
-    },
-    {
-      "title": "Sécurité des données : les règles essentielles pour protéger les données et votre activité",
-      "link": "https://www.cnil.fr/fr/securite-des-donnees-les-regles-essentielles",
-      "date": "2026-06-19T12:00:00+00:00",
-      "summary": "Le numérique offre des opportunités pour développer votre entreprise, mais il s’accompagne aussi de risques concernant la sécurité des données que vous détenez, qu’elles soient personnelles (fichiers clients, employés…) ou non (informations financières, industrielles…). Il est donc impératif de sécu",
-      "source_id": "cnil",
-      "source_name": "CNIL"
     },
     {
       "title": "2026 State of the Digital Decade report shows progress but urges closing structural gaps to reach 2030 goals",
