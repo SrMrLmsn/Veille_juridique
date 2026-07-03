@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T12:26:15.706690+00:00",
+  "updated": "2026-07-03T14:52:06.964255+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -60,6 +60,14 @@
       "source_name": "EDPB"
     },
     {
+      "title": "Véhicules connectés : la CNIL publie sa recommandation sur l’utilisation des données de localisation",
+      "link": "https://www.cnil.fr/fr/recommandation-vehicules-connectes-localisation",
+      "date": "2026-06-30T12:00:00+00:00",
+      "summary": "À l’issue d’une consultation publique, la CNIL publie ses recommandations sur l’utilisation par les professionnels des données de localisation des véhicules connectés (voitures, cycles, scooters, etc.). Objectif&amp;nbsp;: renforcer la sécurité juridique et donner plus de transparence aux utilisateu",
+      "source_id": "cnil",
+      "source_name": "CNIL"
+    },
+    {
       "title": "Véhicules connectés : dans quelles conditions vos données de localisation peuvent être utilisées ?",
       "link": "https://www.cnil.fr/fr/vehicules-connectes-utilisation-de-vos-donnees",
       "date": "2026-06-30T12:00:00+00:00",
@@ -68,12 +76,28 @@
       "source_name": "CNIL"
     },
     {
-      "title": "Véhicules connectés : la CNIL publie sa recommandation sur l’utilisation des données de localisation",
-      "link": "https://www.cnil.fr/fr/recommandation-vehicules-connectes-localisation",
-      "date": "2026-06-30T12:00:00+00:00",
-      "summary": "À l’issue d’une consultation publique, la CNIL publie ses recommandations sur l’utilisation par les professionnels des données de localisation des véhicules connectés (voitures, cycles, scooters, etc.). Objectif&amp;nbsp;: renforcer la sécurité juridique et donner plus de transparence aux utilisateu",
-      "source_id": "cnil",
-      "source_name": "CNIL"
+      "title": "Multiples vulnérabilités dans Apache Tomcat (30 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0817/",
+      "date": "2026-06-30T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Apache Tomcat. Certaines d'entre elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS), un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans les produits Apple (30 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0818/",
+      "date": "2026-06-30T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Apple. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans Synology MailPlus Server (30 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0819/",
+      "date": "2026-06-30T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Synology MailPlus Server. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
     },
     {
       "title": "Bulletin d'actualité CERTFR-2026-ACT-028 (29 juin 2026)",
@@ -112,6 +136,22 @@
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0812/",
       "date": "2026-06-29T00:00:00+00:00",
       "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Azure Linux. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans Microsoft Edge (29 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0811/",
+      "date": "2026-06-29T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un problème de sécurité non spécifié par l'éditeur.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans Stormshield Management Center (29 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0816/",
+      "date": "2026-06-29T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Stormshield Management Center. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
       "source_id": "anssi",
       "source_name": "ANSSI"
     },
@@ -292,52 +332,12 @@
       "source_name": "ANSSI"
     },
     {
-      "title": "Multiples vulnérabilités dans Moodle (23 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0794/",
-      "date": "2026-06-23T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Moodle Moodle. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une falsification de requêtes côté serveur (SSRF) et une injection de code indirecte à distance (XSS).",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Squid (23 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0795/",
-      "date": "2026-06-23T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Squid. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un problème de sécurité non spécifié par l'éditeur.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
       "title": "EDPB gets a new look: discover the new website and brand identity",
       "link": "https://www.edpb.europa.eu/news/edpb-gets-a-new-look-discover-the-new-website-and-brand-identity_en",
       "date": "2026-06-22T12:00:00+00:00",
       "summary": "<p>Brussels, 22 June - Since its establishment in 2018, the core mission of the EDPB has been to uphold and safeguard the right to data protection. Over the years, the EDPB has played a key role in ensuring the <strong>consistent application</strong> of the GDPR across Europe, by <strong>providing g",
       "source_id": "edpb",
       "source_name": "EDPB"
-    },
-    {
-      "title": "Multiples vulnérabilités dans les produits Microsoft (22 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0792/",
-      "date": "2026-06-22T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un problème de sécurité non spécifié par l'éditeur.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Postfix (22 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0793/",
-      "date": "2026-06-22T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Postfix. Elles permettent à un attaquant de provoquer un déni de service à distance et un problème de sécurité non spécifié par l'éditeur.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Microsoft Edge (22 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0791/",
-      "date": "2026-06-22T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
     },
     {
       "title": "2026 State of the Digital Decade report shows progress but urges closing structural gaps to reach 2030 goals",
