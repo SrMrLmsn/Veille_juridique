@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06T04:51:53.558489+00:00",
+  "updated": "2026-07-06T09:00:19.627971+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -27,6 +27,14 @@
     }
   },
   "items": [
+    {
+      "title": "La CNIL a prononcé 23 nouvelles sanctions depuis janvier au titre de la procédure simplifiée",
+      "link": "https://www.cnil.fr/fr/23-nouvelles-sanctions-simplifiees",
+      "date": "2026-07-06T12:00:00+00:00",
+      "summary": "Vidéosurveillance excessive, cookies, non-respect des droits des personnes ou encore défaut de coopération avec la CNIL&amp;nbsp;: depuis janvier 2026, 23 nouvelles sanctions ont été prononcées dans le cadre de la procédure simplifiée, dont 19 ont pour origine des plaintes.",
+      "source_id": "cnil",
+      "source_name": "CNIL"
+    },
     {
       "title": "Le métier de DPO à l’heure de l’intelligence artificielle : publication des résultats de l’enquête",
       "link": "https://www.cnil.fr/fr/enquete-dpo-ia",
@@ -60,18 +68,18 @@
       "source_name": "EDPB"
     },
     {
-      "title": "Véhicules connectés : la CNIL publie sa recommandation sur l’utilisation des données de localisation",
-      "link": "https://www.cnil.fr/fr/recommandation-vehicules-connectes-localisation",
-      "date": "2026-06-30T12:00:00+00:00",
-      "summary": "À l’issue d’une consultation publique, la CNIL publie ses recommandations sur l’utilisation par les professionnels des données de localisation des véhicules connectés (voitures, cycles, scooters, etc.). Objectif&amp;nbsp;: renforcer la sécurité juridique et donner plus de transparence aux utilisateu",
-      "source_id": "cnil",
-      "source_name": "CNIL"
-    },
-    {
       "title": "Véhicules connectés : dans quelles conditions vos données de localisation peuvent être utilisées ?",
       "link": "https://www.cnil.fr/fr/vehicules-connectes-utilisation-de-vos-donnees",
       "date": "2026-06-30T12:00:00+00:00",
       "summary": "Les véhicules connectés collectent des données de localisation pour proposer certains services liés au divertissement ou à la sécurité. Ces informations peuvent révéler des éléments très personnels sur votre vie privée. La CNIL rappelle les garanties à mettre en œuvre et les droits des personnes.",
+      "source_id": "cnil",
+      "source_name": "CNIL"
+    },
+    {
+      "title": "Véhicules connectés : la CNIL publie sa recommandation sur l’utilisation des données de localisation",
+      "link": "https://www.cnil.fr/fr/recommandation-vehicules-connectes-localisation",
+      "date": "2026-06-30T12:00:00+00:00",
+      "summary": "À l’issue d’une consultation publique, la CNIL publie ses recommandations sur l’utilisation par les professionnels des données de localisation des véhicules connectés (voitures, cycles, scooters, etc.). Objectif&amp;nbsp;: renforcer la sécurité juridique et donner plus de transparence aux utilisateu",
       "source_id": "cnil",
       "source_name": "CNIL"
     },
@@ -288,14 +296,6 @@
       "link": "https://www.cnil.fr/fr/prix-inria-cnil-2026",
       "date": "2026-06-24T12:00:00+00:00",
       "summary": "Lors de la Journée de recherche sur la vie privée, le 24 juin 2026,&amp;nbsp;la CNIL et l’Inria ont remis le prix 2026 de la protection de la vie privée à une équipe de chercheurs internationaux pour leur article portant sur l’articulation entre la réglementation et la recherche concernant les desig",
-      "source_id": "cnil",
-      "source_name": "CNIL"
-    },
-    {
-      "title": "Victimes de violations de données : restez vigilants face aux offres d’accompagnement",
-      "link": "https://www.cnil.fr/fr/vigilance-accompagnement-violation-de-donnees",
-      "date": "2026-06-24T12:00:00+00:00",
-      "summary": "Des victimes de violations de données personnelles reçoivent des courriels proposant une aide pour faire supprimer leurs informations en ligne. La CNIL invite à la prudence face à ces démarches dont elle n’est pas à l’origine.",
       "source_id": "cnil",
       "source_name": "CNIL"
     },
