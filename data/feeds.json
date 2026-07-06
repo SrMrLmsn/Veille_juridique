@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06T09:00:19.627971+00:00",
+  "updated": "2026-07-06T13:03:40.321869+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -66,6 +66,14 @@
       "summary": "<p>Brussels/Frankfurt, 1 July – The EDPB and the Anti-Money Laundering Authority (AMLA) are working together to bring greater clarity to a question of growing importance for industry and authorities alike: how to share information to fight financial crime while protecting personal data.</p><h3>Why i",
       "source_id": "edpb",
       "source_name": "EDPB"
+    },
+    {
+      "title": "Call for Tenders: European Data Market Study 2027–2028",
+      "link": "https://digital-strategy.ec.europa.eu/en/funding/call-tenders-european-data-market-study-2027-2028",
+      "date": "2026-06-30T12:43:00+00:00",
+      "summary": "<span>Call for Tenders: European Data Market Study 2027–2028</span>\n<span><span>dumimar</span></span>\n<span><time datetime=\"2026-06-30T14:43:00+02:00\" title=\"Tuesday, June 30, 2026 - 14:43\">Tue, 06/30/2026 - 14:43</time>\n</span>\n\n<div>\n  <div class=\"cnt-thumbnail-media ecl-u-type-m cnt-content-wrapp",
+      "source_id": "commission",
+      "source_name": "Commission européenne"
     },
     {
       "title": "Véhicules connectés : dans quelles conditions vos données de localisation peuvent être utilisées ?",
@@ -408,14 +416,6 @@
       "link": "https://digital-strategy.ec.europa.eu/en/library/digital-decade-2026-connectivity-coverage-europe-2025-report",
       "date": "2026-06-17T07:10:00+00:00",
       "summary": "<span>Digital Decade 2026 - Connectivity Coverage in Europe 2025 report</span>\n<span><span>dumimar</span></span>\n<span><time datetime=\"2026-06-17T09:10:00+02:00\" title=\"Wednesday, June 17, 2026 - 09:10\">Wed, 06/17/2026 - 09:10</time>\n</span>\n\n<div>\n  <div class=\"cnt-thumbnail-media ecl-u-type-m cnt-",
-      "source_id": "commission",
-      "source_name": "Commission européenne"
-    },
-    {
-      "title": "Digital Decade 2026: eGovernment Benchmark 2026",
-      "link": "https://digital-strategy.ec.europa.eu/en/library/digital-decade-2026-egovernment-benchmark-2026",
-      "date": "2026-06-17T07:07:00+00:00",
-      "summary": "<span>Digital Decade 2026: eGovernment Benchmark 2026</span>\n<span><span>dumimar</span></span>\n<span><time datetime=\"2026-06-17T09:07:00+02:00\" title=\"Wednesday, June 17, 2026 - 09:07\">Wed, 06/17/2026 - 09:07</time>\n</span>\n\n<div>\n  <div class=\"cnt-thumbnail-media ecl-u-type-m cnt-content-wrapper\">",
       "source_id": "commission",
       "source_name": "Commission européenne"
     },
