@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T07:40:00.373021+00:00",
+  "updated": "2026-07-07T10:58:13.810387+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -27,6 +27,22 @@
     }
   },
   "items": [
+    {
+      "title": "Géolocalisation et applications mobiles : quelles règles pour protéger les données des utilisateurs ?",
+      "link": "https://www.cnil.fr/fr/geolocalisation-applications-mobiles-quelles-regles",
+      "date": "2026-07-07T12:00:00+00:00",
+      "summary": "La géolocalisation est devenue un outil central des applications mobiles. Mais sa collecte et sa réutilisation soulèvent des enjeux majeurs de protection des données personnelles. La CNIL rappelle les règles applicables et les droits des personnes pour protéger leur vie privée.",
+      "source_id": "cnil",
+      "source_name": "CNIL"
+    },
+    {
+      "title": "Géolocalisation et applications mobiles : comment protéger vos données ?",
+      "link": "https://www.cnil.fr/fr/geolocalisation-applications-mobiles-proteger-vos-donnees",
+      "date": "2026-07-07T12:00:00+00:00",
+      "summary": "Les applications météo, de sport ou de rencontres utilisent souvent votre localisation. Mais savez-vous qui peut accéder à ces données et pourquoi&amp;nbsp;? La CNIL vous aide à comprendre les enjeux et à garder le contrôle sur vos données.",
+      "source_id": "cnil",
+      "source_name": "CNIL"
+    },
     {
       "title": "La CNIL a prononcé 23 nouvelles sanctions depuis janvier au titre de la procédure simplifiée",
       "link": "https://www.cnil.fr/fr/23-nouvelles-sanctions-simplifiees",
@@ -312,22 +328,6 @@
       "link": "https://www.cnil.fr/fr/prix-ehess-cnil-2026",
       "date": "2026-06-24T12:00:00+00:00",
       "summary": "Lors de la Journée de recherche sur la vie privée, le 24 juin 2026, Gabriel Lima, Gustavo Gil Gasiola, Frederike Zufall et Yixin Zou ont reçu le 2ème prix CNIL/EHESS pour leur article sur la régulation de l’intelligence artificielle et son alignement avec les attentes citoyennes.",
-      "source_id": "cnil",
-      "source_name": "CNIL"
-    },
-    {
-      "title": "Informations publiques",
-      "link": "https://www.cnil.fr/fr/informations-publiques",
-      "date": "2026-06-24T12:00:00+00:00",
-      "summary": "Cette page recense les informations publiques de la CNIL (documents, vidéos, open data).",
-      "source_id": "cnil",
-      "source_name": "CNIL"
-    },
-    {
-      "title": "Remise du prix « Protection de la vie privée » 2026 par la CNIL et l’Inria",
-      "link": "https://www.cnil.fr/fr/prix-inria-cnil-2026",
-      "date": "2026-06-24T12:00:00+00:00",
-      "summary": "Lors de la Journée de recherche sur la vie privée, le 24 juin 2026,&amp;nbsp;la CNIL et l’Inria ont remis le prix 2026 de la protection de la vie privée à une équipe de chercheurs internationaux pour leur article portant sur l’articulation entre la réglementation et la recherche concernant les desig",
       "source_id": "cnil",
       "source_name": "CNIL"
     },
