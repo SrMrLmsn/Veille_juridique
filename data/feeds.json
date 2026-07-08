@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08T07:29:25.597195+00:00",
+  "updated": "2026-07-08T09:57:28.422752+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -27,6 +27,14 @@
     }
   },
   "items": [
+    {
+      "title": "Targeted consultation on safeguarding the EU’s data sovereignty",
+      "link": "https://digital-strategy.ec.europa.eu/en/consultations/targeted-consultation-safeguarding-eus-data-sovereignty",
+      "date": "2026-07-08T07:10:00+00:00",
+      "summary": "<span>Targeted consultation on safeguarding the EU’s data sovereignty</span>\n<span><span>lobacni</span></span>\n<span><time datetime=\"2026-07-08T09:10:00+02:00\" title=\"Wednesday, July 8, 2026 - 09:10\">Wed, 07/08/2026 - 09:10</time>\n</span>\n\n<div>\n  <div class=\"cnt-thumbnail-media ecl-u-type-m cnt-con",
+      "source_id": "commission",
+      "source_name": "Commission européenne"
+    },
     {
       "title": "Géolocalisation et applications mobiles : quelles règles pour protéger les données des utilisateurs ?",
       "link": "https://www.cnil.fr/fr/geolocalisation-applications-mobiles-quelles-regles",
@@ -408,14 +416,6 @@
       "link": "https://digital-strategy.ec.europa.eu/en/library/digital-decade-2026-5g-observatory-report",
       "date": "2026-06-17T07:10:00+00:00",
       "summary": "<span>Digital Decade 2026 - 5G Observatory Report</span>\n<span><span>dumimar</span></span>\n<span><time datetime=\"2026-06-17T09:10:00+02:00\" title=\"Wednesday, June 17, 2026 - 09:10\">Wed, 06/17/2026 - 09:10</time>\n</span>\n\n<div>\n  <div class=\"cnt-thumbnail-media ecl-u-type-m cnt-content-wrapper\">",
-      "source_id": "commission",
-      "source_name": "Commission européenne"
-    },
-    {
-      "title": "Digital Decade 2026 - Connectivity Coverage in Europe 2025 report",
-      "link": "https://digital-strategy.ec.europa.eu/en/library/digital-decade-2026-connectivity-coverage-europe-2025-report",
-      "date": "2026-06-17T07:10:00+00:00",
-      "summary": "<span>Digital Decade 2026 - Connectivity Coverage in Europe 2025 report</span>\n<span><span>dumimar</span></span>\n<span><time datetime=\"2026-06-17T09:10:00+02:00\" title=\"Wednesday, June 17, 2026 - 09:10\">Wed, 06/17/2026 - 09:10</time>\n</span>\n\n<div>\n  <div class=\"cnt-thumbnail-media ecl-u-type-m cnt-",
       "source_id": "commission",
       "source_name": "Commission européenne"
     },
