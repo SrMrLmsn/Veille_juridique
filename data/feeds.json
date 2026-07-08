@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08T11:51:08.312053+00:00",
+  "updated": "2026-07-08T14:11:43.552899+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -27,6 +27,14 @@
     }
   },
   "items": [
+    {
+      "title": "EDPB sheds light on anonymisation and web scraping for generative AI and adopts final version of guidelines on blockchain",
+      "link": "https://www.edpb.europa.eu/news/edpb-sheds-light-on-anonymisation-and-web-scraping-for-generative-ai-and-adopts-final-version_en",
+      "date": "2026-07-08T12:00:00+00:00",
+      "summary": "<p>Brussels, 8 July– During its latest plenary, the EDPB has adopted <a href=\"https://www.edpb.europa.eu/system/files/2026-07/edpb_guidelines_202602_anonymisation_v1_en_0.pdf\"><strong>guidelines on anonymisation</strong></a><strong> </strong>and <a href=\"https://www.edpb.europa.eu/system/files/2026-",
+      "source_id": "edpb",
+      "source_name": "EDPB"
+    },
     {
       "title": "Targeted consultation on safeguarding the EU’s data sovereignty",
       "link": "https://digital-strategy.ec.europa.eu/en/consultations/targeted-consultation-safeguarding-eus-data-sovereignty",
@@ -188,18 +196,18 @@
       "source_name": "Commission européenne"
     },
     {
-      "title": "Véhicules connectés : dans quelles conditions vos données de localisation peuvent être utilisées ?",
-      "link": "https://www.cnil.fr/fr/vehicules-connectes-utilisation-de-vos-donnees",
-      "date": "2026-06-30T12:00:00+00:00",
-      "summary": "Les véhicules connectés collectent des données de localisation pour proposer certains services liés au divertissement ou à la sécurité. Ces informations peuvent révéler des éléments très personnels sur votre vie privée. La CNIL rappelle les garanties à mettre en œuvre et les droits des personnes.",
-      "source_id": "cnil",
-      "source_name": "CNIL"
-    },
-    {
       "title": "Véhicules connectés : la CNIL publie sa recommandation sur l’utilisation des données de localisation",
       "link": "https://www.cnil.fr/fr/recommandation-vehicules-connectes-localisation",
       "date": "2026-06-30T12:00:00+00:00",
       "summary": "À l’issue d’une consultation publique, la CNIL publie ses recommandations sur l’utilisation par les professionnels des données de localisation des véhicules connectés (voitures, cycles, scooters, etc.). Objectif&amp;nbsp;: renforcer la sécurité juridique et donner plus de transparence aux utilisateu",
+      "source_id": "cnil",
+      "source_name": "CNIL"
+    },
+    {
+      "title": "Véhicules connectés : dans quelles conditions vos données de localisation peuvent être utilisées ?",
+      "link": "https://www.cnil.fr/fr/vehicules-connectes-utilisation-de-vos-donnees",
+      "date": "2026-06-30T12:00:00+00:00",
+      "summary": "Les véhicules connectés collectent des données de localisation pour proposer certains services liés au divertissement ou à la sécurité. Ces informations peuvent révéler des éléments très personnels sur votre vie privée. La CNIL rappelle les garanties à mettre en œuvre et les droits des personnes.",
       "source_id": "cnil",
       "source_name": "CNIL"
     },
@@ -456,14 +464,6 @@
       "link": "https://www.edpb.europa.eu/news/the-italian-supervisory-authority-fined-a-company-120-000-eur-for-tracking-five-employees-who_en",
       "date": "2026-06-04T12:00:00+00:00",
       "summary": "<div class=\"heading-wrapper\"><h2 id=\"background-information\">Background information</h2><ul><li>Date of final decision: 27 November 2025</li><li>National case</li><li>Controller: Pioneer Hi-Bred Italia Sementi s.r.l.<br />Legal Reference(s): Article 5 (Principles relating to processing of personal d",
-      "source_id": "edpb",
-      "source_name": "EDPB"
-    },
-    {
-      "title": "Italian SA fines a company for post-sick leave questionnaires",
-      "link": "https://www.edpb.europa.eu/news/italian-sa-fines-a-company-for-post-sick-leave-questionnaires_en",
-      "date": "2026-06-04T12:00:00+00:00",
-      "summary": "<div class=\"heading-wrapper\"><h2 id=\"background-information\">Background information</h2><ul><li>Date of final decision: 10 July 2025</li><li>National case</li><li>Controller: Magna PT S.p.A.<br />Legal Reference(s): Article 5 (Principles relating to processing of personal data), Article 6 (Lawfulnes",
       "source_id": "edpb",
       "source_name": "EDPB"
     }
