@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08T14:11:43.552899+00:00",
+  "updated": "2026-07-08T16:14:15.303302+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -80,6 +80,30 @@
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0830/",
       "date": "2026-07-03T00:00:00+00:00",
       "summary": "Une vulnérabilité a été découverte dans FreeBSD. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (03 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0832/",
+      "date": "2026-07-03T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (03 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0833/",
+      "date": "2026-07-03T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans les produits IBM (03 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0834/",
+      "date": "2026-07-03T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
       "source_id": "anssi",
       "source_name": "ANSSI"
     },
@@ -196,18 +220,18 @@
       "source_name": "Commission européenne"
     },
     {
-      "title": "Véhicules connectés : la CNIL publie sa recommandation sur l’utilisation des données de localisation",
-      "link": "https://www.cnil.fr/fr/recommandation-vehicules-connectes-localisation",
-      "date": "2026-06-30T12:00:00+00:00",
-      "summary": "À l’issue d’une consultation publique, la CNIL publie ses recommandations sur l’utilisation par les professionnels des données de localisation des véhicules connectés (voitures, cycles, scooters, etc.). Objectif&amp;nbsp;: renforcer la sécurité juridique et donner plus de transparence aux utilisateu",
-      "source_id": "cnil",
-      "source_name": "CNIL"
-    },
-    {
       "title": "Véhicules connectés : dans quelles conditions vos données de localisation peuvent être utilisées ?",
       "link": "https://www.cnil.fr/fr/vehicules-connectes-utilisation-de-vos-donnees",
       "date": "2026-06-30T12:00:00+00:00",
       "summary": "Les véhicules connectés collectent des données de localisation pour proposer certains services liés au divertissement ou à la sécurité. Ces informations peuvent révéler des éléments très personnels sur votre vie privée. La CNIL rappelle les garanties à mettre en œuvre et les droits des personnes.",
+      "source_id": "cnil",
+      "source_name": "CNIL"
+    },
+    {
+      "title": "Véhicules connectés : la CNIL publie sa recommandation sur l’utilisation des données de localisation",
+      "link": "https://www.cnil.fr/fr/recommandation-vehicules-connectes-localisation",
+      "date": "2026-06-30T12:00:00+00:00",
+      "summary": "À l’issue d’une consultation publique, la CNIL publie ses recommandations sur l’utilisation par les professionnels des données de localisation des véhicules connectés (voitures, cycles, scooters, etc.). Objectif&amp;nbsp;: renforcer la sécurité juridique et donner plus de transparence aux utilisateu",
       "source_id": "cnil",
       "source_name": "CNIL"
     },
@@ -300,34 +324,10 @@
       "source_name": "CNIL"
     },
     {
-      "title": "Multiples vulnérabilités dans le noyau Linux de Debian (26 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0809/",
-      "date": "2026-06-26T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
       "title": "Multiples vulnérabilités dans les produits IBM (26 juin 2026)",
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0810/",
       "date": "2026-06-26T00:00:00+00:00",
       "summary": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (26 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0807/",
-      "date": "2026-06-26T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (26 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0808/",
-      "date": "2026-06-26T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
       "source_id": "anssi",
       "source_name": "ANSSI"
     },
