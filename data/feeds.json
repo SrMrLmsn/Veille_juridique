@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T09:41:44.566068+00:00",
+  "updated": "2026-07-09T15:56:36.638489+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -27,6 +27,14 @@
     }
   },
   "items": [
+    {
+      "title": "Travail, ressources humaines : le contrôle de l’activité des personnes employées",
+      "link": "https://www.cnil.fr/fr/controle-de-lactivite-des-personnes-employees",
+      "date": "2026-07-09T12:00:00+00:00",
+      "summary": "Un employeur a le pouvoir d’encadrer et de contrôler l’activité des membres du personnel ainsi que leur usage des équipements au travail. Il s’agit d’une contrepartie normale et inhérente au contrat de travail. Néanmoins, ce pouvoir ne peut pas être exercé de manière excessive.",
+      "source_id": "cnil",
+      "source_name": "CNIL"
+    },
     {
       "title": "Le CEPD met en lumière l’anonymisation et le moissonnage pour l’IA générative et adopte la version finale des lignes directrices sur la chaîne de blocs",
       "link": "https://www.cnil.fr/fr/cepd-ia-generative-chaines-blocs",
@@ -68,12 +76,68 @@
       "source_name": "CNIL"
     },
     {
+      "title": "Multiples vulnérabilités dans PHP (07 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0843/",
+      "date": "2026-07-07T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans PHP. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans SPIP (07 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0838/",
+      "date": "2026-07-07T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans SPIP. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une injection SQL (SQLi) et une injection de code indirecte à distance (XSS).",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans Postfix (07 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0842/",
+      "date": "2026-07-07T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Postfix. Elles permettent à un attaquant de provoquer un déni de service et un problème de sécurité non spécifié par l'éditeur.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
       "title": "La CNIL a prononcé 23 nouvelles sanctions depuis janvier au titre de la procédure simplifiée",
       "link": "https://www.cnil.fr/fr/23-nouvelles-sanctions-simplifiees",
       "date": "2026-07-06T12:00:00+00:00",
       "summary": "Vidéosurveillance excessive, cookies, non-respect des droits des personnes ou encore défaut de coopération avec la CNIL&amp;nbsp;: depuis janvier 2026, 23 nouvelles sanctions ont été prononcées dans le cadre de la procédure simplifiée, dont 19 ont pour origine des plaintes.",
       "source_id": "cnil",
       "source_name": "CNIL"
+    },
+    {
+      "title": "Bulletin d'actualité CERTFR-2026-ACT-029 (06 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-029/",
+      "date": "2026-07-06T00:00:00+00:00",
+      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques pour prioriser l'application des...",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Vulnérabilité dans PostgreSQL JDBC (06 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0837/",
+      "date": "2026-07-06T00:00:00+00:00",
+      "summary": "Une vulnérabilité a été découverte dans PostgreSQL JDBC. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans Roundcube (06 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0835/",
+      "date": "2026-07-06T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Roundcube. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une falsification de requêtes côté serveur (SSRF) et une injection de code indirecte à distance (XSS).",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans OpenSSH (06 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0836/",
+      "date": "2026-07-06T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans OpenSSH. Certaines d'entre elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, un déni de service et un problème de sécurité non spécifié par l'éditeur.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
     },
     {
       "title": "Le métier de DPO à l’heure de l’intelligence artificielle : publication des résultats de l’enquête",
@@ -112,6 +176,14 @@
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0834/",
       "date": "2026-07-03T00:00:00+00:00",
       "summary": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (03 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0831/",
+      "date": "2026-07-03T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et un déni de service à distance.",
       "source_id": "anssi",
       "source_name": "ANSSI"
     },
@@ -264,78 +336,6 @@
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0819/",
       "date": "2026-06-30T00:00:00+00:00",
       "summary": "De multiples vulnérabilités ont été découvertes dans Synology MailPlus Server. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Bulletin d'actualité CERTFR-2026-ACT-028 (29 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-028/",
-      "date": "2026-06-29T00:00:00+00:00",
-      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques pour prioriser l'application des...",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Vulnérabilité dans HAProxy (29 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0814/",
-      "date": "2026-06-29T00:00:00+00:00",
-      "summary": "Une vulnérabilité a été découverte dans HAProxy. Elle permet à un attaquant de provoquer un déni de service à distance.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Mattermost Server (29 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0813/",
-      "date": "2026-06-29T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Mattermost Server. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans KeyCloak (29 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0815/",
-      "date": "2026-06-29T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans KeyCloak. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Microsoft Azure Linux (29 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0812/",
-      "date": "2026-06-29T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Azure Linux. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Microsoft Edge (29 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0811/",
-      "date": "2026-06-29T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un problème de sécurité non spécifié par l'éditeur.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Stormshield Management Center (29 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0816/",
-      "date": "2026-06-29T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Stormshield Management Center. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Technologies émergentes et protection des mineurs : les autorités de protection des données du G7 s’accordent sur des principes clés",
-      "link": "https://www.cnil.fr/fr/g7-technologies-protection-mineurs",
-      "date": "2026-06-26T12:00:00+00:00",
-      "summary": "Les autorités de protection des données des pays du G7 se sont réunies à Paris les 25 et 26 juin à l’invitation de la CNIL dans le cadre de la présidence française du G7. Elles ont adopté une déclaration sur les mécanismes de vérification de l’âge respectueux de la vie privée, ainsi qu’un document s",
-      "source_id": "cnil",
-      "source_name": "CNIL"
-    },
-    {
-      "title": "Multiples vulnérabilités dans les produits IBM (26 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0810/",
-      "date": "2026-06-26T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
       "source_id": "anssi",
       "source_name": "ANSSI"
     },
