@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T05:40:13.343758+00:00",
+  "updated": "2026-07-09T09:41:44.566068+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -27,6 +27,14 @@
     }
   },
   "items": [
+    {
+      "title": "Le CEPD met en lumière l’anonymisation et le moissonnage pour l’IA générative et adopte la version finale des lignes directrices sur la chaîne de blocs",
+      "link": "https://www.cnil.fr/fr/cepd-ia-generative-chaines-blocs",
+      "date": "2026-07-09T12:00:00+00:00",
+      "summary": "Le 7 juillet 2026, le CEPD a adopté des lignes directrices sur l’anonymisation et des lignes directrices sur le moissonnage dans le contexte de l’IA générative. Il a aussi adopté la version finale de ses lignes directrices sur le traitement des données au moyen des technologies de la chaîne de blocs",
+      "source_id": "cnil",
+      "source_name": "CNIL"
+    },
     {
       "title": "EDPB sheds light on anonymisation and web scraping for generative AI and adopts final version of guidelines on blockchain",
       "link": "https://www.edpb.europa.eu/news/edpb-sheds-light-on-anonymisation-and-web-scraping-for-generative-ai-and-adopts-final-version_en",
@@ -338,14 +346,6 @@
       "summary": "<p><strong>Brussels, 25 June</strong> - The EDPB has published an update of the <a href=\"https://www.edpb.europa.eu/documents/support-pool-of-experts/one-stop-shop-case-digest-on-right-to-object-and-right-to-erasure_en\" target=\"_blank\">One-Stop-Shop (OSS) case digest on right to object and right to",
       "source_id": "edpb",
       "source_name": "EDPB"
-    },
-    {
-      "title": "Quatre auteurs reçoivent le deuxième prix CNIL/EHESS pour leur recherche sur la réception du règlement IA par les citoyens européens",
-      "link": "https://www.cnil.fr/fr/prix-ehess-cnil-2026",
-      "date": "2026-06-24T12:00:00+00:00",
-      "summary": "Lors de la Journée de recherche sur la vie privée, le 24 juin 2026, Gabriel Lima, Gustavo Gil Gasiola, Frederike Zufall et Yixin Zou ont reçu le 2ème prix CNIL/EHESS pour leur article sur la régulation de l’intelligence artificielle et son alignement avec les attentes citoyennes.",
-      "source_id": "cnil",
-      "source_name": "CNIL"
     },
     {
       "title": "Supporting GDPR consistency: EDPB launches dedicated form",
