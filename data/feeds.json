@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T05:36:26.316056+00:00",
+  "updated": "2026-07-10T09:37:14.934227+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -27,6 +27,22 @@
     }
   },
   "items": [
+    {
+      "title": "Revoir le webinaire : Nouveau téléservice santé et recherche, ce qui change pour vos demandes d’autorisation",
+      "link": "https://www.cnil.fr/fr/revoir-le-webinaire-nouveau-teleservice-sante-et-recherche-ce-qui-change-pour-vos-demandes",
+      "date": "2026-07-10T12:00:00+00:00",
+      "summary": "La CNIL vous propose de décrypter un sujet ou une actualité en lien avec la protection des données à travers une série de webinaires. Retrouvez ce nouvel épisode consacré au&amp;nbsp;nouveau téléservice santé et recherche de la CNIL.",
+      "source_id": "cnil",
+      "source_name": "CNIL"
+    },
+    {
+      "title": "Call for Tenders: EU Code Week 2027-2030",
+      "link": "https://digital-strategy.ec.europa.eu/en/funding/call-tenders-eu-code-week-2027-2030",
+      "date": "2026-07-09T12:10:00+00:00",
+      "summary": "<span>Call for Tenders: EU Code Week 2027-2030</span>\n<span><span>dumimar</span></span>\n<span><time datetime=\"2026-07-09T14:10:00+02:00\" title=\"Thursday, July 9, 2026 - 14:10\">Thu, 07/09/2026 - 14:10</time>\n</span>\n\n<div>\n  <div class=\"cnt-thumbnail-media ecl-u-type-m cnt-content-wrapper\">",
+      "source_id": "commission",
+      "source_name": "Commission européenne"
+    },
     {
       "title": "Travail, ressources humaines : le contrôle de l’activité des personnes employées",
       "link": "https://www.cnil.fr/fr/controle-de-lactivite-des-personnes-employees",
@@ -300,14 +316,6 @@
       "source_name": "Commission européenne"
     },
     {
-      "title": "Véhicules connectés : dans quelles conditions vos données de localisation peuvent être utilisées ?",
-      "link": "https://www.cnil.fr/fr/vehicules-connectes-utilisation-de-vos-donnees",
-      "date": "2026-06-30T12:00:00+00:00",
-      "summary": "Les véhicules connectés collectent des données de localisation pour proposer certains services liés au divertissement ou à la sécurité. Ces informations peuvent révéler des éléments très personnels sur votre vie privée. La CNIL rappelle les garanties à mettre en œuvre et les droits des personnes.",
-      "source_id": "cnil",
-      "source_name": "CNIL"
-    },
-    {
       "title": "Véhicules connectés : la CNIL publie sa recommandation sur l’utilisation des données de localisation",
       "link": "https://www.cnil.fr/fr/recommandation-vehicules-connectes-localisation",
       "date": "2026-06-30T12:00:00+00:00",
@@ -416,14 +424,6 @@
       "link": "https://digital-strategy.ec.europa.eu/en/library/2026-digital-decade-ehealth-indicator-study",
       "date": "2026-06-17T07:15:00+00:00",
       "summary": "<span>The 2026 Digital Decade eHealth Indicator Study</span>\n<span><span>dumimar</span></span>\n<span><time datetime=\"2026-06-17T09:15:00+02:00\" title=\"Wednesday, June 17, 2026 - 09:15\">Wed, 06/17/2026 - 09:15</time>\n</span>\n\n<div>\n  <div class=\"cnt-thumbnail-media ecl-u-type-m cnt-content-wrapper\">",
-      "source_id": "commission",
-      "source_name": "Commission européenne"
-    },
-    {
-      "title": "Digital Decade 2026 - 5G Observatory Report",
-      "link": "https://digital-strategy.ec.europa.eu/en/library/digital-decade-2026-5g-observatory-report",
-      "date": "2026-06-17T07:10:00+00:00",
-      "summary": "<span>Digital Decade 2026 - 5G Observatory Report</span>\n<span><span>dumimar</span></span>\n<span><time datetime=\"2026-06-17T09:10:00+02:00\" title=\"Wednesday, June 17, 2026 - 09:10\">Wed, 06/17/2026 - 09:10</time>\n</span>\n\n<div>\n  <div class=\"cnt-thumbnail-media ecl-u-type-m cnt-content-wrapper\">",
       "source_id": "commission",
       "source_name": "Commission européenne"
     },
