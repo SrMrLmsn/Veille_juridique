@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T12:25:56.735996+00:00",
+  "updated": "2026-07-10T15:13:09.170070+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -44,6 +44,14 @@
       "source_name": "Commission européenne"
     },
     {
+      "title": "Investing in Europe’s digital future: Study projects long-term economic impact of the European Competitiveness Fund",
+      "link": "https://digital-strategy.ec.europa.eu/en/library/investing-europes-digital-future-study-projects-long-term-economic-impact-european-competitiveness",
+      "date": "2026-07-09T15:11:25+00:00",
+      "summary": "<span>Investing in Europe’s digital future: Study projects long-term economic impact of the European Competitiveness Fund</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-07-09T17:11:25+02:00\" title=\"Thursday, July 9, 2026 - 17:11\">Thu, 07/09/2026 - 17:11</time>\n<",
+      "source_id": "commission",
+      "source_name": "Commission européenne"
+    },
+    {
       "title": "Call for Tenders: EU Code Week 2027-2030",
       "link": "https://digital-strategy.ec.europa.eu/en/funding/call-tenders-eu-code-week-2027-2030",
       "date": "2026-07-09T12:10:00+00:00",
@@ -68,6 +76,54 @@
       "source_name": "CNIL"
     },
     {
+      "title": "AI Challenge Competition Info Webinar",
+      "link": "https://digital-strategy.ec.europa.eu/en/events/ai-challenge-competition-info-webinar",
+      "date": "2026-07-09T10:39:47+00:00",
+      "summary": "<span>AI Challenge Competition Info Webinar</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-07-09T12:39:47+02:00\" title=\"Thursday, July 9, 2026 - 12:39\">Thu, 07/09/2026 - 12:39</time>\n</span>\n\n<div>\n  <div class=\"cnt-thumbnail-media ecl-u-type-m cnt-content-wrapp",
+      "source_id": "commission",
+      "source_name": "Commission européenne"
+    },
+    {
+      "title": "Commission Opinion on the assessment of the Code of Practice on Transparency of AI-generated content",
+      "link": "https://digital-strategy.ec.europa.eu/en/library/commission-opinion-assessment-code-practice-transparency-ai-generated-content",
+      "date": "2026-07-09T07:03:00+00:00",
+      "summary": "<span>Commission Opinion on the assessment of the Code of Practice on Transparency of AI-generated content</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-07-09T09:03:00+02:00\" title=\"Thursday, July 9, 2026 - 09:03\">Thu, 07/09/2026 - 09:03</time>\n</span>\n\n<div>",
+      "source_id": "commission",
+      "source_name": "Commission européenne"
+    },
+    {
+      "title": "Multiples vulnérabilités dans les produits Juniper Networks (09 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0852/",
+      "date": "2026-07-09T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Juniper Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans les produits Palo Alto Networks (09 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0853/",
+      "date": "2026-07-09T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Palo Alto Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Vulnérabilité dans Microsoft Edge (09 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0854/",
+      "date": "2026-07-09T00:00:00+00:00",
+      "summary": "Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans Traefik (09 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0851/",
+      "date": "2026-07-09T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Traefik. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
       "title": "EDPB sheds light on anonymisation and web scraping for generative AI and adopts final version of guidelines on blockchain",
       "link": "https://www.edpb.europa.eu/news/edpb-sheds-light-on-anonymisation-and-web-scraping-for-generative-ai-and-adopts-final-version_en",
       "date": "2026-07-08T12:00:00+00:00",
@@ -84,12 +140,28 @@
       "source_name": "Commission européenne"
     },
     {
-      "title": "Géolocalisation et applications mobiles : quelles règles pour protéger les données des utilisateurs ?",
-      "link": "https://www.cnil.fr/fr/geolocalisation-applications-mobiles-quelles-regles",
-      "date": "2026-07-07T12:00:00+00:00",
-      "summary": "La géolocalisation est devenue un outil central des applications mobiles. Mais sa collecte et sa réutilisation soulèvent des enjeux majeurs de protection des données personnelles. La CNIL rappelle les règles applicables et les droits des personnes pour protéger leur vie privée.",
-      "source_id": "cnil",
-      "source_name": "CNIL"
+      "title": "Multiples vulnérabilités dans les produits Foxit (08 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0845/",
+      "date": "2026-07-08T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Foxit. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans les produits HPE Aruba Networking (08 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0846/",
+      "date": "2026-07-08T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits HPE Aruba Networking. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans Joomla! (08 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0847/",
+      "date": "2026-07-08T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Joomla!. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et une injection de code indirecte à distance (XSS).",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
     },
     {
       "title": "Géolocalisation et applications mobiles : comment protéger vos données ?",
@@ -98,6 +170,22 @@
       "summary": "Les applications météo, de sport ou de rencontres utilisent souvent votre localisation. Mais savez-vous qui peut accéder à ces données et pourquoi&amp;nbsp;? La CNIL vous aide à comprendre les enjeux et à garder le contrôle sur vos données.",
       "source_id": "cnil",
       "source_name": "CNIL"
+    },
+    {
+      "title": "Géolocalisation et applications mobiles : quelles règles pour protéger les données des utilisateurs ?",
+      "link": "https://www.cnil.fr/fr/geolocalisation-applications-mobiles-quelles-regles",
+      "date": "2026-07-07T12:00:00+00:00",
+      "summary": "La géolocalisation est devenue un outil central des applications mobiles. Mais sa collecte et sa réutilisation soulèvent des enjeux majeurs de protection des données personnelles. La CNIL rappelle les règles applicables et les droits des personnes pour protéger leur vie privée.",
+      "source_id": "cnil",
+      "source_name": "CNIL"
+    },
+    {
+      "title": "EU Action Plan on Cybersecurity and Artificial Intelligence",
+      "link": "https://digital-strategy.ec.europa.eu/en/library/eu-action-plan-cybersecurity-and-artificial-intelligence",
+      "date": "2026-07-07T07:56:00+00:00",
+      "summary": "<span>EU Action Plan on Cybersecurity and Artificial Intelligence</span>\n<span><span>dumimar</span></span>\n<span><time datetime=\"2026-07-07T09:56:00+02:00\" title=\"Tuesday, July 7, 2026 - 09:56\">Tue, 07/07/2026 - 09:56</time>\n</span>\n\n<div>\n  <div class=\"cnt-thumbnail-media ecl-u-type-m cnt-content-w",
+      "source_id": "commission",
+      "source_name": "Commission européenne"
     },
     {
       "title": "Multiples vulnérabilités dans PHP (07 juillet 2026)",
@@ -120,6 +208,38 @@
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0842/",
       "date": "2026-07-07T00:00:00+00:00",
       "summary": "De multiples vulnérabilités ont été découvertes dans Postfix. Elles permettent à un attaquant de provoquer un déni de service et un problème de sécurité non spécifié par l'éditeur.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans Microsoft Edge (07 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0840/",
+      "date": "2026-07-07T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Vulnérabilité dans Mozilla Firefox pour iOS (07 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0839/",
+      "date": "2026-07-07T00:00:00+00:00",
+      "summary": "Une vulnérabilité a été découverte dans Mozilla Firefox pour iOS. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Vulnérabilité dans Synacor Zimbra Collaboration (07 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0844/",
+      "date": "2026-07-07T00:00:00+00:00",
+      "summary": "Une vulnérabilité a été découverte dans Synacor Zimbra Collaboration. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans Microsoft Azure Linux (07 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0841/",
+      "date": "2026-07-07T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Azure Linux. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
       "source_id": "anssi",
       "source_name": "ANSSI"
     },
@@ -228,50 +348,10 @@
       "source_name": "CNIL"
     },
     {
-      "title": "Multiples vulnérabilités dans Mozilla Thunderbird (02 juillet 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0827/",
-      "date": "2026-07-02T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Mozilla Thunderbird. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données et un déni de service.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
       "title": "Vulnérabilité dans CPython (02 juillet 2026)",
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0828/",
       "date": "2026-07-02T00:00:00+00:00",
       "summary": "Une vulnérabilité a été découverte dans CPython. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans ClamAV (02 juillet 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0824/",
-      "date": "2026-07-02T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans ClamAV. Elles permettent à un attaquant de provoquer un déni de service et un problème de sécurité non spécifié par l'éditeur.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans les produits Cisco (02 juillet 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0825/",
-      "date": "2026-07-02T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans les produits Elastic (02 juillet 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0826/",
-      "date": "2026-07-02T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Elastic. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Traefik (02 juillet 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0823/",
-      "date": "2026-07-02T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Traefik. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.",
       "source_id": "anssi",
       "source_name": "ANSSI"
     },
@@ -292,30 +372,6 @@
       "source_name": "EDPB"
     },
     {
-      "title": "Vulnérabilité dans Mozilla Firefox (01 juillet 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0820/",
-      "date": "2026-07-01T00:00:00+00:00",
-      "summary": "Une vulnérabilité a été découverte dans Mozilla Firefox. Elle permet à un attaquant de provoquer une exécution de code arbitraire.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans les produits Citrix (01 juillet 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0822/",
-      "date": "2026-07-01T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Citrix. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un problème de sécurité non spécifié par l'éditeur.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Adobe ColdFusion (01 juillet 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0821/",
-      "date": "2026-07-01T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Adobe ColdFusion. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
       "title": "Call for Tenders: European Data Market Study 2027–2028",
       "link": "https://digital-strategy.ec.europa.eu/en/funding/call-tenders-european-data-market-study-2027-2028",
       "date": "2026-06-30T12:43:00+00:00",
@@ -324,36 +380,20 @@
       "source_name": "Commission européenne"
     },
     {
-      "title": "Véhicules connectés : la CNIL publie sa recommandation sur l’utilisation des données de localisation",
-      "link": "https://www.cnil.fr/fr/recommandation-vehicules-connectes-localisation",
+      "title": "Véhicules connectés : dans quelles conditions vos données de localisation peuvent être utilisées ?",
+      "link": "https://www.cnil.fr/fr/vehicules-connectes-utilisation-de-vos-donnees",
       "date": "2026-06-30T12:00:00+00:00",
-      "summary": "À l’issue d’une consultation publique, la CNIL publie ses recommandations sur l’utilisation par les professionnels des données de localisation des véhicules connectés (voitures, cycles, scooters, etc.). Objectif&amp;nbsp;: renforcer la sécurité juridique et donner plus de transparence aux utilisateu",
+      "summary": "Les véhicules connectés collectent des données de localisation pour proposer certains services liés au divertissement ou à la sécurité. Ces informations peuvent révéler des éléments très personnels sur votre vie privée. La CNIL rappelle les garanties à mettre en œuvre et les droits des personnes.",
       "source_id": "cnil",
       "source_name": "CNIL"
     },
     {
-      "title": "Multiples vulnérabilités dans Apache Tomcat (30 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0817/",
-      "date": "2026-06-30T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Apache Tomcat. Certaines d'entre elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS), un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans les produits Apple (30 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0818/",
-      "date": "2026-06-30T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Apple. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Synology MailPlus Server (30 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0819/",
-      "date": "2026-06-30T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Synology MailPlus Server. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
+      "title": "Info session: Call for proposals – Youth-driven social media platforms",
+      "link": "https://digital-strategy.ec.europa.eu/en/events/info-session-call-proposals-youth-driven-social-media-platforms",
+      "date": "2026-06-29T08:03:00+00:00",
+      "summary": "<span>Info session: Call for proposals – Youth-driven social media platforms</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-06-29T10:03:00+02:00\" title=\"Monday, June 29, 2026 - 10:03\">Mon, 06/29/2026 - 10:03</time>\n</span>\n\n<div>\n  <div class=\"cnt-thumbnail-medi",
+      "source_id": "commission",
+      "source_name": "Commission européenne"
     },
     {
       "title": "One-Stop-Shop case digest on right to object and right to erasure updated",
@@ -384,46 +424,6 @@
       "link": "https://digital-strategy.ec.europa.eu/en/news/2026-state-digital-decade-report-shows-progress-urges-closing-structural-gaps-reach-2030-goals",
       "date": "2026-06-17T09:35:00+00:00",
       "summary": "<span>2026 State of the Digital Decade report shows progress but urges closing structural gaps to reach 2030 goals</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-06-17T11:35:00+02:00\" title=\"Wednesday, June 17, 2026 - 11:35\">Wed, 06/17/2026 - 11:35</time>\n</span",
-      "source_id": "commission",
-      "source_name": "Commission européenne"
-    },
-    {
-      "title": "State of the Digital Decade 2026 - Factsheet",
-      "link": "https://digital-strategy.ec.europa.eu/en/library/state-digital-decade-2026-factsheet",
-      "date": "2026-06-17T08:22:00+00:00",
-      "summary": "<span>State of the Digital Decade 2026 - Factsheet</span>\n<span><span>dumimar</span></span>\n<span><time datetime=\"2026-06-17T10:22:00+02:00\" title=\"Wednesday, June 17, 2026 - 10:22\">Wed, 06/17/2026 - 10:22</time>\n</span>\n\n<div>\n  <div class=\"cnt-thumbnail-media ecl-u-type-m cnt-content-wrapper\">",
-      "source_id": "commission",
-      "source_name": "Commission européenne"
-    },
-    {
-      "title": "Digital Decade 2026 - Progress report on multi-country projects",
-      "link": "https://digital-strategy.ec.europa.eu/en/library/digital-decade-2026-progress-report-multi-country-projects",
-      "date": "2026-06-17T07:43:00+00:00",
-      "summary": "<span>Digital Decade 2026 - Progress report on multi-country projects</span>\n<span><span>dumimar</span></span>\n<span><time datetime=\"2026-06-17T09:43:00+02:00\" title=\"Wednesday, June 17, 2026 - 09:43\">Wed, 06/17/2026 - 09:43</time>\n</span>\n\n<div>\n  <div class=\"cnt-thumbnail-media ecl-u-type-m cnt-co",
-      "source_id": "commission",
-      "source_name": "Commission européenne"
-    },
-    {
-      "title": "Digital Decade 2026 - Monitoring of 2025 EU-level recommendations",
-      "link": "https://digital-strategy.ec.europa.eu/en/library/digital-decade-2026-monitoring-2025-eu-level-recommendations",
-      "date": "2026-06-17T07:22:00+00:00",
-      "summary": "<span>Digital Decade 2026 - Monitoring of 2025 EU-level recommendations</span>\n<span><span>dumimar</span></span>\n<span><time datetime=\"2026-06-17T09:22:00+02:00\" title=\"Wednesday, June 17, 2026 - 09:22\">Wed, 06/17/2026 - 09:22</time>\n</span>\n\n<div>\n  <div class=\"cnt-thumbnail-media ecl-u-type-m cnt-",
-      "source_id": "commission",
-      "source_name": "Commission européenne"
-    },
-    {
-      "title": "State of the Digital Decade 2026 - Closing structural gaps and mobilising investments for 2030 and beyond",
-      "link": "https://digital-strategy.ec.europa.eu/en/library/state-digital-decade-2026-closing-structural-gaps-and-mobilising-investments-2030-and-beyond",
-      "date": "2026-06-17T07:15:00+00:00",
-      "summary": "<span>State of the Digital Decade 2026 - Closing structural gaps and mobilising investments for 2030 and beyond</span>\n<span><span>dumimar</span></span>\n<span><time datetime=\"2026-06-17T09:15:00+02:00\" title=\"Wednesday, June 17, 2026 - 09:15\">Wed, 06/17/2026 - 09:15</time>\n</span>\n\n<div>\n  <div clas",
-      "source_id": "commission",
-      "source_name": "Commission européenne"
-    },
-    {
-      "title": "Digital Decade 2026 - DESI methodological note",
-      "link": "https://digital-strategy.ec.europa.eu/en/library/digital-decade-2026-desi-methodological-note",
-      "date": "2026-06-17T07:15:00+00:00",
-      "summary": "<span>Digital Decade 2026 - DESI methodological note</span>\n<span><span>dumimar</span></span>\n<span><time datetime=\"2026-06-17T09:15:00+02:00\" title=\"Wednesday, June 17, 2026 - 09:15\">Wed, 06/17/2026 - 09:15</time>\n</span>\n\n<div>\n  <div class=\"cnt-thumbnail-media ecl-u-type-m cnt-content-wrapper\">",
       "source_id": "commission",
       "source_name": "Commission européenne"
     },
