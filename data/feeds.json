@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T09:37:14.934227+00:00",
+  "updated": "2026-07-10T12:25:56.735996+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -34,6 +34,14 @@
       "summary": "La CNIL vous propose de décrypter un sujet ou une actualité en lien avec la protection des données à travers une série de webinaires. Retrouvez ce nouvel épisode consacré au&amp;nbsp;nouveau téléservice santé et recherche de la CNIL.",
       "source_id": "cnil",
       "source_name": "CNIL"
+    },
+    {
+      "title": "Commission preliminarily finds the addictive design of Instagram and Facebook in breach of the Digital Services Act",
+      "link": "https://digital-strategy.ec.europa.eu/en/news/commission-preliminarily-finds-addictive-design-instagram-and-facebook-breach-digital-services-act",
+      "date": "2026-07-10T08:57:00+00:00",
+      "summary": "<span>Commission preliminarily finds the addictive design of Instagram and Facebook in breach of the Digital Services Act</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-07-10T10:57:00+02:00\" title=\"Friday, July 10, 2026 - 10:57\">Fri, 07/10/2026 - 10:57</time>\n</",
+      "source_id": "commission",
+      "source_name": "Commission européenne"
     },
     {
       "title": "Call for Tenders: EU Code Week 2027-2030",
@@ -416,14 +424,6 @@
       "link": "https://digital-strategy.ec.europa.eu/en/library/digital-decade-2026-desi-methodological-note",
       "date": "2026-06-17T07:15:00+00:00",
       "summary": "<span>Digital Decade 2026 - DESI methodological note</span>\n<span><span>dumimar</span></span>\n<span><time datetime=\"2026-06-17T09:15:00+02:00\" title=\"Wednesday, June 17, 2026 - 09:15\">Wed, 06/17/2026 - 09:15</time>\n</span>\n\n<div>\n  <div class=\"cnt-thumbnail-media ecl-u-type-m cnt-content-wrapper\">",
-      "source_id": "commission",
-      "source_name": "Commission européenne"
-    },
-    {
-      "title": "The 2026 Digital Decade eHealth Indicator Study",
-      "link": "https://digital-strategy.ec.europa.eu/en/library/2026-digital-decade-ehealth-indicator-study",
-      "date": "2026-06-17T07:15:00+00:00",
-      "summary": "<span>The 2026 Digital Decade eHealth Indicator Study</span>\n<span><span>dumimar</span></span>\n<span><time datetime=\"2026-06-17T09:15:00+02:00\" title=\"Wednesday, June 17, 2026 - 09:15\">Wed, 06/17/2026 - 09:15</time>\n</span>\n\n<div>\n  <div class=\"cnt-thumbnail-media ecl-u-type-m cnt-content-wrapper\">",
       "source_id": "commission",
       "source_name": "Commission européenne"
     },
