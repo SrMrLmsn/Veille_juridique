@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-13T06:37:33.080761+00:00",
+  "updated": "2026-07-13T10:27:52.754428+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -27,6 +27,14 @@
     }
   },
   "items": [
+    {
+      "title": "Special panel report: Child safety online protecting and empowering minors in a digital world",
+      "link": "https://digital-strategy.ec.europa.eu/en/library/special-panel-report-child-safety-online-protecting-and-empowering-minors-digital-world",
+      "date": "2026-07-13T09:15:07+00:00",
+      "summary": "<span>Special panel report: Child safety online protecting and empowering minors in a digital world</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-07-13T11:15:07+02:00\" title=\"Monday, July 13, 2026 - 11:15\">Mon, 07/13/2026 - 11:15</time>\n</span>\n\n<div>\n  <div cl",
+      "source_id": "commission",
+      "source_name": "Commission européenne"
+    },
     {
       "title": "Revoir le webinaire : Nouveau téléservice santé et recherche, ce qui change pour vos demandes d’autorisation",
       "link": "https://www.cnil.fr/fr/revoir-le-webinaire-nouveau-teleservice-sante-et-recherche-ce-qui-change-pour-vos-demandes",
@@ -120,6 +128,22 @@
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0851/",
       "date": "2026-07-09T00:00:00+00:00",
       "summary": "De multiples vulnérabilités ont été découvertes dans Traefik. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans Wireshark (09 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0849/",
+      "date": "2026-07-09T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Wireshark. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans Microsoft Azure Linux (09 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0855/",
+      "date": "2026-07-09T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Azure Linux. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
       "source_id": "anssi",
       "source_name": "ANSSI"
     },
@@ -348,22 +372,6 @@
       "source_name": "CNIL"
     },
     {
-      "title": "Vulnérabilité dans CPython (02 juillet 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0828/",
-      "date": "2026-07-02T00:00:00+00:00",
-      "summary": "Une vulnérabilité a été découverte dans CPython. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Google Chrome (02 juillet 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0829/",
-      "date": "2026-07-02T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
       "title": "EDPB and AMLA to develop Joint Guidelines on partnerships for information sharing",
       "link": "https://www.edpb.europa.eu/news/edpb-and-amla-to-develop-joint-guidelines-on-partnerships-for-information-sharing_en",
       "date": "2026-07-01T12:00:00+00:00",
@@ -418,14 +426,6 @@
       "summary": "<p>Brussels, 22 June - Since its establishment in 2018, the core mission of the EDPB has been to uphold and safeguard the right to data protection. Over the years, the EDPB has played a key role in ensuring the <strong>consistent application</strong> of the GDPR across Europe, by <strong>providing g",
       "source_id": "edpb",
       "source_name": "EDPB"
-    },
-    {
-      "title": "2026 State of the Digital Decade report shows progress but urges closing structural gaps to reach 2030 goals",
-      "link": "https://digital-strategy.ec.europa.eu/en/news/2026-state-digital-decade-report-shows-progress-urges-closing-structural-gaps-reach-2030-goals",
-      "date": "2026-06-17T09:35:00+00:00",
-      "summary": "<span>2026 State of the Digital Decade report shows progress but urges closing structural gaps to reach 2030 goals</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-06-17T11:35:00+02:00\" title=\"Wednesday, June 17, 2026 - 11:35\">Wed, 06/17/2026 - 11:35</time>\n</span",
-      "source_id": "commission",
-      "source_name": "Commission européenne"
     },
     {
       "title": "Coordinated Supervision Committee extends scope to include Eurodac",
