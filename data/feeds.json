@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14T10:47:33.156943+00:00",
+  "updated": "2026-07-14T12:13:58.352720+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -27,6 +27,14 @@
     }
   },
   "items": [
+    {
+      "title": "Commission collects feedback to define EU's position for the upcoming World Radiocommunication Conference 2027",
+      "link": "https://digital-strategy.ec.europa.eu/en/consultations/commission-collects-feedback-define-eus-position-upcoming-world-radiocommunication-conference-2027",
+      "date": "2026-07-14T11:43:57+00:00",
+      "summary": "<span>Commission collects feedback to define EU's position for the upcoming World Radiocommunication Conference 2027</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-07-14T13:43:57+02:00\" title=\"Tuesday, July 14, 2026 - 13:43\">Tue, 07/14/2026 - 13:43</time>\n</span",
+      "source_id": "commission",
+      "source_name": "Commission européenne"
+    },
     {
       "title": "Special panel report: Child safety online protecting and empowering minors in a digital world",
       "link": "https://digital-strategy.ec.europa.eu/en/library/special-panel-report-child-safety-online-protecting-and-empowering-minors-digital-world",
@@ -386,14 +394,6 @@
       "summary": "Les véhicules connectés collectent des données de localisation pour proposer certains services liés au divertissement ou à la sécurité. Ces informations peuvent révéler des éléments très personnels sur votre vie privée. La CNIL rappelle les garanties à mettre en œuvre et les droits des personnes.",
       "source_id": "cnil",
       "source_name": "CNIL"
-    },
-    {
-      "title": "Info session: Call for proposals – Youth-driven social media platforms",
-      "link": "https://digital-strategy.ec.europa.eu/en/events/info-session-call-proposals-youth-driven-social-media-platforms",
-      "date": "2026-06-29T08:03:00+00:00",
-      "summary": "<span>Info session: Call for proposals – Youth-driven social media platforms</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-06-29T10:03:00+02:00\" title=\"Monday, June 29, 2026 - 10:03\">Mon, 06/29/2026 - 10:03</time>\n</span>\n\n<div>\n  <div class=\"cnt-thumbnail-medi",
-      "source_id": "commission",
-      "source_name": "Commission européenne"
     },
     {
       "title": "One-Stop-Shop case digest on right to object and right to erasure updated",
