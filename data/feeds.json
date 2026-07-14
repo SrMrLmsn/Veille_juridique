@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14T12:13:58.352720+00:00",
+  "updated": "2026-07-14T14:24:12.733295+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -27,6 +27,14 @@
     }
   },
   "items": [
+    {
+      "title": "EDPB requires Belgian DPA to handle the merits of NOYB cookie banner complaint",
+      "link": "https://www.edpb.europa.eu/news/edpb-requires-belgian-dpa-to-handle-the-merits-of-noyb-cookie-banner-complaint_en",
+      "date": "2026-07-14T12:00:00+00:00",
+      "summary": "<p>Brussels, 14 July–The EDPB has published its <a href=\"https://www.edpb.europa.eu/documents/edpb-binding-decisions/binding-decision-12026-on-the-dispute-submitted-by-the-belgian-sa_en\">binding decision of 28 May 2026 under Art.65(1)(a) GDPR*.</a><strong><u> </u></strong>The decision concerns a<str",
+      "source_id": "edpb",
+      "source_name": "EDPB"
+    },
     {
       "title": "Commission collects feedback to define EU's position for the upcoming World Radiocommunication Conference 2027",
       "link": "https://digital-strategy.ec.europa.eu/en/consultations/commission-collects-feedback-define-eus-position-upcoming-world-radiocommunication-conference-2027",
@@ -440,14 +448,6 @@
       "link": "https://www.edpb.europa.eu/news/the-italian-sa-imposed-a-40-000-eur-fine-on-a-company-for-violating-the-confidentiality-of-a_en",
       "date": "2026-06-04T12:00:00+00:00",
       "summary": "<div class=\"heading-wrapper\"><h2 id=\"background-information\">Background information</h2><ul><li>Date of final decision: 18 December 2025</li><li>National case</li><li>Controller:&nbsp;LTL S.p.A.<br />Legal Reference(s): Article 5 (Principles relating to processing of personal data), Article 12 (Tran",
-      "source_id": "edpb",
-      "source_name": "EDPB"
-    },
-    {
-      "title": "The Italian SA fined Poste Vita for data breach",
-      "link": "https://www.edpb.europa.eu/news/the-italian-sa-fined-poste-vita-for-data-breach_en",
-      "date": "2026-06-04T12:00:00+00:00",
-      "summary": "<div class=\"heading-wrapper\"><h2 id=\"background-information\">Background information</h2><ul><li>Date of final decision: 10 July 2025</li><li>National case</li><li>Controller: Poste Vita s.p.a.<br />Legal Reference(s): Article 5 (Principles relating to processing of personal data), Article 33 (Notifi",
       "source_id": "edpb",
       "source_name": "EDPB"
     },
