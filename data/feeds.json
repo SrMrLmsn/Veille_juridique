@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20T12:32:04.545865+00:00",
+  "updated": "2026-07-20T15:11:51.868945+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -27,6 +27,22 @@
     }
   },
   "items": [
+    {
+      "title": "Digital Talent EU Days 2026 in Dublin",
+      "link": "https://digital-strategy.ec.europa.eu/en/events/digital-talent-eu-days-2026-dublin",
+      "date": "2026-07-20T13:02:00+00:00",
+      "summary": "<span>Digital Talent EU Days 2026 in Dublin</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-07-20T15:02:00+02:00\" title=\"Monday, July 20, 2026 - 15:02\">Mon, 07/20/2026 - 15:02</time>\n</span>\n\n<div>\n  <div class=\"cnt-thumbnail-media ecl-u-type-m cnt-content-wrappe",
+      "source_id": "commission",
+      "source_name": "Commission européenne"
+    },
+    {
+      "title": "Le CEPD demande une base juridique pour le partage d’informations interréglementaire",
+      "link": "https://www.cnil.fr/fr/cepd-base-juridique-interreglementaire",
+      "date": "2026-07-20T12:00:00+00:00",
+      "summary": "Lors d’une réunion à haut niveau qui s’est tenue à Dublin les 16 et 17 juillet 2026, le Comité européen de la protection des données (CEPD) a plaidé en faveur d’une base juridique claire pour le partage d’informations entre les régulateurs ayant des compétences différentes.",
+      "source_id": "cnil",
+      "source_name": "CNIL"
+    },
     {
       "title": "IA agentique et données personnelles : la CNIL et le Conseil de l’IA et du Numérique publient une note exploratoire",
       "link": "https://www.cnil.fr/fr/ia-agentique-cnil-cianum-note",
@@ -332,14 +348,6 @@
       "source_name": "Commission européenne"
     },
     {
-      "title": "Call for Tenders: EU Code Week 2027-2030",
-      "link": "https://digital-strategy.ec.europa.eu/en/funding/call-tenders-eu-code-week-2027-2030",
-      "date": "2026-07-09T12:10:00+00:00",
-      "summary": "<span>Call for Tenders: EU Code Week 2027-2030</span>\n<span><span>dumimar</span></span>\n<span><time datetime=\"2026-07-09T14:10:00+02:00\" title=\"Thursday, July 9, 2026 - 14:10\">Thu, 07/09/2026 - 14:10</time>\n</span>\n\n<div>\n  <div class=\"cnt-thumbnail-media ecl-u-type-m cnt-content-wrapper\">",
-      "source_id": "commission",
-      "source_name": "Commission européenne"
-    },
-    {
       "title": "Travail, ressources humaines : le contrôle de l’activité des personnes employées",
       "link": "https://www.cnil.fr/fr/controle-de-lactivite-des-personnes-employees",
       "date": "2026-07-09T12:00:00+00:00",
@@ -392,14 +400,6 @@
       "link": "https://www.cnil.fr/fr/enquete-dpo-ia",
       "date": "2026-07-03T12:00:00+00:00",
       "summary": "L’intégration de l’IA dans les pratiques professionnelles et l’entrée en application du règlement IA créent de nouveaux défis pour les DPO et leurs organisations. Afin de mieux comprendre leurs attentes et préoccupations, le ministère du Travail et des Solidarités, l’AFCDP et la CNIL publient les ré",
-      "source_id": "cnil",
-      "source_name": "CNIL"
-    },
-    {
-      "title": "Ordre du jour de la séance plénière du 2 juillet 2026",
-      "link": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-2-juillet-2026",
-      "date": "2026-07-02T12:00:00+00:00",
-      "summary": "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 2 juillet 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
       "source_id": "cnil",
       "source_name": "CNIL"
     },
