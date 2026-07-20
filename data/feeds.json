@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20T10:12:37.837973+00:00",
+  "updated": "2026-07-20T12:32:04.545865+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -27,6 +27,30 @@
     }
   },
   "items": [
+    {
+      "title": "IA agentique et données personnelles : la CNIL et le Conseil de l’IA et du Numérique publient une note exploratoire",
+      "link": "https://www.cnil.fr/fr/ia-agentique-cnil-cianum-note",
+      "date": "2026-07-20T12:00:00+00:00",
+      "summary": "Les innovations à l’ère de l’IA générative se poursuivent avec la démocratisation de l’IA agentique, désormais capable d’agir sur son environnement à la place de son utilisateur. La délégation des tâches qui lui sont confiées, facilitée par des interactions hyperpersonnalisées, implique des chaînes",
+      "source_id": "cnil",
+      "source_name": "CNIL"
+    },
+    {
+      "title": "Commission fines AliExpress €550 million for breaching the Digital Services Act",
+      "link": "https://digital-strategy.ec.europa.eu/en/news/commission-fines-aliexpress-eu550-million-breaching-digital-services-act",
+      "date": "2026-07-20T08:22:00+00:00",
+      "summary": "<span>Commission fines AliExpress €550 million for breaching the Digital Services Act</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-07-20T10:22:00+02:00\" title=\"Monday, July 20, 2026 - 10:22\">Mon, 07/20/2026 - 10:22</time>\n</span>\n\n<div>\n  <div class=\"cnt-thumb",
+      "source_id": "commission",
+      "source_name": "Commission européenne"
+    },
+    {
+      "title": "Commission publishes guidelines on transparency obligations for providers and deployers of certain AI systems",
+      "link": "https://digital-strategy.ec.europa.eu/en/news/commission-publishes-guidelines-transparency-obligations-providers-and-deployers-certain-ai-systems",
+      "date": "2026-07-20T07:08:00+00:00",
+      "summary": "<span>Commission publishes guidelines on transparency obligations for providers and deployers of certain AI systems</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-07-20T09:08:00+02:00\" title=\"Monday, July 20, 2026 - 09:08\">Mon, 07/20/2026 - 09:08</time>\n</span>",
+      "source_id": "commission",
+      "source_name": "Commission européenne"
+    },
     {
       "title": "Guidelines on transparency obligations for providers and deployers of AI systems",
       "link": "https://digital-strategy.ec.europa.eu/en/library/guidelines-transparency-obligations-providers-and-deployers-ai-systems",
@@ -332,22 +356,6 @@
       "source_name": "CNIL"
     },
     {
-      "title": "AI Challenge Competition Info Webinar",
-      "link": "https://digital-strategy.ec.europa.eu/en/events/ai-challenge-competition-info-webinar",
-      "date": "2026-07-09T10:39:47+00:00",
-      "summary": "<span>AI Challenge Competition Info Webinar</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-07-09T12:39:47+02:00\" title=\"Thursday, July 9, 2026 - 12:39\">Thu, 07/09/2026 - 12:39</time>\n</span>\n\n<div>\n  <div class=\"cnt-thumbnail-media ecl-u-type-m cnt-content-wrapp",
-      "source_id": "commission",
-      "source_name": "Commission européenne"
-    },
-    {
-      "title": "Commission Opinion on the assessment of the Code of Practice on Transparency of AI-generated content",
-      "link": "https://digital-strategy.ec.europa.eu/en/library/commission-opinion-assessment-code-practice-transparency-ai-generated-content",
-      "date": "2026-07-09T07:03:00+00:00",
-      "summary": "<span>Commission Opinion on the assessment of the Code of Practice on Transparency of AI-generated content</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-07-09T09:03:00+02:00\" title=\"Thursday, July 9, 2026 - 09:03\">Thu, 07/09/2026 - 09:03</time>\n</span>\n\n<div>",
-      "source_id": "commission",
-      "source_name": "Commission européenne"
-    },
-    {
       "title": "EDPB sheds light on anonymisation and web scraping for generative AI and adopts final version of guidelines on blockchain",
       "link": "https://www.edpb.europa.eu/news/edpb-sheds-light-on-anonymisation-and-web-scraping-for-generative-ai-and-adopts-final-version_en",
       "date": "2026-07-08T12:00:00+00:00",
@@ -392,14 +400,6 @@
       "link": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-2-juillet-2026",
       "date": "2026-07-02T12:00:00+00:00",
       "summary": "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 2 juillet 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
-      "source_id": "cnil",
-      "source_name": "CNIL"
-    },
-    {
-      "title": "Jeux d’argent et de hasard : appliquer le RGPD aux traitements de données des joueurs",
-      "link": "https://www.cnil.fr/fr/jeux-argent-hasard-application-rgpd",
-      "date": "2026-07-02T12:00:00+00:00",
-      "summary": "Les opérateurs de jeux d’argent et de hasard doivent concilier les exigences du RGPD avec leurs obligations sectorielles. Pour accompagner les acteurs dans cette démarche, l’ANJ a élaboré, en concertation avec la CNIL, un guide apportant des repères pratiques.",
       "source_id": "cnil",
       "source_name": "CNIL"
     },
