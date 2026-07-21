@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21T12:08:34.566314+00:00",
+  "updated": "2026-07-21T14:34:34.468800+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -27,6 +27,14 @@
     }
   },
   "items": [
+    {
+      "title": "Ordre du jour de la séance plénière du 21 juillet 2026",
+      "link": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-21-juillet-2026",
+      "date": "2026-07-21T12:00:00+00:00",
+      "summary": "La Commission nationale de l'informatique et des libertés s’est réunie le mardi 21 juillet 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
+      "source_id": "cnil",
+      "source_name": "CNIL"
+    },
     {
       "title": "Digital Talent EU Days 2026 in Dublin",
       "link": "https://digital-strategy.ec.europa.eu/en/events/digital-talent-eu-days-2026-dublin",
@@ -394,14 +402,6 @@
       "summary": "De multiples vulnérabilités ont été découvertes dans Roundcube. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une falsification de requêtes côté serveur (SSRF) et une injection de code indirecte à distance (XSS).",
       "source_id": "anssi",
       "source_name": "ANSSI"
-    },
-    {
-      "title": "Le métier de DPO à l’heure de l’intelligence artificielle : publication des résultats de l’enquête",
-      "link": "https://www.cnil.fr/fr/enquete-dpo-ia",
-      "date": "2026-07-03T12:00:00+00:00",
-      "summary": "L’intégration de l’IA dans les pratiques professionnelles et l’entrée en application du règlement IA créent de nouveaux défis pour les DPO et leurs organisations. Afin de mieux comprendre leurs attentes et préoccupations, le ministère du Travail et des Solidarités, l’AFCDP et la CNIL publient les ré",
-      "source_id": "cnil",
-      "source_name": "CNIL"
     },
     {
       "title": "EDPB and AMLA to develop Joint Guidelines on partnerships for information sharing",
