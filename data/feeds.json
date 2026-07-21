@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21T07:08:05.712400+00:00",
+  "updated": "2026-07-21T10:02:00.242086+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -36,10 +36,10 @@
       "source_name": "Commission européenne"
     },
     {
-      "title": "Le CEPD demande une base juridique pour le partage d’informations interréglementaire",
-      "link": "https://www.cnil.fr/fr/cepd-base-juridique-interreglementaire",
+      "title": "Le CEPD demande une base légale pour le partage d’informations entre régulateurs",
+      "link": "https://www.cnil.fr/fr/cepd-base-juridique-interregulation",
       "date": "2026-07-20T12:00:00+00:00",
-      "summary": "Lors d’une réunion à haut niveau qui s’est tenue à Dublin les 16 et 17 juillet 2026, le Comité européen de la protection des données (CEPD) a plaidé en faveur d’une base juridique claire pour le partage d’informations entre les régulateurs ayant des compétences différentes.",
+      "summary": "Lors d’une réunion à haut niveau qui s’est tenue à Dublin les 16 et 17 juillet 2026, le Comité européen de la protection des données (CEPD) a plaidé en faveur d’une base légale claire pour le partage d’informations entre les régulateurs ayant des compétences différentes.",
       "source_id": "cnil",
       "source_name": "CNIL"
     },
