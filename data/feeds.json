@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23T07:33:29.491897+00:00",
+  "updated": "2026-07-23T10:24:11.926512+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -27,6 +27,14 @@
     }
   },
   "items": [
+    {
+      "title": "Stakeholder event on guidelines on the interplay between data protection and competition law: save the date",
+      "link": "https://www.edpb.europa.eu/news/stakeholder-event-on-guidelines-on-the-interplay-between-data-protection-and-competition-law_en",
+      "date": "2026-07-23T12:00:00+00:00",
+      "summary": "<p>Brussels, 23 July – The EDPB and the European Commission organise a remote stakeholder event in the context of their joint work on upcoming <strong>guidelines on the interplay between competition and data protection</strong>. The event will take place on <strong>15 October 2026</strong> and is an",
+      "source_id": "edpb",
+      "source_name": "EDPB"
+    },
     {
       "title": "Kick-off of new GenAI pilots for public administration & Apply AI stakeholder meeting",
       "link": "https://digital-strategy.ec.europa.eu/en/events/kick-new-genai-pilots-public-administration-apply-ai-stakeholder-meeting",
@@ -456,14 +464,6 @@
       "link": "https://www.edpb.europa.eu/news/edpb-meets-with-eu-commissioner-mcgrath-and-adopts-common-data-breach-notification-template_en",
       "date": "2026-06-10T12:00:00+00:00",
       "summary": "<p>Brussels, 10 June – During its latest plenary, the EDPB met with Michael McGrath, Commissioner for Democracy, Justice, the Rule of Law and Consumer Protection. In addition, the Board has adopted a <a href=\"https://www.edpb.europa.eu/public-consultations/template-for-personal-data-breach-notificat",
-      "source_id": "edpb",
-      "source_name": "EDPB"
-    },
-    {
-      "title": "The Italian Supervisory Authority fined a company 120 000 EUR for tracking five employees who drove company cars",
-      "link": "https://www.edpb.europa.eu/news/the-italian-supervisory-authority-fined-a-company-120-000-eur-for-tracking-five-employees-who_en",
-      "date": "2026-06-04T12:00:00+00:00",
-      "summary": "<div class=\"heading-wrapper\"><h2 id=\"background-information\">Background information</h2><ul><li>Date of final decision: 27 November 2025</li><li>National case</li><li>Controller: Pioneer Hi-Bred Italia Sementi s.r.l.<br />Legal Reference(s): Article 5 (Principles relating to processing of personal d",
       "source_id": "edpb",
       "source_name": "EDPB"
     }
