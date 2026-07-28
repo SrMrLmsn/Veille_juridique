@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28T12:21:04.286548+00:00",
+  "updated": "2026-07-28T14:59:24.005309+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -48,6 +48,22 @@
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0929/",
       "date": "2026-07-24T00:00:00+00:00",
       "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian LTS. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans Microsoft Edge (24 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0924/",
+      "date": "2026-07-24T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans Google Chrome (24 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0925/",
+      "date": "2026-07-24T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
       "source_id": "anssi",
       "source_name": "ANSSI"
     },
@@ -180,34 +196,10 @@
       "source_name": "ANSSI"
     },
     {
-      "title": "Multiples vulnérabilités dans Google Chrome (22 juillet 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0907/",
-      "date": "2026-07-22T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans les produits HPE Aruba Networking (22 juillet 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0908/",
-      "date": "2026-07-22T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits HPE Aruba Networking. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
       "title": "Multiples vulnérabilités dans les produits Mozilla (22 juillet 2026)",
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0910/",
       "date": "2026-07-22T00:00:00+00:00",
       "summary": "De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans les produits Elastic (22 juillet 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0906/",
-      "date": "2026-07-22T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Elastic. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
       "source_id": "anssi",
       "source_name": "ANSSI"
     },
@@ -284,22 +276,6 @@
       "source_name": "Commission européenne"
     },
     {
-      "title": "Bulletin d'actualité CERTFR-2026-ACT-031 (20 juillet 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-031/",
-      "date": "2026-07-20T00:00:00+00:00",
-      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques pour prioriser l'application des...",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans WordPress (20 juillet 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0904/",
-      "date": "2026-07-20T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans WordPress. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une injection SQL (SQLi) et un contournement de la politique de sécurité. Le CERT-FR a connaissance d'une preuve de concept publique.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
       "title": "Multiples vulnérabilités dans WordPress (20 juillet 2026)",
       "link": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-007/",
       "date": "2026-07-20T00:00:00+00:00",
@@ -322,14 +298,6 @@
       "summary": "<span>Advanced Virtual Human Twins (VHT) Platform - Annual Event</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-07-17T11:30:00+02:00\" title=\"Friday, July 17, 2026 - 11:30\">Fri, 07/17/2026 - 11:30</time>\n</span>\n\n<div>\n  <div class=\"cnt-thumbnail-media ecl-u-type",
       "source_id": "commission",
       "source_name": "Commission européenne"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Microsoft Windows (17 juillet 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0895/",
-      "date": "2026-07-17T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Windows. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
     },
     {
       "title": "Ordre du jour de la séance plénière du 16 juillet 2026",
@@ -396,6 +364,14 @@
       "source_name": "CNIL"
     },
     {
+      "title": "Multiples vulnérabilités dans Traefik (09 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0851/",
+      "date": "2026-07-09T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Traefik. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
       "title": "EDPB sheds light on anonymisation and web scraping for generative AI and adopts final version of guidelines on blockchain",
       "link": "https://www.edpb.europa.eu/news/edpb-sheds-light-on-anonymisation-and-web-scraping-for-generative-ai-and-adopts-final-version_en",
       "date": "2026-07-08T12:00:00+00:00",
@@ -410,14 +386,6 @@
       "summary": "La géolocalisation est devenue un outil central des applications mobiles. Mais sa collecte et sa réutilisation soulèvent des enjeux majeurs de protection des données personnelles. La CNIL rappelle les règles applicables et les droits des personnes pour protéger leur vie privée.",
       "source_id": "cnil",
       "source_name": "CNIL"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Roundcube (06 juillet 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0835/",
-      "date": "2026-07-06T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Roundcube. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une falsification de requêtes côté serveur (SSRF) et une injection de code indirecte à distance (XSS).",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
     },
     {
       "title": "EDPB and AMLA to develop Joint Guidelines on partnerships for information sharing",
@@ -460,12 +428,44 @@
       "source_name": "EDPB"
     },
     {
+      "title": "Vulnérabilité dans Traefik (11 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0738/",
+      "date": "2026-06-11T00:00:00+00:00",
+      "summary": "Une vulnérabilité a été découverte dans Traefik. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
       "title": "EDPB meets with EU Commissioner McGrath and adopts common data breach notification template",
       "link": "https://www.edpb.europa.eu/news/edpb-meets-with-eu-commissioner-mcgrath-and-adopts-common-data-breach-notification-template_en",
       "date": "2026-06-10T12:00:00+00:00",
       "summary": "<p>Brussels, 10 June – During its latest plenary, the EDPB met with Michael McGrath, Commissioner for Democracy, Justice, the Rule of Law and Consumer Protection. In addition, the Board has adopted a <a href=\"https://www.edpb.europa.eu/public-consultations/template-for-personal-data-breach-notificat",
       "source_id": "edpb",
       "source_name": "EDPB"
+    },
+    {
+      "title": "Vulnérabilité dans F5 BIG-IP Access Policy Manager (31 mars 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-004/",
+      "date": "2026-03-31T00:00:00+00:00",
+      "summary": "Le 15 octobre 2025, F5 a publié un avis de sécurité concernant entre autres la vulnérabilité CVE-2025-53521. Celle-ci affecte BIG-IP APM et permet à un attaquant non authentifié d'exécuter du code à distance. Le 29 mars 2026, l'éditeur indique que cette vulnérabilité est exploitée activement. Le...",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans Roundcube (19 mars 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0320/",
+      "date": "2026-03-19T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Roundcube. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une falsification de requêtes côté serveur (SSRF) et une injection de code indirecte à distance (XSS).",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "[MàJ] Multiples vulnérabilités dans Ivanti Endpoint Manager Mobile (30 janvier 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-001/",
+      "date": "2026-01-30T00:00:00+00:00",
+      "summary": "[Mise à jour du 09 février 2026] Le 6 février 2026, Ivanti a mis à disposition des scripts RPM de détection d'indicateurs de compromission, à utiliser en fonction de la version d'EPMM installée. L'éditeur a également mis son guide d'analyse à jour (cf. section Documentation). [Mise à jour du 02...",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
     }
   ]
 }
