@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29T12:28:47.178450+00:00",
+  "updated": "2026-07-29T14:54:12.442866+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -64,6 +64,38 @@
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0925/",
       "date": "2026-07-24T00:00:00+00:00",
       "summary": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans le noyau Linux de Debian (24 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0930/",
+      "date": "2026-07-24T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (24 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0926/",
+      "date": "2026-07-24T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans les produits ESET (24 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0932/",
+      "date": "2026-07-24T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits ESET. Elles permettent à un attaquant de provoquer une élévation de privilèges.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans les produits IBM (24 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0933/",
+      "date": "2026-07-24T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
       "source_id": "anssi",
       "source_name": "ANSSI"
     },
@@ -188,30 +220,6 @@
       "source_name": "CNIL"
     },
     {
-      "title": "Multiples vulnérabilités dans GLPI (22 juillet 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0909/",
-      "date": "2026-07-22T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans GLPI. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans les produits Mozilla (22 juillet 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0910/",
-      "date": "2026-07-22T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Microsoft Sharepoint (22 juillet 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-008/",
-      "date": "2026-07-22T00:00:00+00:00",
-      "summary": "Le 14 juillet 2026, à l'occasion de sa mise à jour mensuelle, Microsoft a publié, entre autres, des correctifs pour deux vulnérabilités critiques affectant SharePoint. Les vulnérabilités CVE-2026-50522 et CVE-2026-58644 permettent à un attaquant non authentifié d'exécuter du code arbitraire à...",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
       "title": "Ordre du jour de la séance plénière du 21 juillet 2026",
       "link": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-21-juillet-2026",
       "date": "2026-07-21T12:00:00+00:00",
@@ -274,14 +282,6 @@
       "summary": "<span>Guidelines on transparency obligations for providers and deployers of AI systems</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-07-20T08:58:00+02:00\" title=\"Monday, July 20, 2026 - 08:58\">Mon, 07/20/2026 - 08:58</time>\n</span>\n\n<div>\n  <div class=\"cnt-thum",
       "source_id": "commission",
       "source_name": "Commission européenne"
-    },
-    {
-      "title": "Multiples vulnérabilités dans WordPress (20 juillet 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-007/",
-      "date": "2026-07-20T00:00:00+00:00",
-      "summary": "Le 17 juillet 2026, WordPress a publié un correctif pour deux vulnérabilités : CVE-2026-60137 : une injection SQL (SQLi) ; CVE-2026-63030 : celle-ci permet un contournement de la politique de sécurité. Un attaquant peut exploiter ces deux vulnérabilités, de manière combinée, pour obtenir une...",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
     },
     {
       "title": "EDPB calls for legal basis for cross-regulatory information sharing",
