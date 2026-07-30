@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T13:09:55.342162+00:00",
+  "updated": "2026-07-30T15:31:44.852615+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -42,6 +42,30 @@
       "summary": "<span>EU launches AI Gigafactories call to boost Europe's computing capacity and unlock more than €30 billion in investment</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-07-30T11:50:00+02:00\" title=\"Thursday, July 30, 2026 - 11:50\">Thu, 07/30/2026 - 11:50</time",
       "source_id": "commission",
       "source_name": "Commission européenne"
+    },
+    {
+      "title": "Bulletin d'actualité CERTFR-2026-ACT-032 (27 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-032/",
+      "date": "2026-07-27T00:00:00+00:00",
+      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques pour prioriser l'application des...",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans les produits Atlassian (27 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0934/",
+      "date": "2026-07-27T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Atlassian. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Vulnérabilité dans Traefik (27 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0936/",
+      "date": "2026-07-27T00:00:00+00:00",
+      "summary": "Une vulnérabilité a été découverte dans Traefik. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
     },
     {
       "title": "AI-powered robotics in Europe: Live demonstrations and strategic debate",
@@ -116,6 +140,38 @@
       "source_name": "ANSSI"
     },
     {
+      "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (24 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0928/",
+      "date": "2026-07-24T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (24 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0927/",
+      "date": "2026-07-24T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Vulnérabilité dans les produits Moxa (24 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0931/",
+      "date": "2026-07-24T00:00:00+00:00",
+      "summary": "Une vulnérabilité a été découverte dans les produits Moxa. Elle permet à un attaquant de provoquer une élévation de privilèges.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans MongoDB (24 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0922/",
+      "date": "2026-07-24T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans MongoDB. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, un déni de service et un problème de sécurité non spécifié par l'éditeur.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
       "title": "Stakeholder event on guidelines on the interplay between data protection and competition law: save the date",
       "link": "https://www.edpb.europa.eu/news/stakeholder-event-on-guidelines-on-the-interplay-between-data-protection-and-competition-law_en",
       "date": "2026-07-23T12:00:00+00:00",
@@ -124,34 +180,10 @@
       "source_name": "EDPB"
     },
     {
-      "title": "Multiples vulnérabilités dans Oracle PeopleSoft (23 juillet 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0917/",
-      "date": "2026-07-23T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Oracle PeopleSoft. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Mozilla Thunderbird (23 juillet 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0913/",
-      "date": "2026-07-23T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Mozilla Thunderbird. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
       "title": "Vulnérabilité dans Moodle (23 juillet 2026)",
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0921/",
       "date": "2026-07-23T00:00:00+00:00",
       "summary": "Une vulnérabilité a été découverte dans Moodle. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans les produits Check Point (23 juillet 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0912/",
-      "date": "2026-07-23T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Check Point. Elles permettent à un attaquant de provoquer une élévation de privilèges et un contournement de la politique de sécurité. Check Point indique que la vulnérabilité CVE-2026-16232 est activement exploitée.",
       "source_id": "anssi",
       "source_name": "ANSSI"
     },
@@ -172,42 +204,10 @@
       "source_name": "ANSSI"
     },
     {
-      "title": "Multiples vulnérabilités dans les produits Mitel (23 juillet 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0911/",
-      "date": "2026-07-23T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Mitel. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une injection de code indirecte à distance (XSS).",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Oracle Java SE (23 juillet 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0915/",
-      "date": "2026-07-23T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Oracle Java SE. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Oracle Database Server (23 juillet 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0914/",
-      "date": "2026-07-23T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Oracle Database Server. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
       "title": "Multiples vulnérabilités dans Oracle Virtualization (23 juillet 2026)",
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0919/",
       "date": "2026-07-23T00:00:00+00:00",
       "summary": "De multiples vulnérabilités ont été découvertes dans Oracle Virtualization. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un déni de service.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Oracle MySQL (23 juillet 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0916/",
-      "date": "2026-07-23T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Oracle MySQL. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
       "source_id": "anssi",
       "source_name": "ANSSI"
     },
@@ -388,10 +388,10 @@
       "source_name": "EDPB"
     },
     {
-      "title": "Géolocalisation et applications mobiles : comment protéger vos données ?",
-      "link": "https://www.cnil.fr/fr/geolocalisation-applications-mobiles-proteger-vos-donnees",
+      "title": "Géolocalisation et applications mobiles : quelles règles pour protéger les données des utilisateurs ?",
+      "link": "https://www.cnil.fr/fr/geolocalisation-applications-mobiles-quelles-regles",
       "date": "2026-07-07T12:00:00+00:00",
-      "summary": "Les applications météo, de sport ou de rencontres utilisent souvent votre localisation. Mais savez-vous qui peut accéder à ces données et pourquoi&amp;nbsp;? La CNIL vous aide à comprendre les enjeux et à garder le contrôle sur vos données.",
+      "summary": "La géolocalisation est devenue un outil central des applications mobiles. Mais sa collecte et sa réutilisation soulèvent des enjeux majeurs de protection des données personnelles. La CNIL rappelle les règles applicables et les droits des personnes pour protéger leur vie privée.",
       "source_id": "cnil",
       "source_name": "CNIL"
     },
