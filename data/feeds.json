@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T06:29:29.870365+00:00",
+  "updated": "2026-07-30T09:15:16.213524+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -27,6 +27,14 @@
     }
   },
   "items": [
+    {
+      "title": "Stakeholder event on guidelines on the interplay between data protection and competition law: express your interest",
+      "link": "https://www.edpb.europa.eu/news/stakeholder-event-on-guidelines-on-the-interplay-between-data-protection-and-competition-law-0_en",
+      "date": "2026-07-30T12:00:00+00:00",
+      "summary": "<p>Brussels, 30 July – The EDPB and the European Commission organise a remote stakeholder event in the context of their joint work on upcoming <strong>guidelines on the interplay between competition and data protection</strong>. The event will take place on <strong>15 October 2026</strong> and is an",
+      "source_id": "edpb",
+      "source_name": "EDPB"
+    },
     {
       "title": "AI-powered robotics in Europe: Live demonstrations and strategic debate",
       "link": "https://digital-strategy.ec.europa.eu/en/events/ai-powered-robotics-europe-live-demonstrations-and-strategic-debate",
@@ -434,14 +442,6 @@
       "summary": "Une vulnérabilité a été découverte dans Traefik. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
       "source_id": "anssi",
       "source_name": "ANSSI"
-    },
-    {
-      "title": "EDPB meets with EU Commissioner McGrath and adopts common data breach notification template",
-      "link": "https://www.edpb.europa.eu/news/edpb-meets-with-eu-commissioner-mcgrath-and-adopts-common-data-breach-notification-template_en",
-      "date": "2026-06-10T12:00:00+00:00",
-      "summary": "<p>Brussels, 10 June – During its latest plenary, the EDPB met with Michael McGrath, Commissioner for Democracy, Justice, the Rule of Law and Consumer Protection. In addition, the Board has adopted a <a href=\"https://www.edpb.europa.eu/public-consultations/template-for-personal-data-breach-notificat",
-      "source_id": "edpb",
-      "source_name": "EDPB"
     },
     {
       "title": "Vulnérabilité dans F5 BIG-IP Access Policy Manager (31 mars 2026)",
