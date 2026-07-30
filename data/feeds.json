@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T11:29:07.743027+00:00",
+  "updated": "2026-07-30T13:09:55.342162+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -388,10 +388,10 @@
       "source_name": "EDPB"
     },
     {
-      "title": "Géolocalisation et applications mobiles : quelles règles pour protéger les données des utilisateurs ?",
-      "link": "https://www.cnil.fr/fr/geolocalisation-applications-mobiles-quelles-regles",
+      "title": "Géolocalisation et applications mobiles : comment protéger vos données ?",
+      "link": "https://www.cnil.fr/fr/geolocalisation-applications-mobiles-proteger-vos-donnees",
       "date": "2026-07-07T12:00:00+00:00",
-      "summary": "La géolocalisation est devenue un outil central des applications mobiles. Mais sa collecte et sa réutilisation soulèvent des enjeux majeurs de protection des données personnelles. La CNIL rappelle les règles applicables et les droits des personnes pour protéger leur vie privée.",
+      "summary": "Les applications météo, de sport ou de rencontres utilisent souvent votre localisation. Mais savez-vous qui peut accéder à ces données et pourquoi&amp;nbsp;? La CNIL vous aide à comprendre les enjeux et à garder le contrôle sur vos données.",
       "source_id": "cnil",
       "source_name": "CNIL"
     },
