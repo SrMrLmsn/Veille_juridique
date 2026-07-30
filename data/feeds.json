@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T09:15:16.213524+00:00",
+  "updated": "2026-07-30T11:29:07.743027+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -34,6 +34,14 @@
       "summary": "<p>Brussels, 30 July – The EDPB and the European Commission organise a remote stakeholder event in the context of their joint work on upcoming <strong>guidelines on the interplay between competition and data protection</strong>. The event will take place on <strong>15 October 2026</strong> and is an",
       "source_id": "edpb",
       "source_name": "EDPB"
+    },
+    {
+      "title": "EU launches AI Gigafactories call to boost Europe's computing capacity and unlock more than €30 billion in investment",
+      "link": "https://digital-strategy.ec.europa.eu/en/news/eu-launches-ai-gigafactories-call-boost-europes-computing-capacity-and-unlock-more-eu30-billion",
+      "date": "2026-07-30T09:50:00+00:00",
+      "summary": "<span>EU launches AI Gigafactories call to boost Europe's computing capacity and unlock more than €30 billion in investment</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-07-30T11:50:00+02:00\" title=\"Thursday, July 30, 2026 - 11:50\">Thu, 07/30/2026 - 11:50</time",
+      "source_id": "commission",
+      "source_name": "Commission européenne"
     },
     {
       "title": "AI-powered robotics in Europe: Live demonstrations and strategic debate",
@@ -336,14 +344,6 @@
       "link": "https://digital-strategy.ec.europa.eu/en/consultations/commission-collects-feedback-define-eus-position-upcoming-world-radiocommunication-conference-2027",
       "date": "2026-07-14T11:43:57+00:00",
       "summary": "<span>Commission collects feedback to define EU's position for the upcoming World Radiocommunication Conference 2027</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-07-14T13:43:57+02:00\" title=\"Tuesday, July 14, 2026 - 13:43\">Tue, 07/14/2026 - 13:43</time>\n</span",
-      "source_id": "commission",
-      "source_name": "Commission européenne"
-    },
-    {
-      "title": "Special panel report: Child safety online protecting and empowering minors in a digital world",
-      "link": "https://digital-strategy.ec.europa.eu/en/library/special-panel-report-child-safety-online-protecting-and-empowering-minors-digital-world",
-      "date": "2026-07-13T09:15:07+00:00",
-      "summary": "<span>Special panel report: Child safety online protecting and empowering minors in a digital world</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-07-13T11:15:07+02:00\" title=\"Monday, July 13, 2026 - 11:15\">Mon, 07/13/2026 - 11:15</time>\n</span>\n\n<div>\n  <div cl",
       "source_id": "commission",
       "source_name": "Commission européenne"
     },
