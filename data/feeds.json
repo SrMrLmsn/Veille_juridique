@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T05:00:23.883058+00:00",
+  "updated": "2026-07-31T08:15:57.663320+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -27,6 +27,14 @@
     }
   },
   "items": [
+    {
+      "title": "Revoir le webinaire - Mise à jour des MR-001 et MR-003, ce qui change en 2026",
+      "link": "https://www.cnil.fr/fr/webinaire-mise-a-jour-mr",
+      "date": "2026-07-31T12:00:00+00:00",
+      "summary": "La CNIL vous propose de décrypter un sujet ou une actualité en lien avec la protection des données à travers&amp;nbsp;une série de webinaires. Retrouvez ce nouvel épisode consacré aux méthodologies de référence en matière de santé.",
+      "source_id": "cnil",
+      "source_name": "CNIL"
+    },
     {
       "title": "Stakeholder event on guidelines on the interplay between data protection and competition law: express your interest",
       "link": "https://www.edpb.europa.eu/news/stakeholder-event-on-guidelines-on-the-interplay-between-data-protection-and-competition-law-0_en",
@@ -386,14 +394,6 @@
       "summary": "<p>Brussels, 8 July– During its latest plenary, the EDPB has adopted <a href=\"https://www.edpb.europa.eu/system/files/2026-07/edpb_guidelines_202602_anonymisation_v1_en_0.pdf\"><strong>guidelines on anonymisation</strong></a><strong> </strong>and <a href=\"https://www.edpb.europa.eu/system/files/2026-",
       "source_id": "edpb",
       "source_name": "EDPB"
-    },
-    {
-      "title": "Géolocalisation et applications mobiles : quelles règles pour protéger les données des utilisateurs ?",
-      "link": "https://www.cnil.fr/fr/geolocalisation-applications-mobiles-quelles-regles",
-      "date": "2026-07-07T12:00:00+00:00",
-      "summary": "La géolocalisation est devenue un outil central des applications mobiles. Mais sa collecte et sa réutilisation soulèvent des enjeux majeurs de protection des données personnelles. La CNIL rappelle les règles applicables et les droits des personnes pour protéger leur vie privée.",
-      "source_id": "cnil",
-      "source_name": "CNIL"
     },
     {
       "title": "EDPB and AMLA to develop Joint Guidelines on partnerships for information sharing",
