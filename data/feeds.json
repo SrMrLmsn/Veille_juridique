@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T06:28:40.060435+00:00",
+  "updated": "2026-08-05T09:20:24.904863+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -27,6 +27,14 @@
     }
   },
   "items": [
+    {
+      "title": "Puis-je demander à supprimer des données me concernant figurant dans un article de presse diffusé en ligne ?",
+      "link": "https://www.cnil.fr/fr/supprimer-mes-donnees-presse",
+      "date": "2026-08-05T12:00:00+00:00",
+      "summary": "Toute personne concernée a le droit de demander à un organisme de presse l'effacement de données personnelles la concernant figurant dans un article de presse diffusé en ligne. Il ne s’agit toutefois pas d’un droit absolu&amp;nbsp;: une balance entre les intérêts en présence doit être faite.",
+      "source_id": "cnil",
+      "source_name": "CNIL"
+    },
     {
       "title": "Revoir le webinaire - Mise à jour des MR-001 et MR-003, ce qui change en 2026",
       "link": "https://www.cnil.fr/fr/webinaire-mise-a-jour-mr",
@@ -368,14 +376,6 @@
       "link": "https://www.cnil.fr/fr/controle-de-lactivite-des-personnes-employees",
       "date": "2026-07-09T12:00:00+00:00",
       "summary": "Un employeur a le pouvoir d’encadrer et de contrôler l’activité des membres du personnel ainsi que leur usage des équipements au travail. Il s’agit d’une contrepartie normale et inhérente au contrat de travail. Néanmoins, ce pouvoir ne peut pas être exercé de manière excessive.",
-      "source_id": "cnil",
-      "source_name": "CNIL"
-    },
-    {
-      "title": "Le CEPD met en lumière l’anonymisation et le moissonnage pour l’IA générative et adopte la version finale des lignes directrices sur la chaîne de blocs",
-      "link": "https://www.cnil.fr/fr/cepd-ia-generative-chaines-blocs",
-      "date": "2026-07-09T12:00:00+00:00",
-      "summary": "Le 7 juillet 2026, le CEPD a adopté des lignes directrices sur l’anonymisation et des lignes directrices sur le moissonnage dans le contexte de l’IA générative. Il a aussi adopté la version finale de ses lignes directrices sur le traitement des données au moyen des technologies de la chaîne de blocs",
       "source_id": "cnil",
       "source_name": "CNIL"
     },
