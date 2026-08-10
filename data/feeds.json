@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T13:10:01.110628+00:00",
+  "updated": "2026-08-10T14:36:23.820661+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -34,6 +34,62 @@
       "summary": "Le RGPD autorise les organismes à confier d’autres missions à leur délégué à la protection des données (DPO). Ces missions ne doivent néanmoins pas faire obstacle à ses missions de DPO ou le placer en situation de conflit d’intérêts. Comment reconnaître un conflit d’intérêt&amp;nbsp;? Comment y remé",
       "source_id": "cnil",
       "source_name": "CNIL"
+    },
+    {
+      "title": "Multiples vulnérabilités dans le noyau Linux de Debian (07 août 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0981/",
+      "date": "2026-08-07T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à l'intégrité des données et un déni de service.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans Progress Telerik (07 août 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0977/",
+      "date": "2026-08-07T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Progress Telerik. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans KeyCloak (06 août 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0976/",
+      "date": "2026-08-06T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans KeyCloak. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans les produits Wallix (06 août 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0974/",
+      "date": "2026-08-06T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Wallix. Elles permettent à un attaquant de provoquer une élévation de privilèges et un contournement de la politique de sécurité.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans les produits Nextcloud (06 août 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0973/",
+      "date": "2026-08-06T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Nextcloud. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Vulnérabilité dans Sonicwall SonicOS (06 août 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0972/",
+      "date": "2026-08-06T00:00:00+00:00",
+      "summary": "Une vulnérabilité a été découverte dans Sonicwall SonicOS. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans les produits Cisco (06 août 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0975/",
+      "date": "2026-08-06T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
     },
     {
       "title": "Puis-je demander à supprimer des données me concernant figurant dans un article de presse diffusé en ligne ?",
@@ -196,58 +252,10 @@
       "source_name": "ANSSI"
     },
     {
-      "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (31 juillet 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0955/",
-      "date": "2026-07-31T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Progress MOVEit Transfer (31 juillet 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0951/",
-      "date": "2026-07-31T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Progress MOVEit Transfer. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (31 juillet 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0954/",
-      "date": "2026-07-31T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Vulnérabilité dans Microsoft Azure (31 juillet 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0953/",
-      "date": "2026-07-31T00:00:00+00:00",
-      "summary": "Une vulnérabilité a été découverte dans Microsoft Azure. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
       "title": "Multiples vulnérabilités dans le noyau Linux de Debian LTS (31 juillet 2026)",
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0957/",
       "date": "2026-07-31T00:00:00+00:00",
       "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian LTS. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (31 juillet 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0956/",
-      "date": "2026-07-31T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans PHP (31 juillet 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0952/",
-      "date": "2026-07-31T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans PHP. Certaines d'entre elles permettent à un attaquant de provoquer une injection SQL (SQLi), un déni de service et un problème de sécurité non spécifié par l'éditeur.",
       "source_id": "anssi",
       "source_name": "ANSSI"
     },
@@ -266,30 +274,6 @@
       "summary": "<span>EU launches AI Gigafactories call to boost Europe's computing capacity and unlock more than €30 billion in investment</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-07-30T11:50:00+02:00\" title=\"Thursday, July 30, 2026 - 11:50\">Thu, 07/30/2026 - 11:50</time",
       "source_id": "commission",
       "source_name": "Commission européenne"
-    },
-    {
-      "title": "Vulnérabilité dans Ruby on Rails activestorage (30 juillet 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0948/",
-      "date": "2026-07-30T00:00:00+00:00",
-      "summary": "Une vulnérabilité a été découverte dans Ruby on Rails activestorage. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à la confidentialité des données.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans les produits VMware (30 juillet 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0949/",
-      "date": "2026-07-30T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits VMware. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Vulnérabilité dans Cisco Firewall Management Center (30 juillet 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0950/",
-      "date": "2026-07-30T00:00:00+00:00",
-      "summary": "Une vulnérabilité a été découverte dans Cisco Firewall Management Center. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité. Cisco indique que la vulnérabilité CVE-2026-20316 est activement exploitée.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
     },
     {
       "title": "AI-powered robotics in Europe: Live demonstrations and strategic debate",
@@ -466,6 +450,22 @@
       "summary": "<p>Brussels, 12 June – As of today, coordinated supervision of the <strong>European Union’s asylum and migration database (Eurodac) </strong>will be carried out by the Coordinated Supervision Committee (CSC). Eurodac is an information system initially designed to compare the<strong> fingerprints of",
       "source_id": "edpb",
       "source_name": "EDPB"
+    },
+    {
+      "title": "Vulnérabilité dans LibreNMS (11 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0732/",
+      "date": "2026-06-11T00:00:00+00:00",
+      "summary": "Une vulnérabilité a été découverte dans LibreNMS. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Vulnérabilité dans LibreNMS (12 mai 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0562/",
+      "date": "2026-05-12T00:00:00+00:00",
+      "summary": "Une vulnérabilité a été découverte dans LibreNMS. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
     }
   ]
 }
