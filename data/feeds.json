@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T14:36:23.820661+00:00",
+  "updated": "2026-08-10T15:59:53.763868+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -27,6 +27,14 @@
     }
   },
   "items": [
+    {
+      "title": "Join the Inaugural D-TECT Forum",
+      "link": "https://digital-strategy.ec.europa.eu/en/events/join-inaugural-d-tect-forum",
+      "date": "2026-08-10T12:07:00+00:00",
+      "summary": "<span>Join the Inaugural D-TECT Forum</span>\n<span><span>lobacni</span></span>\n<span><time datetime=\"2026-08-10T14:07:00+02:00\" title=\"Monday, August 10, 2026 - 14:07\">Mon, 08/10/2026 - 14:07</time>\n</span>\n\n<div>\n  <div class=\"cnt-thumbnail-media ecl-u-type-m cnt-content-wrapper\">",
+      "source_id": "commission",
+      "source_name": "Commission européenne"
+    },
     {
       "title": "Délégué à la protection des données : identifier et gérer les conflits d’intérêts liés à la fonction de DPO",
       "link": "https://www.cnil.fr/fr/dpo-identifier-gerer-conflits-interets",
@@ -378,14 +386,6 @@
       "summary": "<p>Dublin, 17 July– At a high-level meeting in Dublin on 16 and 17 July 2026, the European Data Protection Board (EDPB) called for a clear legal basis for the sharing of information among regulators with different competences. The Board also discussed how to further expand efforts to support a consi",
       "source_id": "edpb",
       "source_name": "EDPB"
-    },
-    {
-      "title": "Advanced Virtual Human Twins (VHT) Platform - Annual Event",
-      "link": "https://digital-strategy.ec.europa.eu/en/events/advanced-virtual-human-twins-vht-platform-annual-event",
-      "date": "2026-07-17T09:30:00+00:00",
-      "summary": "<span>Advanced Virtual Human Twins (VHT) Platform - Annual Event</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-07-17T11:30:00+02:00\" title=\"Friday, July 17, 2026 - 11:30\">Fri, 07/17/2026 - 11:30</time>\n</span>\n\n<div>\n  <div class=\"cnt-thumbnail-media ecl-u-type",
-      "source_id": "commission",
-      "source_name": "Commission européenne"
     },
     {
       "title": "Ordre du jour de la séance plénière du 16 juillet 2026",
