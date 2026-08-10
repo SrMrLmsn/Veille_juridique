@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T05:38:20.919682+00:00",
+  "updated": "2026-08-10T07:43:11.151331+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -27,6 +27,14 @@
     }
   },
   "items": [
+    {
+      "title": "Délégué à la protection des données : identifier et gérer les conflits d’intérêts liés à la fonction de DPO",
+      "link": "https://www.cnil.fr/fr/dpo-identifier-gerer-conflits-interets",
+      "date": "2026-08-10T12:00:00+00:00",
+      "summary": "Le RGPD autorise les organismes à confier d’autres missions à leur délégué à la protection des données (DPO). Ces missions ne doivent néanmoins pas faire obstacle à ses missions de DPO ou le placer en situation de conflit d’intérêts. Comment reconnaître un conflit d’intérêt&amp;nbsp;? Comment y remé",
+      "source_id": "cnil",
+      "source_name": "CNIL"
+    },
     {
       "title": "Puis-je demander à supprimer des données me concernant figurant dans un article de presse diffusé en ligne ?",
       "link": "https://www.cnil.fr/fr/supprimer-mes-donnees-presse",
@@ -410,14 +418,6 @@
       "summary": "<p><span>Brussels, 14 July–The EDPB has published its&nbsp;</span><a href=\"https://www.edpb.europa.eu/documents/edpb-binding-decisions/binding-decision-12026-on-the-dispute-submitted-by-the-belgian-sa_en\"><span><u>binding decision of 28 May 2026&nbsp;under Art.65(1)(a) GDPR*.</u></span></a><span><st",
       "source_id": "edpb",
       "source_name": "EDPB"
-    },
-    {
-      "title": "Revoir le webinaire : Nouveau téléservice santé et recherche, ce qui change pour vos demandes d’autorisation",
-      "link": "https://www.cnil.fr/fr/revoir-le-webinaire-nouveau-teleservice-sante-et-recherche-ce-qui-change-pour-vos-demandes",
-      "date": "2026-07-10T12:00:00+00:00",
-      "summary": "La CNIL vous propose de décrypter un sujet ou une actualité en lien avec la protection des données à travers une série de webinaires. Retrouvez ce nouvel épisode consacré au&amp;nbsp;nouveau téléservice santé et recherche de la CNIL.",
-      "source_id": "cnil",
-      "source_name": "CNIL"
     },
     {
       "title": "EDPB sheds light on anonymisation and web scraping for generative AI and adopts final version of guidelines on blockchain",
