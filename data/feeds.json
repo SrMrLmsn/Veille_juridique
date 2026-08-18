@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T06:43:10.375375+00:00",
+  "updated": "2026-08-18T07:38:25.301335+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -27,6 +27,14 @@
     }
   },
   "items": [
+    {
+      "title": "Piratage du système d’information des impôts : les vérifications sont en cours",
+      "link": "https://www.cnil.fr/fr/piratage-du-systeme-dinformation-des-impots-les-verifications-sont-en-cours",
+      "date": "2026-08-18T12:00:00+00:00",
+      "summary": "La CNIL a été notifiée de violations de données affectant le système d’information de la Direction générale des Finances publiques (DGFiP). Elle est donc d’ores et déjà saisie de ces violations et, dans ce contexte, il n’est plus nécessaire de lui adresser des plaintes individuelles à ce sujet.",
+      "source_id": "cnil",
+      "source_name": "CNIL"
+    },
     {
       "title": "Multiples vulnérabilités dans Elastic Kibana (14 août 2026)",
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1020/",
@@ -370,14 +378,6 @@
       "summary": "<p>Dublin, 17 July– At a high-level meeting in Dublin on 16 and 17 July 2026, the European Data Protection Board (EDPB) called for a clear legal basis for the sharing of information among regulators with different competences. The Board also discussed how to further expand efforts to support a consi",
       "source_id": "edpb",
       "source_name": "EDPB"
-    },
-    {
-      "title": "Ordre du jour de la séance plénière du 16 juillet 2026",
-      "link": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-16-juillet-2026",
-      "date": "2026-07-16T12:00:00+00:00",
-      "summary": "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 16 juillet 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
-      "source_id": "cnil",
-      "source_name": "CNIL"
     },
     {
       "title": "EDPB requires Belgian DPA to handle the merits of NOYB cookie banner complaint",
