@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T08:38:14.254559+00:00",
+  "updated": "2026-08-19T09:34:30.445004+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -27,6 +27,14 @@
     }
   },
   "items": [
+    {
+      "title": "Le refus de crédit en questions",
+      "link": "https://www.cnil.fr/fr/le-refus-de-credit-en-questions",
+      "date": "2026-08-19T12:00:00+00:00",
+      "summary": "Vous avez demandé un crédit et on vous l’a refusé&amp;nbsp;? Vous êtes inscrit dans un fichier géré par la Banque de France ou un fichier tenu par votre banque&amp;nbsp;? Quelles sont les différentes démarches à effectuer&amp;nbsp;?",
+      "source_id": "cnil",
+      "source_name": "CNIL"
+    },
     {
       "title": "Piratage du système d’information des impôts : les vérifications sont en cours",
       "link": "https://www.cnil.fr/fr/piratage-du-systeme-dinformation-des-impots-les-verifications-sont-en-cours",
@@ -336,14 +344,6 @@
       "link": "https://www.cnil.fr/fr/cepd-base-juridique-interregulation",
       "date": "2026-07-20T12:00:00+00:00",
       "summary": "Lors d’une réunion à haut niveau qui s’est tenue à Dublin les 16 et 17 juillet 2026, le Comité européen de la protection des données (CEPD) a plaidé en faveur d’une base légale claire pour le partage d’informations entre les régulateurs ayant des compétences différentes.",
-      "source_id": "cnil",
-      "source_name": "CNIL"
-    },
-    {
-      "title": "IA agentique et données personnelles : la CNIL et le Conseil de l’IA et du Numérique publient une note exploratoire",
-      "link": "https://www.cnil.fr/fr/ia-agentique-cnil-cianum-note",
-      "date": "2026-07-20T12:00:00+00:00",
-      "summary": "Les innovations à l’ère de l’IA générative se poursuivent avec la démocratisation de l’IA agentique, désormais capable d’agir sur son environnement à la place de son utilisateur. La délégation des tâches qui lui sont confiées, facilitée par des interactions hyperpersonnalisées, implique des chaînes",
       "source_id": "cnil",
       "source_name": "CNIL"
     },
