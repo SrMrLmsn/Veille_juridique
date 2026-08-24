@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T11:54:20.093798+00:00",
+  "updated": "2026-08-24T12:51:46.329069+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -44,6 +44,22 @@
       "source_name": "Commission européenne"
     },
     {
+      "title": "Vulnérabilité dans Microsoft Office (21 août 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1072/",
+      "date": "2026-08-21T00:00:00+00:00",
+      "summary": "Une vulnérabilité a été découverte dans Microsoft Office. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (21 août 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1064/",
+      "date": "2026-08-21T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
       "title": "Multiples vulnérabilités dans les produits Citrix (20 août 2026)",
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1059/",
       "date": "2026-08-20T00:00:00+00:00",
@@ -76,20 +92,20 @@
       "source_name": "ANSSI"
     },
     {
+      "title": "Multiples vulnérabilités dans les produits Splunk (20 août 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1056/",
+      "date": "2026-08-20T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Splunk. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
       "title": "Le refus de crédit en questions",
       "link": "https://www.cnil.fr/fr/le-refus-de-credit-en-questions",
       "date": "2026-08-19T12:00:00+00:00",
       "summary": "Vous avez demandé un crédit et on vous l’a refusé&amp;nbsp;? Vous êtes inscrit dans un fichier géré par la Banque de France ou un fichier tenu par votre banque&amp;nbsp;? Quelles sont les différentes démarches à effectuer&amp;nbsp;?",
       "source_id": "cnil",
       "source_name": "CNIL"
-    },
-    {
-      "title": "Multiples vulnérabilités dans les produits Axis (19 août 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1042/",
-      "date": "2026-08-19T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Axis. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
     },
     {
       "title": "Multiples vulnérabilités dans Oracle MySQL (19 août 2026)",
@@ -180,14 +196,6 @@
       "source_name": "ANSSI"
     },
     {
-      "title": "Multiples vulnérabilités dans Synacor Zimbra Collaboration (19 août 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1041/",
-      "date": "2026-08-19T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Synacor Zimbra Collaboration. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une falsification de requêtes côté serveur (SSRF) et une injection de code indirecte à distance (XSS)....",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
       "title": "Multiples vulnérabilités dans Google Chrome (19 août 2026)",
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1045/",
       "date": "2026-08-19T00:00:00+00:00",
@@ -220,42 +228,18 @@
       "source_name": "Commission européenne"
     },
     {
-      "title": "Multiples vulnérabilités dans GitLab (18 août 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1037/",
-      "date": "2026-08-18T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données et une injection de requêtes illégitimes par rebond (CSRF).",
+      "title": "Vulnérabilité dans SPIP (17 août 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1033/",
+      "date": "2026-08-17T00:00:00+00:00",
+      "summary": "Une vulnérabilité a été découverte dans SPIP. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
       "source_id": "anssi",
       "source_name": "ANSSI"
     },
     {
-      "title": "Multiples vulnérabilités dans Mattermost Desktop App (18 août 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1040/",
-      "date": "2026-08-18T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Mattermost Desktop App. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un problème de sécurité non spécifié par l'éditeur.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Typo3 (18 août 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1036/",
-      "date": "2026-08-18T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Typo3. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Zabbix (18 août 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1039/",
-      "date": "2026-08-18T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Zabbix. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans les produits Apple (18 août 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1038/",
-      "date": "2026-08-18T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Apple. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et un déni de service à distance.",
+      "title": "Multiples vulnérabilités dans SPIP (11 août 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0995/",
+      "date": "2026-08-11T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans SPIP. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une injection SQL (SQLi) et une falsification de requêtes côté serveur (SSRF).",
       "source_id": "anssi",
       "source_name": "ANSSI"
     },
@@ -396,12 +380,28 @@
       "source_name": "Commission européenne"
     },
     {
+      "title": "Multiples vulnérabilités dans WordPress (20 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-007/",
+      "date": "2026-07-20T00:00:00+00:00",
+      "summary": "Le 17 juillet 2026, WordPress a publié un correctif pour deux vulnérabilités : CVE-2026-60137 : une injection SQL (SQLi) ; CVE-2026-63030 : celle-ci permet un contournement de la politique de sécurité. Un attaquant peut exploiter ces deux vulnérabilités, de manière combinée, pour obtenir une...",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
       "title": "EDPB calls for legal basis for cross-regulatory information sharing",
       "link": "https://www.edpb.europa.eu/news/edpb-calls-for-legal-basis-for-cross-regulatory-information-sharing_en",
       "date": "2026-07-17T12:00:00+00:00",
       "summary": "<p>Dublin, 17 July– At a high-level meeting in Dublin on 16 and 17 July 2026, the European Data Protection Board (EDPB) called for a clear legal basis for the sharing of information among regulators with different competences. The Board also discussed how to further expand efforts to support a consi",
       "source_id": "edpb",
       "source_name": "EDPB"
+    },
+    {
+      "title": "Multiples vulnérabilités dans Sonicwall Secure Mobile Access (15 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-006/",
+      "date": "2026-07-15T00:00:00+00:00",
+      "summary": "Le 14 juillet 2026, Sonicwall a publié un avis de sécurité concernant deux vulnérabilités affectant les Secure Mobile Access (SMA) 1000. La vulnérabilité critique CVE-2026-15409 permet une falsification de requêtes côté serveur (SSRF) de la part d'un attaquant non authentifié. La vulnérabilité...",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
     },
     {
       "title": "EDPB requires Belgian DPA to handle the merits of NOYB cookie banner complaint",
@@ -452,20 +452,20 @@
       "source_name": "EDPB"
     },
     {
-      "title": "Multiples vulnérabilités dans Mattermost Desktop App (18 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0777/",
-      "date": "2026-06-18T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Mattermost Desktop App. Elles permettent à un attaquant de provoquer un déni de service à distance et un problème de sécurité non spécifié par l'éditeur.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
       "title": "Coordinated Supervision Committee extends scope to include Eurodac",
       "link": "https://www.edpb.europa.eu/news/coordinated-supervision-committee-extends-scope-to-include-eurodac_en",
       "date": "2026-06-12T12:00:00+00:00",
       "summary": "<p>Brussels, 12 June – As of today, coordinated supervision of the <strong>European Union’s asylum and migration database (Eurodac) </strong>will be carried out by the Coordinated Supervision Committee (CSC). Eurodac is an information system initially designed to compare the<strong> fingerprints of",
       "source_id": "edpb",
       "source_name": "EDPB"
+    },
+    {
+      "title": "Campagne de notifications de menace envoyée par Apple (11 septembre 2025)",
+      "link": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2025-CTI-010/",
+      "date": "2025-09-11T00:00:00+00:00",
+      "summary": "Depuis 2021, Apple envoie des campagnes de notifications aux individus ciblés par des attaques menées à l’aide de logiciels espions. Ces logiciels, tels que Pegasus, Predator, Graphite ou Triangulation sont particulièrement sophistiqués et difficiles à détecter. Ces attaques complexes ciblent des...",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
     }
   ]
 }
