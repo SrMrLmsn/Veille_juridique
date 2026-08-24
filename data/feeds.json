@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T12:51:46.329069+00:00",
+  "updated": "2026-08-24T13:52:02.611857+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -27,6 +27,22 @@
     }
   },
   "items": [
+    {
+      "title": "Enseignement supérieur : les règles et bonnes pratiques pour utiliser des outils collaboratifs en ligne",
+      "link": "https://www.cnil.fr/fr/enseignement-superieur-bonnes-pratiques-outils-collaboratifs",
+      "date": "2026-08-24T12:00:00+00:00",
+      "summary": "Les établissements d’enseignement supérieur souhaitant recourir à des outils collaboratifs en ligne doivent se montrer vigilants concernant la protection des données personnelles. La CNIL rappelle les règles applicables pour la mise en œuvre de ces outils.",
+      "source_id": "cnil",
+      "source_name": "CNIL"
+    },
+    {
+      "title": "Enseignement du premier et du second degrés : les règles et bonnes pratiques pour utiliser les outils collaboratifs en ligne",
+      "link": "https://www.cnil.fr/fr/enseignement-premier-second-degres-bonnes-pratiques-outils-collaboratifs",
+      "date": "2026-08-24T12:00:00+00:00",
+      "summary": "Les établissements du premier et du second degrés souhaitant recourir à des outils collaboratifs en ligne doivent se montrer vigilants concernant la protection des données personnelles. La CNIL rappelle les règles à suivre pour la mise en œuvre de ces outils.",
+      "source_id": "cnil",
+      "source_name": "CNIL"
+    },
     {
       "title": "Décisions automatisées : sanction de près de 825 millions d’euros à l’encontre d’UBER",
       "link": "https://www.cnil.fr/fr/decisions-automatisees-sanction-de-pres-de-825-millions-deuros-lencontre-duber",
@@ -344,22 +360,6 @@
       "link": "https://www.cnil.fr/fr/webinaire-pixels-de-suivi-fournisseurs-prestataires",
       "date": "2026-07-22T12:00:00+00:00",
       "summary": "La CNIL vous propose de décrypter un sujet ou une actualité en lien avec la protection des données à travers une série de webinaires. Retrouvez ce nouvel épisode consacré aux pixels de suivi.",
-      "source_id": "cnil",
-      "source_name": "CNIL"
-    },
-    {
-      "title": "Questions-réponses - recommandation relative aux pixels dans les courriers électroniques de la CNIL",
-      "link": "https://www.cnil.fr/fr/faq-recommandation-pixels-courriers-electroniques",
-      "date": "2026-07-22T12:00:00+00:00",
-      "summary": "La CNIL répond aux principales interrogations des professionnels sur la mise en œuvre de sa recommandation sur les pixels.",
-      "source_id": "cnil",
-      "source_name": "CNIL"
-    },
-    {
-      "title": "Ordre du jour de la séance plénière du 21 juillet 2026",
-      "link": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-21-juillet-2026",
-      "date": "2026-07-21T12:00:00+00:00",
-      "summary": "La Commission nationale de l'informatique et des libertés s’est réunie le mardi 21 juillet 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
       "source_id": "cnil",
       "source_name": "CNIL"
     },
