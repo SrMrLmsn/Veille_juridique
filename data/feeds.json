@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T11:57:04.202682+00:00",
+  "updated": "2026-08-25T12:58:14.760409+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -76,6 +76,22 @@
       "source_name": "ANSSI"
     },
     {
+      "title": "Multiples vulnérabilités dans le noyau Linux de Debian (21 août 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1068/",
+      "date": "2026-08-21T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Elles permettent à un attaquant de provoquer une élévation de privilèges.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans Traefik (21 août 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1070/",
+      "date": "2026-08-21T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Traefik. Certaines d'entre elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
       "title": "Multiples vulnérabilités dans les produits Citrix (20 août 2026)",
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1059/",
       "date": "2026-08-20T00:00:00+00:00",
@@ -140,14 +156,6 @@
       "source_name": "ANSSI"
     },
     {
-      "title": "Multiples vulnérabilités dans Python (19 août 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1044/",
-      "date": "2026-08-19T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Python. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
       "title": "Multiples vulnérabilités dans Oracle Virtualization (19 août 2026)",
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1052/",
       "date": "2026-08-19T00:00:00+00:00",
@@ -176,14 +184,6 @@
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1050/",
       "date": "2026-08-19T00:00:00+00:00",
       "summary": "De multiples vulnérabilités ont été découvertes dans Oracle PeopleSoft. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un déni de service.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Vulnérabilité dans Apereo CAS (19 août 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1043/",
-      "date": "2026-08-19T00:00:00+00:00",
-      "summary": "Une vulnérabilité a été découverte dans Apereo CAS. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
       "source_id": "anssi",
       "source_name": "ANSSI"
     },
