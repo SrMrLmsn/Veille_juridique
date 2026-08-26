@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T07:47:11.084953+00:00",
+  "updated": "2026-08-26T08:44:04.589167+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -27,6 +27,14 @@
     }
   },
   "items": [
+    {
+      "title": "IA : la CNIL met à jour son outil de traçabilité des modèles publiés en source ouverte",
+      "link": "https://www.cnil.fr/fr/ia-la-cnil-met-jour-son-outil-de-tracabilite-des-modeles-publies-en-source-ouverte",
+      "date": "2026-08-26T12:00:00+00:00",
+      "summary": "La CNIL publie une nouvelle version de son démonstrateur permettant d’explorer la généalogie des modèles d’IA publiés en source ouverte. Cette mise à jour améliore notamment les performances de l’outil, son ergonomie et automatise l’actualisation des données. Une version en anglais est désormais dis",
+      "source_id": "cnil",
+      "source_name": "CNIL"
+    },
     {
       "title": "Enseignement supérieur : les règles et bonnes pratiques pour utiliser des outils collaboratifs en ligne",
       "link": "https://www.cnil.fr/fr/enseignement-superieur-bonnes-pratiques-outils-collaboratifs",
@@ -354,14 +362,6 @@
       "summary": "<span>Kick-off of new GenAI pilots for public administration &amp; Apply AI stakeholder meeting</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-07-22T16:18:24+02:00\" title=\"Wednesday, July 22, 2026 - 16:18\">Wed, 07/22/2026 - 16:18</time>\n</span>\n\n<div>\n  <div cla",
       "source_id": "commission",
       "source_name": "Commission européenne"
-    },
-    {
-      "title": "Revoir le webinaire - Fournisseurs et prestataires de l’écosystème « pixels » : comment implémenter la recommandation CNIL ?",
-      "link": "https://www.cnil.fr/fr/webinaire-pixels-de-suivi-fournisseurs-prestataires",
-      "date": "2026-07-22T12:00:00+00:00",
-      "summary": "La CNIL vous propose de décrypter un sujet ou une actualité en lien avec la protection des données à travers une série de webinaires. Retrouvez ce nouvel épisode consacré aux pixels de suivi.",
-      "source_id": "cnil",
-      "source_name": "CNIL"
     },
     {
       "title": "Digital Talent EU Days 2026 in Dublin",
