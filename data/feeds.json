@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-27T00:30:18.822056+00:00",
+  "updated": "2026-08-27T10:57:11.189372+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -27,6 +27,14 @@
     }
   },
   "items": [
+    {
+      "title": "Sensibiliser les élèves de CM2 à la protection des données",
+      "link": "https://www.cnil.fr/fr/sensibiliser-les-eleves-de-cm2-la-protection-des-donnees",
+      "date": "2026-08-27T12:00:00+00:00",
+      "summary": "En 2026, la CNIL a sensibilisé 2&amp;nbsp;500 élèves de CM2 du département de l’Oise aux enjeux du numérique et à la protection des données personnelles. Vous êtes enseignant(e)&amp;nbsp;? Retrouvez, dans cette page, les ressources pour reproduire ce projet pédagogique.",
+      "source_id": "cnil",
+      "source_name": "CNIL"
+    },
     {
       "title": "IA : la CNIL met à jour son outil de traçabilité des modèles publiés en source ouverte",
       "link": "https://www.cnil.fr/fr/ia-la-cnil-met-jour-son-outil-de-tracabilite-des-modeles-publies-en-source-ouverte",
@@ -296,14 +304,6 @@
       "link": "https://www.cnil.fr/fr/college-de-la-cnil-5-nouveaux-membres-nommes-le-2-aout-2026",
       "date": "2026-08-05T12:00:00+00:00",
       "summary": "À partir du 2 août 2026, cinq nouveaux membres intègrent la CNIL. Ces nominations interviennent dans le cadre d’un renouvellement partiel du Collège.",
-      "source_id": "cnil",
-      "source_name": "CNIL"
-    },
-    {
-      "title": "Revoir le webinaire - Mise à jour des MR-001 et MR-003, ce qui change en 2026",
-      "link": "https://www.cnil.fr/fr/webinaire-mise-a-jour-mr",
-      "date": "2026-07-31T12:00:00+00:00",
-      "summary": "La CNIL vous propose de décrypter un sujet ou une actualité en lien avec la protection des données à travers&amp;nbsp;une série de webinaires. Retrouvez ce nouvel épisode consacré aux méthodologies de référence en matière de santé.",
       "source_id": "cnil",
       "source_name": "CNIL"
     },
