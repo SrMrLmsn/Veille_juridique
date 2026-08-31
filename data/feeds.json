@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T07:32:35.206298+00:00",
+  "updated": "2026-08-31T15:54:47.999968+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -27,6 +27,30 @@
     }
   },
   "items": [
+    {
+      "title": "State of the Union 2026",
+      "link": "https://digital-strategy.ec.europa.eu/en/events/state-union-2026",
+      "date": "2026-08-31T14:11:00+00:00",
+      "summary": "<span>State of the Union 2026</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-08-31T16:11:00+02:00\" title=\"Monday, August 31, 2026 - 16:11\">Mon, 08/31/2026 - 16:11</time>\n</span>\n\n<div>\n  <div class=\"cnt-thumbnail-media ecl-u-type-m cnt-content-wrapper\">",
+      "source_id": "commission",
+      "source_name": "Commission européenne"
+    },
+    {
+      "title": "Participez aux Rencontres Informatique & Libertés le 29 septembre 2026",
+      "link": "https://www.cnil.fr/fr/ril-2026",
+      "date": "2026-08-31T12:00:00+00:00",
+      "summary": "La CNIL organise la 2ème édition de ses Rencontres Informatique &amp;amp; Libertés le mardi 29&amp;nbsp;septembre 2026. Cette matinée est l'occasion d’échanger sur différents sujets en lien avec la protection des données, notamment l’essor des lunettes connectées ou le rôle des sanctions.",
+      "source_id": "cnil",
+      "source_name": "CNIL"
+    },
+    {
+      "title": "Commission designates ChatGPT, Reddit, Roblox under Digital Services Act",
+      "link": "https://digital-strategy.ec.europa.eu/en/news/commission-designates-chatgpt-reddit-roblox-under-digital-services-act",
+      "date": "2026-08-31T09:10:00+00:00",
+      "summary": "<span>Commission designates ChatGPT, Reddit, Roblox under Digital Services Act</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-08-31T11:10:00+02:00\" title=\"Monday, August 31, 2026 - 11:10\">Mon, 08/31/2026 - 11:10</time>\n</span>\n\n<div>\n  <div class=\"cnt-thumbnail-",
+      "source_id": "commission",
+      "source_name": "Commission européenne"
+    },
     {
       "title": "Sensibiliser les élèves de CM2 à la protection des données",
       "link": "https://www.cnil.fr/fr/sensibiliser-les-eleves-de-cm2-la-protection-des-donnees",
@@ -56,6 +80,30 @@
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1079/",
       "date": "2026-08-26T00:00:00+00:00",
       "summary": "De multiples vulnérabilités ont été découvertes dans OpenSSL. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans GitLab (26 août 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1086/",
+      "date": "2026-08-26T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Vulnérabilité dans Apereo CAS (26 août 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1082/",
+      "date": "2026-08-26T00:00:00+00:00",
+      "summary": "Une vulnérabilité a été découverte dans Apereo CAS. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans SonicWall NetExtender (26 août 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1084/",
+      "date": "2026-08-26T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans SonicWall NetExtender. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.",
       "source_id": "anssi",
       "source_name": "ANSSI"
     },
@@ -140,14 +188,6 @@
       "source_name": "ANSSI"
     },
     {
-      "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (21 août 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1064/",
-      "date": "2026-08-21T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
       "title": "Multiples vulnérabilités dans le noyau Linux de Debian (21 août 2026)",
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1068/",
       "date": "2026-08-21T00:00:00+00:00",
@@ -160,14 +200,6 @@
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1070/",
       "date": "2026-08-21T00:00:00+00:00",
       "summary": "De multiples vulnérabilités ont été découvertes dans Traefik. Certaines d'entre elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Vulnérabilité dans Python (21 août 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1062/",
-      "date": "2026-08-21T00:00:00+00:00",
-      "summary": "Une vulnérabilité a été découverte dans Python. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
       "source_id": "anssi",
       "source_name": "ANSSI"
     },
@@ -228,14 +260,6 @@
       "source_name": "ANSSI"
     },
     {
-      "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (21 août 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1065/",
-      "date": "2026-08-21T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et un déni de service à distance.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
       "title": "Le refus de crédit en questions",
       "link": "https://www.cnil.fr/fr/le-refus-de-credit-en-questions",
       "date": "2026-08-19T12:00:00+00:00",
@@ -287,7 +311,7 @@
       "title": "Délégué à la protection des données : identifier et gérer les conflits d’intérêts liés à la fonction de DPO",
       "link": "https://www.cnil.fr/fr/dpo-identifier-gerer-conflits-interets",
       "date": "2026-08-10T12:00:00+00:00",
-      "summary": "Le RGPD autorise les organismes à confier d’autres missions à leur délégué à la protection des données (DPO). Ces missions ne doivent néanmoins pas faire obstacle à ses missions de DPO ou le placer en situation de conflit d’intérêts. Comment reconnaître un conflit d’intérêt&amp;nbsp;? Comment y remé",
+      "summary": "Le RGPD autorise les organismes à confier d’autres missions à leur délégué à la protection des données (DPO). Ces missions ne doivent néanmoins pas faire obstacle à ses missions de DPO ou le placer en situation de conflit d’intérêts. Comment reconnaître un conflit d’intérêts ? Comment y remédier&amp",
       "source_id": "cnil",
       "source_name": "CNIL"
     },
@@ -296,14 +320,6 @@
       "link": "https://www.cnil.fr/fr/supprimer-mes-donnees-presse",
       "date": "2026-08-05T12:00:00+00:00",
       "summary": "Toute personne concernée a le droit de demander à un organisme de presse l'effacement de données personnelles la concernant figurant dans un article de presse diffusé en ligne. Il ne s’agit toutefois pas d’un droit absolu&amp;nbsp;: une balance entre les intérêts en présence doit être faite.",
-      "source_id": "cnil",
-      "source_name": "CNIL"
-    },
-    {
-      "title": "Collège de la CNIL : 5 nouveaux membres nommés le 2 août 2026",
-      "link": "https://www.cnil.fr/fr/college-de-la-cnil-5-nouveaux-membres-nommes-le-2-aout-2026",
-      "date": "2026-08-05T12:00:00+00:00",
-      "summary": "À partir du 2 août 2026, cinq nouveaux membres intègrent la CNIL. Ces nominations interviennent dans le cadre d’un renouvellement partiel du Collège.",
       "source_id": "cnil",
       "source_name": "CNIL"
     },
@@ -324,7 +340,7 @@
       "source_name": "Commission européenne"
     },
     {
-      "title": "Stakeholder event on guidelines on the interplay between data protection and competition law: express your interest",
+      "title": "Stakeholder event on guidelines on the interplay between data protection and competition law: overview of topics available",
       "link": "https://www.edpb.europa.eu/news/stakeholder-event-on-guidelines-on-the-interplay-between-data-protection-and-competition-law-0_en",
       "date": "2026-07-30T12:00:00+00:00",
       "summary": "<p>Brussels, 30 July – The EDPB and the European Commission organise a remote stakeholder event in the context of their joint work on upcoming <strong>guidelines on the interplay between competition and data protection</strong>. The event will take place on <strong>15 October 2026</strong> and is an",
@@ -360,22 +376,6 @@
       "link": "https://digital-strategy.ec.europa.eu/en/events/kick-new-genai-pilots-public-administration-apply-ai-stakeholder-meeting",
       "date": "2026-07-22T14:18:24+00:00",
       "summary": "<span>Kick-off of new GenAI pilots for public administration &amp; Apply AI stakeholder meeting</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-07-22T16:18:24+02:00\" title=\"Wednesday, July 22, 2026 - 16:18\">Wed, 07/22/2026 - 16:18</time>\n</span>\n\n<div>\n  <div cla",
-      "source_id": "commission",
-      "source_name": "Commission européenne"
-    },
-    {
-      "title": "Digital Talent EU Days 2026 in Dublin",
-      "link": "https://digital-strategy.ec.europa.eu/en/events/digital-talent-eu-days-2026-dublin",
-      "date": "2026-07-20T13:02:00+00:00",
-      "summary": "<span>Digital Talent EU Days 2026 in Dublin</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-07-20T15:02:00+02:00\" title=\"Monday, July 20, 2026 - 15:02\">Mon, 07/20/2026 - 15:02</time>\n</span>\n\n<div>\n  <div class=\"cnt-thumbnail-media ecl-u-type-m cnt-content-wrappe",
-      "source_id": "commission",
-      "source_name": "Commission européenne"
-    },
-    {
-      "title": "Commission fines AliExpress €550 million for breaching the Digital Services Act",
-      "link": "https://digital-strategy.ec.europa.eu/en/news/commission-fines-aliexpress-eu550-million-breaching-digital-services-act",
-      "date": "2026-07-20T08:22:00+00:00",
-      "summary": "<span>Commission fines AliExpress €550 million for breaching the Digital Services Act</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-07-20T10:22:00+02:00\" title=\"Monday, July 20, 2026 - 10:22\">Mon, 07/20/2026 - 10:22</time>\n</span>\n\n<div>\n  <div class=\"cnt-thumb",
       "source_id": "commission",
       "source_name": "Commission européenne"
     },
