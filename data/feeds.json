@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T10:48:44.557927+00:00",
+  "updated": "2026-09-03T14:53:33.165423+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -66,6 +66,30 @@
       "summary": "<span>Commission designates ChatGPT, Reddit, Roblox under Digital Services Act</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-08-31T11:10:00+02:00\" title=\"Monday, August 31, 2026 - 11:10\">Mon, 08/31/2026 - 11:10</time>\n</span>\n\n<div>\n  <div class=\"cnt-thumbnail-",
       "source_id": "commission",
       "source_name": "Commission européenne"
+    },
+    {
+      "title": "Bulletin d'actualité CERTFR-2026-ACT-037 (31 août 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-037/",
+      "date": "2026-08-31T00:00:00+00:00",
+      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques pour prioriser l'application des...",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans les produits Tenable (31 août 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1097/",
+      "date": "2026-08-31T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Tenable. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une élévation de privilèges.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans Microsoft Edge (31 août 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1096/",
+      "date": "2026-08-31T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
     },
     {
       "title": "Multiples vulnérabilités dans le noyau Linux de Debian (28 août 2026)",
@@ -266,30 +290,6 @@
       "summary": "<span>Pitching day: Finalists of the Apply AI Startup Award</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-08-24T10:19:46+02:00\" title=\"Monday, August 24, 2026 - 10:19\">Mon, 08/24/2026 - 10:19</time>\n</span>\n\n<div>\n  <div class=\"cnt-thumbnail-media ecl-u-type-m",
       "source_id": "commission",
       "source_name": "Commission européenne"
-    },
-    {
-      "title": "Bulletin d'actualité CERTFR-2026-ACT-036 (24 août 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-036/",
-      "date": "2026-08-24T00:00:00+00:00",
-      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques pour prioriser l'application des...",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans LibreNMS (24 août 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1076/",
-      "date": "2026-08-24T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans LibreNMS. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Vulnérabilité dans Microsoft Entra ID (21 août 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1074/",
-      "date": "2026-08-21T00:00:00+00:00",
-      "summary": "**[Mise à jour du 24 août 2026]** Microsoft a modifié son bulletin de sécurité pour préciser que la vulnérabilité CVE-2026-69836 n'est pas activement exploitée. **[Publication initiale]** Une vulnérabilité a été découverte dans Microsoft Entra ID. Elle permet à un attaquant de provoquer une...",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
     },
     {
       "title": "Le refus de crédit en questions",
