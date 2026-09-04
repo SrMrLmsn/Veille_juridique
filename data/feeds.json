@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T06:19:24.521267+00:00",
+  "updated": "2026-09-04T11:34:41.078052+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -27,6 +27,14 @@
     }
   },
   "items": [
+    {
+      "title": "Ordre du jour de la séance plénière du 3 septembre 2026",
+      "link": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-3-septembre-2026",
+      "date": "2026-09-03T12:00:00+00:00",
+      "summary": "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 3 septembre 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
+      "source_id": "cnil",
+      "source_name": "CNIL"
+    },
     {
       "title": "Violation de données en matière de santé : sanction de 500 000 euros à l’encontre de l’HÔPITAL PRIVÉ DE LA LOIRE",
       "link": "https://www.cnil.fr/fr/sanction-hopital-prive-loire",
@@ -322,14 +330,6 @@
       "summary": "<span>Join the Inaugural D-TECT Forum</span>\n<span><span>lobacni</span></span>\n<span><time datetime=\"2026-08-10T14:07:00+02:00\" title=\"Monday, August 10, 2026 - 14:07\">Mon, 08/10/2026 - 14:07</time>\n</span>\n\n<div>\n  <div class=\"cnt-thumbnail-media ecl-u-type-m cnt-content-wrapper\">",
       "source_id": "commission",
       "source_name": "Commission européenne"
-    },
-    {
-      "title": "Délégué à la protection des données : identifier et gérer les conflits d’intérêts liés à la fonction de DPO",
-      "link": "https://www.cnil.fr/fr/dpo-identifier-gerer-conflits-interets",
-      "date": "2026-08-10T12:00:00+00:00",
-      "summary": "Le RGPD autorise les organismes à confier d’autres missions à leur délégué à la protection des données (DPO). Ces missions ne doivent néanmoins pas faire obstacle à ses missions de DPO ou le placer en situation de conflit d’intérêts. Comment reconnaître un conflit d’intérêts ? Comment y remédier&amp",
-      "source_id": "cnil",
-      "source_name": "CNIL"
     },
     {
       "title": "Commission starts enforcing AI Act rules and new transparency requirements on 2 August",
