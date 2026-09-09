@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T05:00:46.099331+00:00",
+  "updated": "2026-09-09T10:00:18.590660+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -27,6 +27,14 @@
     }
   },
   "items": [
+    {
+      "title": "Non-respect des droits des personnes : sanction de 300 000 euros à l’encontre de la société EXTIA",
+      "link": "https://www.cnil.fr/fr/sanction-non-respect-droits-personnes-extia",
+      "date": "2026-09-09T12:00:00+00:00",
+      "summary": "Le 21 juillet 2026, la CNIL a sanctionné la société EXTIA d’une amende de 300&amp;nbsp;000 euros pour divers manquements relatifs au respect des droits des personnes, notamment du droit à l’effacement des données personnelles («&amp;nbsp;droit à l’oubli&amp;nbsp;»).",
+      "source_id": "cnil",
+      "source_name": "CNIL"
+    },
     {
       "title": "Apply AI Summit",
       "link": "https://digital-strategy.ec.europa.eu/en/events/apply-ai-summit",
@@ -336,14 +344,6 @@
       "link": "https://www.cnil.fr/fr/le-refus-de-credit-en-questions",
       "date": "2026-08-19T12:00:00+00:00",
       "summary": "Vous avez demandé un crédit et on vous l’a refusé&amp;nbsp;? Vous êtes inscrit dans un fichier géré par la Banque de France ou un fichier tenu par votre banque&amp;nbsp;? Quelles sont les différentes démarches à effectuer&amp;nbsp;?",
-      "source_id": "cnil",
-      "source_name": "CNIL"
-    },
-    {
-      "title": "Piratage du système d’information des impôts : les vérifications sont en cours",
-      "link": "https://www.cnil.fr/fr/piratage-du-systeme-dinformation-des-impots-les-verifications-sont-en-cours",
-      "date": "2026-08-18T12:00:00+00:00",
-      "summary": "La CNIL a été notifiée de violations de données affectant le système d’information de la Direction générale des Finances publiques (DGFiP). Elle est donc d’ores et déjà saisie de ces violations et, dans ce contexte, il n’est plus nécessaire de lui adresser des plaintes individuelles à ce sujet.",
       "source_id": "cnil",
       "source_name": "CNIL"
     },
