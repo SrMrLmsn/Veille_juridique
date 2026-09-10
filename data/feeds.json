@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T01:19:18.174463+00:00",
+  "updated": "2026-09-10T06:24:44.589705+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -44,124 +44,12 @@
       "source_name": "EDPB"
     },
     {
-      "title": "Vulnérabilité dans les produits Adobe (08 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1130/",
-      "date": "2026-09-08T00:00:00+00:00",
-      "summary": "Une vulnérabilité a été découverte dans les produits Adobe. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. Adobe indique que la vulnérabilité CVE-2026-75650 est activement exploitée.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans les produits Siemens (08 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1133/",
-      "date": "2026-09-08T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Siemens. Elles permettent à un attaquant de provoquer une exécution de code arbitraire et une élévation de privilèges.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans strongSwan (08 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1129/",
-      "date": "2026-09-08T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans strongSwan. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Schneider Electric EcoStruxure (08 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1132/",
-      "date": "2026-09-08T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Schneider Electric EcoStruxure. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une falsification de requêtes côté serveur (SSRF).",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans les produits SAP (08 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1134/",
-      "date": "2026-09-08T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits SAP. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Mattermost Server (08 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1128/",
-      "date": "2026-09-08T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Mattermost Server. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Typo3 (08 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1131/",
-      "date": "2026-09-08T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Typo3. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
       "title": "Apply AI Summit",
       "link": "https://digital-strategy.ec.europa.eu/en/events/apply-ai-summit",
       "date": "2026-09-07T13:58:15+00:00",
       "summary": "<span>Apply AI Summit</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-09-07T15:58:15+02:00\" title=\"Monday, September 7, 2026 - 15:58\">Mon, 09/07/2026 - 15:58</time>\n</span>\n\n<div>\n  <div class=\"cnt-thumbnail-media ecl-u-type-m cnt-content-wrapper\">",
       "source_id": "commission",
       "source_name": "Commission européenne"
-    },
-    {
-      "title": "Bulletin d'actualité CERTFR-2026-ACT-038 (07 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-038/",
-      "date": "2026-09-07T00:00:00+00:00",
-      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques pour prioriser l'application des...",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans les produits VMware (07 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1125/",
-      "date": "2026-09-07T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Roundcube Webmail (07 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1122/",
-      "date": "2026-09-07T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Roundcube Webmail. Certaines d'entre elles permettent à un attaquant de provoquer une falsification de requêtes côté serveur (SSRF), une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans les produits Juniper Networks (07 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1124/",
-      "date": "2026-09-07T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Juniper Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et un déni de service à distance.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans MongoDB (07 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1123/",
-      "date": "2026-09-07T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans MongoDB. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et une injection de requêtes illégitimes par rebond (CSRF).",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Traefik (07 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1127/",
-      "date": "2026-09-07T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Traefik. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Vulnérabilité dans Belden HiOS Switch Platform (07 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1126/",
-      "date": "2026-09-07T00:00:00+00:00",
-      "summary": "Une vulnérabilité a été découverte dans Belden HiOS Switch Platform. Elle permet à un attaquant de provoquer un déni de service à distance.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
     },
     {
       "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (04 septembre 2026)",
@@ -236,14 +124,6 @@
       "source_name": "ANSSI"
     },
     {
-      "title": "Multiples vulnérabilités dans Elastic Kibana (04 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1113/",
-      "date": "2026-09-04T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Elastic Kibana. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
       "title": "Ordre du jour de la séance plénière du 3 septembre 2026",
       "link": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-3-septembre-2026",
       "date": "2026-09-03T12:00:00+00:00",
@@ -268,6 +148,126 @@
       "source_name": "EDPB"
     },
     {
+      "title": "Multiples vulnérabilités dans les produits F5 (03 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1111/",
+      "date": "2026-09-03T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits F5. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans SPIP (03 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1109/",
+      "date": "2026-09-03T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans SPIP. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une élévation de privilèges.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans les produits Cisco (03 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1110/",
+      "date": "2026-09-03T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans les produits Elastic (02 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1107/",
+      "date": "2026-09-02T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Elastic. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans les produits HPE Aruba Networking (02 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1104/",
+      "date": "2026-09-02T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits HPE Aruba Networking. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans les produits Mozilla (02 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1106/",
+      "date": "2026-09-02T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans Google Chrome (02 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1105/",
+      "date": "2026-09-02T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans Curl (02 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1108/",
+      "date": "2026-09-02T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Curl. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans les produits SonicWall (02 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1103/",
+      "date": "2026-09-02T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits SonicWall. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une falsification de requêtes côté serveur (SSRF). L'éditeur indique que les vulnérabilités CVE-2026-83548 et CVE-2026-83549...",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans SonicWall Secure Mobile Access (02 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-009/",
+      "date": "2026-09-02T00:00:00+00:00",
+      "summary": "Le 01 septembre 2026, SonicWall a publié un avis de sécurité concernant deux vulnérabilités affectant les Secure Mobile Access (SMA) 1000. La vulnérabilité critique CVE-2026-83548 permet une falsification de requêtes côté serveur (SSRF) de la part d'un attaquant non authentifié. La vulnérabilité...",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans SPIP (01 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1102/",
+      "date": "2026-09-01T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans SPIP. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un problème de sécurité non spécifié par l'éditeur.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Vulnérabilité dans Mozilla Firefox pour iOS (01 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1099/",
+      "date": "2026-09-01T00:00:00+00:00",
+      "summary": "Une vulnérabilité a été découverte dans Mozilla Firefox pour iOS. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Vulnérabilité dans Kaspersky Endpoint Security Windows (01 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1101/",
+      "date": "2026-09-01T00:00:00+00:00",
+      "summary": "Une vulnérabilité a été découverte dans Kaspersky Endpoint Security Windows. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans Mattermost Server (01 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1098/",
+      "date": "2026-09-01T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Mattermost Server. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans JFrog Artifactory (01 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1100/",
+      "date": "2026-09-01T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans JFrog Artifactory. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une falsification de requêtes côté serveur (SSRF) et un contournement de la politique de sécurité.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
       "title": "State of the Union 2026",
       "link": "https://digital-strategy.ec.europa.eu/en/events/state-union-2026",
       "date": "2026-08-31T14:11:00+00:00",
@@ -290,6 +290,14 @@
       "summary": "<span>Commission designates ChatGPT, Reddit, Roblox under Digital Services Act</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-08-31T11:10:00+02:00\" title=\"Monday, August 31, 2026 - 11:10\">Mon, 08/31/2026 - 11:10</time>\n</span>\n\n<div>\n  <div class=\"cnt-thumbnail-",
       "source_id": "commission",
       "source_name": "Commission européenne"
+    },
+    {
+      "title": "Multiples vulnérabilités dans Papercut (28 août 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1095/",
+      "date": "2026-08-28T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Papercut. Elles permettent à un attaquant de contourner l'authentification et d'exécuter du code arbitraire à distance. Papercut indique que ces vulnérabilités sont activement exploitées. L'éditeur explique que le correctif bloque les requêtes...",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
     },
     {
       "title": "Sensibiliser les élèves de CM2 à la protection des données",
@@ -362,14 +370,6 @@
       "summary": "<span>Join the Inaugural D-TECT Forum</span>\n<span><span>lobacni</span></span>\n<span><time datetime=\"2026-08-10T14:07:00+02:00\" title=\"Monday, August 10, 2026 - 14:07\">Mon, 08/10/2026 - 14:07</time>\n</span>\n\n<div>\n  <div class=\"cnt-thumbnail-media ecl-u-type-m cnt-content-wrapper\">",
       "source_id": "commission",
       "source_name": "Commission européenne"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Roundcube (10 août 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0987/",
-      "date": "2026-08-10T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Roundcube. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une falsification de requêtes côté serveur (SSRF).",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
     },
     {
       "title": "Commission starts enforcing AI Act rules and new transparency requirements on 2 August",
