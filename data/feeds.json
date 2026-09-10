@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T11:41:13.963204+00:00",
+  "updated": "2026-09-10T15:58:15.817831+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -27,6 +27,22 @@
     }
   },
   "items": [
+    {
+      "title": "Ordre du jour de la séance plénière du 10 septembre 2026",
+      "link": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-10-septembre-2026",
+      "date": "2026-09-10T12:00:00+00:00",
+      "summary": "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 10 septembre 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
+      "source_id": "cnil",
+      "source_name": "CNIL"
+    },
+    {
+      "title": "Facturation électronique : quels enjeux pour la protection des données personnelles ?",
+      "link": "https://www.cnil.fr/fr/facturation-electronique-quels-enjeux",
+      "date": "2026-09-10T12:00:00+00:00",
+      "summary": "Depuis le 1er septembre 2026, la réforme relative à la facturation électronique entre entreprises est entrée en vigueur. La CNIL aide les entreprises à comprendre les enjeux et à assurer la sécurité des données traitées.",
+      "source_id": "cnil",
+      "source_name": "CNIL"
+    },
     {
       "title": "La CNIL publie le tome 2 de L’Agence Privacy : une nouvelle enquête pour mieux comprendre la cybercriminalité",
       "link": "https://www.cnil.fr/fr/audeladelecran",
@@ -320,22 +336,6 @@
       "link": "https://www.cnil.fr/fr/enseignement-superieur-bonnes-pratiques-outils-collaboratifs",
       "date": "2026-08-24T12:00:00+00:00",
       "summary": "Les établissements d’enseignement supérieur souhaitant recourir à des outils collaboratifs en ligne doivent se montrer vigilants concernant la protection des données personnelles. La CNIL rappelle les règles applicables pour la mise en œuvre de ces outils.",
-      "source_id": "cnil",
-      "source_name": "CNIL"
-    },
-    {
-      "title": "Enseignement du premier et du second degrés : les règles et bonnes pratiques pour utiliser les outils collaboratifs en ligne",
-      "link": "https://www.cnil.fr/fr/enseignement-premier-second-degres-bonnes-pratiques-outils-collaboratifs",
-      "date": "2026-08-24T12:00:00+00:00",
-      "summary": "Les établissements du premier et du second degrés souhaitant recourir à des outils collaboratifs en ligne doivent se montrer vigilants concernant la protection des données personnelles. La CNIL rappelle les règles à suivre pour la mise en œuvre de ces outils.",
-      "source_id": "cnil",
-      "source_name": "CNIL"
-    },
-    {
-      "title": "Décisions automatisées : sanction de près de 825 millions d’euros à l’encontre d’UBER",
-      "link": "https://www.cnil.fr/fr/decisions-automatisees-sanction-de-pres-de-825-millions-deuros-lencontre-duber",
-      "date": "2026-08-24T12:00:00+00:00",
-      "summary": "En coopération avec la CNIL, l’autorité néerlandaise de protection des données a prononcé à l’encontre des sociétés UBER B.V. et UBER TECHNOLOGIES INC. une amende de 824&amp;nbsp;990&amp;nbsp;000 euros pour avoir pris des décisions individuelles automatisées concernant les chauffeurs de sa plateform",
       "source_id": "cnil",
       "source_name": "CNIL"
     },
