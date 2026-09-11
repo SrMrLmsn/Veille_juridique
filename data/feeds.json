@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T03:28:44.155947+00:00",
+  "updated": "2026-09-11T08:15:56.165701+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -27,6 +27,14 @@
     }
   },
   "items": [
+    {
+      "title": "Failure to respect the rights of individuals: The CNIL fined EXTIA 300 000 EUR",
+      "link": "https://www.edpb.europa.eu/news/failure-to-respect-the-rights-of-individuals-the-cnil-fined-extia-300-000-eur_en",
+      "date": "2026-09-11T12:00:00+00:00",
+      "summary": "<div class=\"heading-wrapper\"><h2 id=\"background-information\"><strong>Background information</strong></h2><ul><li>Date of final decision: 21 July 2026</li><li>National case</li><li>Legal Reference(s): Article 12 (Transparent information, communication and modalities for the exercise of the rights of",
+      "source_id": "edpb",
+      "source_name": "EDPB"
+    },
     {
       "title": "Ordre du jour de la séance plénière du 10 septembre 2026",
       "link": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-10-septembre-2026",
@@ -456,14 +464,6 @@
       "link": "https://www.edpb.europa.eu/news/one-stop-shop-case-digest-on-right-to-object-and-right-to-erasure-updated_en",
       "date": "2026-06-25T12:00:00+00:00",
       "summary": "<p><strong>Brussels, 25 June</strong> - The EDPB has published an update of the <a href=\"https://www.edpb.europa.eu/documents/support-pool-of-experts/one-stop-shop-case-digest-on-right-to-object-and-right-to-erasure_en\" target=\"_blank\">One-Stop-Shop (OSS) case digest on right to object and right to",
-      "source_id": "edpb",
-      "source_name": "EDPB"
-    },
-    {
-      "title": "Supporting GDPR consistency: EDPB launches dedicated form",
-      "link": "https://www.edpb.europa.eu/news/supporting-gdpr-consistency-edpb-launches-dedicated-form_en",
-      "date": "2026-06-24T12:00:00+00:00",
-      "summary": "<p>Brussels, 24 June – The EDPB has launched a <a href=\"https://www.edpb.europa.eu/contact/flag-an-inconsistency_en\" target=\"_blank\">dedicated contact form</a> for stakeholders to report possible inconsistencies in how the GDPR is interpreted across Europe. This initiative reflects the commitments s",
       "source_id": "edpb",
       "source_name": "EDPB"
     }
