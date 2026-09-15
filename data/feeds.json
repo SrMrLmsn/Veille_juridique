@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T07:19:00.398854+00:00",
+  "updated": "2026-09-15T12:47:55.250038+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -34,6 +34,22 @@
       "summary": "<div class=\"heading-wrapper\"><h2 id=\"background-information\"><strong>Background information</strong></h2><ul><li>Date of final decision: 21 July 2026</li><li>National case</li><li>Legal Reference(s): Article 12 (Transparent information, communication and modalities for the exercise of the rights of",
       "source_id": "edpb",
       "source_name": "EDPB"
+    },
+    {
+      "title": "Multiples vulnérabilités dans les produits Fortinet (11 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1166/",
+      "date": "2026-09-11T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (11 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1161/",
+      "date": "2026-09-11T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et un déni de service à distance.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
     },
     {
       "title": "Ordre du jour de la séance plénière du 10 septembre 2026",
@@ -132,6 +148,22 @@
       "source_name": "ANSSI"
     },
     {
+      "title": "Multiples vulnérabilités dans Google Android (10 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1158/",
+      "date": "2026-09-10T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Google Android. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Vulnérabilité dans Metabase (10 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-010/",
+      "date": "2026-09-10T00:00:00+00:00",
+      "summary": "Le 06 août 2026, Metabase a publié un avis de sécurité concernant une vulnérabilité critique permettant à un attaquant non authentifié de provoquer une injection SQL (SQLi) dans la base de donnée de l'application Metabase. Cette injection SQL permet d’obtenir les droits administrateur de...",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
       "title": "Non-respect des droits des personnes : sanction de 300 000 euros à l’encontre de la société EXTIA",
       "link": "https://www.cnil.fr/fr/sanction-non-respect-droits-personnes-extia",
       "date": "2026-09-09T12:00:00+00:00",
@@ -148,50 +180,10 @@
       "source_name": "EDPB"
     },
     {
-      "title": "Multiples vulnérabilités dans Google Chrome (09 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1139/",
-      "date": "2026-09-09T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. Google indique que la vulnérabilité CVE-2026-87491 est activement exploitée.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
       "title": "Vulnérabilité dans Microsoft Edge (09 septembre 2026)",
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1144/",
       "date": "2026-09-09T00:00:00+00:00",
       "summary": "Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Xen (09 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1136/",
-      "date": "2026-09-09T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Xen. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et un contournement de la politique de sécurité.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Citrix Workspace app (09 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1137/",
-      "date": "2026-09-09T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Citrix Workspace app. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans les produits Adobe (09 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1140/",
-      "date": "2026-09-09T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Adobe. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Vulnérabilité dans les produits Cisco (09 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1138/",
-      "date": "2026-09-09T00:00:00+00:00",
-      "summary": "Une vulnérabilité a été découverte dans les produits Cisco. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
       "source_id": "anssi",
       "source_name": "ANSSI"
     },
@@ -260,10 +252,10 @@
       "source_name": "ANSSI"
     },
     {
-      "title": "Multiples vulnérabilités dans les produits Ivanti (09 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1135/",
-      "date": "2026-09-09T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Ivanti. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un contournement de la politique de sécurité.",
+      "title": "Multiples vulnérabilités dans Mattermost Server (08 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1128/",
+      "date": "2026-09-08T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Mattermost Server. Elles permettent à un attaquant de provoquer un déni de service à distance.",
       "source_id": "anssi",
       "source_name": "ANSSI"
     },
@@ -298,6 +290,14 @@
       "summary": "<div class=\"heading-wrapper\"><h2 id=\"background-information\">Background information</h2><ul><li>Date of final decision: 28 August 2026</li><li>National case</li><li>Legal Reference(s): Article 5 (Principles relating to processing of personal data), <span>Article 32 (Security of processing), Article",
       "source_id": "edpb",
       "source_name": "EDPB"
+    },
+    {
+      "title": "Multiples vulnérabilités dans Mattermost Server (01 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1098/",
+      "date": "2026-09-01T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Mattermost Server. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
     },
     {
       "title": "State of the Union 2026",
