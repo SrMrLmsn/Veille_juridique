@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T05:57:11.806951+00:00",
+  "updated": "2026-09-21T12:34:05.750124+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -27,6 +27,14 @@
     }
   },
   "items": [
+    {
+      "title": "EDPB harmonises fining methodology and adopts final DSA-GDPR guidelines",
+      "link": "https://www.edpb.europa.eu/news/edpb-harmonises-fining-methodology-and-adopts-final-dsa-gdpr-guidelines_en",
+      "date": "2026-09-21T12:00:00+00:00",
+      "summary": "<p>Brussels, 21 September – During its latest plenary, the EDPB has adopted <a href=\"https://www.edpb.europa.eu/documents/guideline/guidelines-042026-on-the-application-of-the-power-to-impose-administrative_en\">guidelines on the application of the power to impose administrative fines in relation to",
+      "source_id": "edpb",
+      "source_name": "EDPB"
+    },
     {
       "title": "Data Union Conference",
       "link": "https://digital-strategy.ec.europa.eu/en/events/data-union-conference",
@@ -456,14 +464,6 @@
       "link": "https://www.edpb.europa.eu/news/edpb-and-amla-to-develop-joint-guidelines-on-partnerships-for-information-sharing_en",
       "date": "2026-07-01T12:00:00+00:00",
       "summary": "<p>Brussels/Frankfurt, 1 July – The EDPB and the Anti-Money Laundering Authority (AMLA) are working together to bring greater clarity to a question of growing importance for industry and authorities alike: how to share information to fight financial crime while protecting personal data.</p><h3>Why i",
-      "source_id": "edpb",
-      "source_name": "EDPB"
-    },
-    {
-      "title": "One-Stop-Shop case digest on right to object and right to erasure updated",
-      "link": "https://www.edpb.europa.eu/news/one-stop-shop-case-digest-on-right-to-object-and-right-to-erasure-updated_en",
-      "date": "2026-06-25T12:00:00+00:00",
-      "summary": "<p><strong>Brussels, 25 June</strong> - The EDPB has published an update of the <a href=\"https://www.edpb.europa.eu/documents/support-pool-of-experts/one-stop-shop-case-digest-on-right-to-object-and-right-to-erasure_en\" target=\"_blank\">One-Stop-Shop (OSS) case digest on right to object and right to",
       "source_id": "edpb",
       "source_name": "EDPB"
     }
