@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T06:36:24.474168+00:00",
+  "updated": "2026-09-22T12:24:51.006272+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -27,6 +27,14 @@
     }
   },
   "items": [
+    {
+      "title": "The Spanish DPA fined Securitas Direct 100 000 EUR for making the exercise of data subject rights more difficult by directing individuals to a chargeable telephone number",
+      "link": "https://www.edpb.europa.eu/news/the-spanish-dpa-fined-securitas-direct-100-000-eur-for-making-the-exercise-of-data-subject_en",
+      "date": "2026-09-22T12:00:00+00:00",
+      "summary": "<div class=\"heading-wrapper\"><h2 id=\"background-information\"><strong>Background information</strong></h2><ul><li>Date of final decision: 1 February 2023</li><li>National case</li><li>Controller: SECURITAS DIRECT, S.A.</li><li>Legal Reference(s): Article 12 (Transparent information, communication and",
+      "source_id": "edpb",
+      "source_name": "EDPB"
+    },
     {
       "title": "EDPB harmonises fining methodology and adopts final DSA-GDPR guidelines",
       "link": "https://www.edpb.europa.eu/news/edpb-harmonises-fining-methodology-and-adopts-final-dsa-gdpr-guidelines_en",
@@ -96,6 +104,22 @@
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1196/",
       "date": "2026-09-17T00:00:00+00:00",
       "summary": "De multiples vulnérabilités ont été découvertes dans Drupal. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS).",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans les produits Cisco (17 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1197/",
+      "date": "2026-09-17T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance. Cisco indique que la vulnérabilité CVE-2026-76460 est...",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans ISC BIND (17 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1192/",
+      "date": "2026-09-17T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans ISC BIND. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.",
       "source_id": "anssi",
       "source_name": "ANSSI"
     },
@@ -228,14 +252,6 @@
       "source_name": "ANSSI"
     },
     {
-      "title": "Multiples vulnérabilités dans Microsoft Edge (15 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1173/",
-      "date": "2026-09-15T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une élévation de privilèges et un problème de sécurité non spécifié par l'éditeur.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
       "title": "Multiples vulnérabilités dans les produits Cisco (15 septembre 2026)",
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1175/",
       "date": "2026-09-15T00:00:00+00:00",
@@ -300,14 +316,6 @@
       "source_name": "EDPB"
     },
     {
-      "title": "Multiples vulnérabilités dans Mattermost Server (08 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1128/",
-      "date": "2026-09-08T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Mattermost Server. Elles permettent à un attaquant de provoquer un déni de service à distance.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
       "title": "Apply AI Summit",
       "link": "https://digital-strategy.ec.europa.eu/en/events/apply-ai-summit",
       "date": "2026-09-07T13:58:15+00:00",
@@ -338,14 +346,6 @@
       "summary": "<div class=\"heading-wrapper\"><h2 id=\"background-information\">Background information</h2><ul><li>Date of final decision: 28 August 2026</li><li>National case</li><li>Legal Reference(s): Article 5 (Principles relating to processing of personal data), <span>Article 32 (Security of processing), Article",
       "source_id": "edpb",
       "source_name": "EDPB"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Mattermost Server (01 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1098/",
-      "date": "2026-09-01T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Mattermost Server. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
     },
     {
       "title": "Participez aux Rencontres Informatique & Libertés le 29 septembre 2026",
@@ -436,6 +436,14 @@
       "source_name": "EDPB"
     },
     {
+      "title": "Multiples vulnérabilités dans Microsoft Sharepoint (22 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-008/",
+      "date": "2026-07-22T00:00:00+00:00",
+      "summary": "Le 14 juillet 2026, à l'occasion de sa mise à jour mensuelle, Microsoft a publié, entre autres, des correctifs pour deux vulnérabilités critiques affectant SharePoint. Les vulnérabilités CVE-2026-50522 et CVE-2026-58644 permettent à un attaquant non authentifié d'exécuter du code arbitraire à...",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
       "title": "EDPB calls for legal basis for cross-regulatory information sharing",
       "link": "https://www.edpb.europa.eu/news/edpb-calls-for-legal-basis-for-cross-regulatory-information-sharing_en",
       "date": "2026-07-17T12:00:00+00:00",
@@ -456,14 +464,6 @@
       "link": "https://www.edpb.europa.eu/news/edpb-sheds-light-on-anonymisation-and-web-scraping-for-generative-ai-and-adopts-final-version_en",
       "date": "2026-07-08T12:00:00+00:00",
       "summary": "<p>Brussels, 8 July– During its latest plenary, the EDPB has adopted <a href=\"https://www.edpb.europa.eu/system/files/2026-07/edpb_guidelines_202602_anonymisation_v1_en_0.pdf\"><strong>guidelines on anonymisation</strong></a><strong> </strong>and <a href=\"https://www.edpb.europa.eu/system/files/2026-",
-      "source_id": "edpb",
-      "source_name": "EDPB"
-    },
-    {
-      "title": "EDPB and AMLA to develop Joint Guidelines on partnerships for information sharing",
-      "link": "https://www.edpb.europa.eu/news/edpb-and-amla-to-develop-joint-guidelines-on-partnerships-for-information-sharing_en",
-      "date": "2026-07-01T12:00:00+00:00",
-      "summary": "<p>Brussels/Frankfurt, 1 July – The EDPB and the Anti-Money Laundering Authority (AMLA) are working together to bring greater clarity to a question of growing importance for industry and authorities alike: how to share information to fight financial crime while protecting personal data.</p><h3>Why i",
       "source_id": "edpb",
       "source_name": "EDPB"
     }
