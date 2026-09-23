@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T12:57:07.635019+00:00",
+  "updated": "2026-09-23T17:47:11.502150+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -27,6 +27,14 @@
     }
   },
   "items": [
+    {
+      "title": "Amendes RGPD et interaction avec le règlement sur les services numériques : retour sur la plénière du CEPD du 17 septembre 2026",
+      "link": "https://www.cnil.fr/fr/pleniere-cepd-amendes-reglement-services-numeriques",
+      "date": "2026-09-23T12:00:00+00:00",
+      "summary": "Le 17 septembre 2026, le CEPD a adopté des lignes directrices sur le pouvoir des autorités de protection des données d’infliger des amendes administratives et la version finale de ses lignes directrices sur l'interaction entre le règlement sur les services numériques (DSA) et le RGPD.",
+      "source_id": "cnil",
+      "source_name": "CNIL"
+    },
     {
       "title": "The Irish Data Protection Commission fines Google 403 000 000 EUR following Inquiry into Google’s processing of location data",
       "link": "https://www.edpb.europa.eu/news/the-irish-data-protection-commission-fines-google-403-000-000-eur-following-inquiry_en",
@@ -58,6 +66,70 @@
       "summary": "<span>Data Union Conference</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-09-18T09:43:00+02:00\" title=\"Friday, September 18, 2026 - 09:43\">Fri, 09/18/2026 - 09:43</time>\n</span>\n\n<div>\n  <div class=\"cnt-thumbnail-media ecl-u-type-m cnt-content-wrapper\">",
       "source_id": "commission",
       "source_name": "Commission européenne"
+    },
+    {
+      "title": "Multiples vulnérabilités dans les produits IBM (18 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1206/",
+      "date": "2026-09-18T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Vulnérabilité dans Kaspersky Secure Mail Gateway (18 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1201/",
+      "date": "2026-09-18T00:00:00+00:00",
+      "summary": "Une vulnérabilité a été découverte dans Kaspersky Secure Mail Gateway. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans WordPress (18 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1200/",
+      "date": "2026-09-18T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans WordPress. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans Google Chrome (18 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1199/",
+      "date": "2026-09-18T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (18 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1202/",
+      "date": "2026-09-18T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Vulnérabilité dans les produits Moxa (18 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1205/",
+      "date": "2026-09-18T00:00:00+00:00",
+      "summary": "Une vulnérabilité a été découverte dans les produits Moxa. Elle permet à un attaquant de provoquer un déni de service à distance.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (18 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1203/",
+      "date": "2026-09-18T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (18 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1204/",
+      "date": "2026-09-18T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et un déni de service à distance.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
     },
     {
       "title": "Ordre du jour de la séance plénière du 17 septembre 2026",
@@ -132,6 +204,14 @@
       "source_name": "ANSSI"
     },
     {
+      "title": "Vulnérabilité dans Nextcloud Server (17 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1198/",
+      "date": "2026-09-17T00:00:00+00:00",
+      "summary": "Une vulnérabilité a été découverte dans Nextcloud Server. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
       "title": "Multiples vulnérabilités dans Oracle Virtualization (16 septembre 2026)",
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1188/",
       "date": "2026-09-16T00:00:00+00:00",
@@ -140,50 +220,10 @@
       "source_name": "ANSSI"
     },
     {
-      "title": "Multiples vulnérabilités dans Apache Zookeeper (16 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1177/",
-      "date": "2026-09-16T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Apache Zookeeper. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans les produits HPE Aruba Networking (16 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1179/",
-      "date": "2026-09-16T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits HPE Aruba Networking. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Google Pixel (16 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1176/",
-      "date": "2026-09-16T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Google Pixel. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données. Google indique que la vulnérabilité...",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
       "title": "Multiples vulnérabilités dans Docker (16 septembre 2026)",
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1189/",
       "date": "2026-09-16T00:00:00+00:00",
       "summary": "De multiples vulnérabilités ont été découvertes dans Docker. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Oracle Java SE (16 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1185/",
-      "date": "2026-09-16T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Oracle Java SE. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Vulnérabilité dans StrongSwan (16 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1180/",
-      "date": "2026-09-16T00:00:00+00:00",
-      "summary": "Une vulnérabilité a été découverte dans StrongSwan. Elle permet à un attaquant de provoquer un déni de service à distance.",
       "source_id": "anssi",
       "source_name": "ANSSI"
     },
@@ -220,30 +260,6 @@
       "source_name": "ANSSI"
     },
     {
-      "title": "Vulnérabilité dans Netgate pfSense (16 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1181/",
-      "date": "2026-09-16T00:00:00+00:00",
-      "summary": "Une vulnérabilité a été découverte dans Netgate pfSense. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Google Chrome (16 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1178/",
-      "date": "2026-09-16T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Oracle Database Server (16 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1184/",
-      "date": "2026-09-16T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Oracle Database Server. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
       "title": "Vulnérabilité dans F5 NGINX (16 septembre 2026)",
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1182/",
       "date": "2026-09-16T00:00:00+00:00",
@@ -264,14 +280,6 @@
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1175/",
       "date": "2026-09-15T00:00:00+00:00",
       "summary": "De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une injection SQL (SQLi). Cisco indique que la vulnérabilité CVE-2026-76461 est...",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Vulnérabilité dans Microsoft Windows (15 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1174/",
-      "date": "2026-09-15T00:00:00+00:00",
-      "summary": "Une vulnérabilité a été découverte dans Microsoft Windows. Elle permet à un attaquant de provoquer une élévation de privilèges.",
       "source_id": "anssi",
       "source_name": "ANSSI"
     },
@@ -376,14 +384,6 @@
       "link": "https://www.cnil.fr/fr/sensibiliser-les-eleves-de-cm2-la-protection-des-donnees",
       "date": "2026-08-27T12:00:00+00:00",
       "summary": "En 2026, la CNIL a contribué à sensibiliser 2&amp;nbsp;500 élèves de CM2 du département de l’Oise aux enjeux du numérique et à la protection des données personnelles. Vous êtes enseignant(e)&amp;nbsp;? Retrouvez, dans cette page, les ressources pour reproduire ce projet pédagogique.",
-      "source_id": "cnil",
-      "source_name": "CNIL"
-    },
-    {
-      "title": "IA : la CNIL met à jour son outil de traçabilité des modèles publiés en source ouverte",
-      "link": "https://www.cnil.fr/fr/ia-la-cnil-met-jour-son-outil-de-tracabilite-des-modeles-publies-en-source-ouverte",
-      "date": "2026-08-26T12:00:00+00:00",
-      "summary": "La CNIL publie une nouvelle version de son démonstrateur permettant d’explorer la généalogie des modèles d’IA publiés en source ouverte. Cette mise à jour améliore notamment les performances de l’outil, son ergonomie et automatise l’actualisation des données. Une version en anglais est désormais dis",
       "source_id": "cnil",
       "source_name": "CNIL"
     },
