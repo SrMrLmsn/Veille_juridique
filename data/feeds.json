@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T07:27:38.324930+00:00",
+  "updated": "2026-09-23T12:57:07.635019+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -27,6 +27,14 @@
     }
   },
   "items": [
+    {
+      "title": "The Irish Data Protection Commission fines Google 403 000 000 EUR following Inquiry into Google’s processing of location data",
+      "link": "https://www.edpb.europa.eu/news/the-irish-data-protection-commission-fines-google-403-000-000-eur-following-inquiry_en",
+      "date": "2026-09-23T12:00:00+00:00",
+      "summary": "<div class=\"heading-wrapper\"><h2 id=\"background-information\">Background information</h2><ul><li>Date of final decision: 21 September 2026</li><li>National case</li><li>Legal Reference(s): Article 5 (Principles relating to processing of personal data), Article 6 (Lawfulness of processing), Article 12",
+      "source_id": "edpb",
+      "source_name": "EDPB"
+    },
     {
       "title": "The Spanish DPA fined Securitas Direct 100 000 EUR for making the exercise of data subject rights more difficult by directing individuals to a chargeable telephone number",
       "link": "https://www.edpb.europa.eu/news/the-spanish-dpa-fined-securitas-direct-100-000-eur-for-making-the-exercise-of-data-subject_en",
@@ -271,7 +279,7 @@
       "title": "Failure to respect the rights of individuals: The CNIL fined EXTIA 300 000 EUR",
       "link": "https://www.edpb.europa.eu/news/failure-to-respect-the-rights-of-individuals-the-cnil-fined-extia-300-000-eur_en",
       "date": "2026-09-11T12:00:00+00:00",
-      "summary": "<div class=\"heading-wrapper\"><h2 id=\"background-information\"><strong>Background information</strong></h2><ul><li>Date of final decision: 21 July 2026</li><li>National case</li><li>Legal Reference(s): Article 12 (Transparent information, communication and modalities for the exercise of the rights of",
+      "summary": "<div class=\"heading-wrapper\"><h2 id=\"background-information\">Background information</h2><ul><li>Date of final decision: 21 July 2026</li><li>National case</li><li>Legal Reference(s): Article 12 (Transparent information, communication and modalities for the exercise of the rights of the data subject)",
       "source_id": "edpb",
       "source_name": "EDPB"
     },
@@ -456,14 +464,6 @@
       "link": "https://www.edpb.europa.eu/news/edpb-requires-belgian-dpa-to-handle-the-merits-of-noyb-cookie-banner-complaint_en",
       "date": "2026-07-14T12:00:00+00:00",
       "summary": "<p><span>Brussels, 14 July–The EDPB has published its&nbsp;</span><a href=\"https://www.edpb.europa.eu/documents/edpb-binding-decisions/binding-decision-12026-on-the-dispute-submitted-by-the-belgian-sa_en\"><span><u>binding decision of 28 May 2026&nbsp;under Art.65(1)(a) GDPR*.</u></span></a><span><st",
-      "source_id": "edpb",
-      "source_name": "EDPB"
-    },
-    {
-      "title": "EDPB sheds light on anonymisation and web scraping for generative AI and adopts final version of guidelines on blockchain",
-      "link": "https://www.edpb.europa.eu/news/edpb-sheds-light-on-anonymisation-and-web-scraping-for-generative-ai-and-adopts-final-version_en",
-      "date": "2026-07-08T12:00:00+00:00",
-      "summary": "<p>Brussels, 8 July– During its latest plenary, the EDPB has adopted <a href=\"https://www.edpb.europa.eu/system/files/2026-07/edpb_guidelines_202602_anonymisation_v1_en_0.pdf\"><strong>guidelines on anonymisation</strong></a><strong> </strong>and <a href=\"https://www.edpb.europa.eu/system/files/2026-",
       "source_id": "edpb",
       "source_name": "EDPB"
     }
