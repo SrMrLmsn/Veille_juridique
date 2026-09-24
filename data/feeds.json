@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T18:34:33.755986+00:00",
+  "updated": "2026-09-24T22:02:46.682991+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -17,7 +17,7 @@
       "name": "EDPB",
       "country": "EU",
       "color": "#003399",
-      "count": 10
+      "count": 0
     },
     "commission": {
       "name": "Commission européenne",
@@ -52,28 +52,12 @@
       "source_name": "CNIL"
     },
     {
-      "title": "The Irish Data Protection Commission fines Google 403 000 000 EUR following Inquiry into Google’s processing of location data",
-      "link": "https://www.edpb.europa.eu/news/the-irish-data-protection-commission-fines-google-403-000-000-eur-following-inquiry_en",
-      "date": "2026-09-23T12:00:00+00:00",
-      "summary": "<div class=\"heading-wrapper\"><h2 id=\"background-information\">Background information</h2><ul><li>Date of final decision: 21 September 2026</li><li>National case</li><li>Legal Reference(s): Article 5 (Principles relating to processing of personal data), Article 6 (Lawfulness of processing), Article 12",
-      "source_id": "edpb",
-      "source_name": "EDPB"
-    },
-    {
       "title": "Multiples vulnérabilités dans Apache Tomcat (23 septembre 2026)",
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1218/",
       "date": "2026-09-23T00:00:00+00:00",
       "summary": "De multiples vulnérabilités ont été découvertes dans Apache Tomcat. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.",
       "source_id": "anssi",
       "source_name": "ANSSI"
-    },
-    {
-      "title": "The Spanish DPA fined Securitas Direct 100 000 EUR for making the exercise of data subject rights more difficult by directing individuals to a chargeable telephone number",
-      "link": "https://www.edpb.europa.eu/news/the-spanish-dpa-fined-securitas-direct-100-000-eur-for-making-the-exercise-of-data-subject_en",
-      "date": "2026-09-22T12:00:00+00:00",
-      "summary": "<div class=\"heading-wrapper\"><h2 id=\"background-information\"><strong>Background information</strong></h2><ul><li>Date of final decision: 1 February 2023</li><li>National case</li><li>Controller: SECURITAS DIRECT, S.A.</li><li>Legal Reference(s): Article 12 (Transparent information, communication and",
-      "source_id": "edpb",
-      "source_name": "EDPB"
     },
     {
       "title": "Multiples vulnérabilités dans Moodle (22 septembre 2026)",
@@ -90,14 +74,6 @@
       "summary": "Une vulnérabilité a été découverte dans SolarWinds Access Rights Manager. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
       "source_id": "anssi",
       "source_name": "ANSSI"
-    },
-    {
-      "title": "EDPB harmonises fining methodology and adopts final DSA-GDPR guidelines",
-      "link": "https://www.edpb.europa.eu/news/edpb-harmonises-fining-methodology-and-adopts-final-dsa-gdpr-guidelines_en",
-      "date": "2026-09-21T12:00:00+00:00",
-      "summary": "<p>Brussels, 21 September – During its latest plenary, the EDPB has adopted <a href=\"https://www.edpb.europa.eu/documents/guideline/guidelines-042026-on-the-application-of-the-power-to-impose-administrative_en\">guidelines on the application of the power to impose administrative fines in relation to",
-      "source_id": "edpb",
-      "source_name": "EDPB"
     },
     {
       "title": "Bulletin d'actualité CERTFR-2026-ACT-040 (21 septembre 2026)",
@@ -276,14 +252,6 @@
       "source_name": "ANSSI"
     },
     {
-      "title": "Failure to respect the rights of individuals: The CNIL fined EXTIA 300 000 EUR",
-      "link": "https://www.edpb.europa.eu/news/failure-to-respect-the-rights-of-individuals-the-cnil-fined-extia-300-000-eur_en",
-      "date": "2026-09-11T12:00:00+00:00",
-      "summary": "<div class=\"heading-wrapper\"><h2 id=\"background-information\">Background information</h2><ul><li>Date of final decision: 21 July 2026</li><li>National case</li><li>Legal Reference(s): Article 12 (Transparent information, communication and modalities for the exercise of the rights of the data subject)",
-      "source_id": "edpb",
-      "source_name": "EDPB"
-    },
-    {
       "title": "Ordre du jour de la séance plénière du 10 septembre 2026",
       "link": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-10-septembre-2026",
       "date": "2026-09-10T12:00:00+00:00",
@@ -316,14 +284,6 @@
       "source_name": "CNIL"
     },
     {
-      "title": "Health data breach: the CNIL fined Hôpital Privé de la Loire 500 000 EUR",
-      "link": "https://www.edpb.europa.eu/news/health-data-breach-the-cnil-fined-hopital-prive-de-la-loire-500-000-eur_en",
-      "date": "2026-09-09T12:00:00+00:00",
-      "summary": "<div class=\"heading-wrapper\"><h2 id=\"background-information\"><strong>Background information</strong></h2><ul><li>Date of final decision: 3 September 2026</li><li>National case</li><li>Controller: Hôpital Privé de la Loire</li><li>Legal Reference: Article 32 (Security of processing), Article 34 (Comm",
-      "source_id": "edpb",
-      "source_name": "EDPB"
-    },
-    {
       "title": "Apply AI Summit",
       "link": "https://digital-strategy.ec.europa.eu/en/events/apply-ai-summit",
       "date": "2026-09-07T13:58:15+00:00",
@@ -338,14 +298,6 @@
       "summary": "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 3 septembre 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
       "source_id": "cnil",
       "source_name": "CNIL"
-    },
-    {
-      "title": "Data Protection Commission announces Final Decision following Inquiry into the Health Service Executive (HSE)",
-      "link": "https://www.edpb.europa.eu/news/data-protection-commission-announces-final-decision-following-inquiry-into-the-health-service_en",
-      "date": "2026-09-03T12:00:00+00:00",
-      "summary": "<div class=\"heading-wrapper\"><h2 id=\"background-information\">Background information</h2><ul><li>Date of final decision: 28 August 2026</li><li>National case</li><li>Legal Reference(s): Article 5 (Principles relating to processing of personal data), <span>Article 32 (Security of processing), Article",
-      "source_id": "edpb",
-      "source_name": "EDPB"
     },
     {
       "title": "Commission designates ChatGPT, Reddit, Roblox under Digital Services Act",
@@ -396,44 +348,12 @@
       "source_name": "Commission européenne"
     },
     {
-      "title": "Stakeholder event on guidelines on the interplay between data protection and competition law: overview of topics available",
-      "link": "https://www.edpb.europa.eu/news/stakeholder-event-on-guidelines-on-the-interplay-between-data-protection-and-competition-law-0_en",
-      "date": "2026-07-30T12:00:00+00:00",
-      "summary": "<p>Brussels, 30 July – The EDPB and the European Commission organise a remote stakeholder event in the context of their joint work on upcoming <strong>guidelines on the interplay between competition and data protection</strong>. The event will take place on <strong>15 October 2026</strong> and is an",
-      "source_id": "edpb",
-      "source_name": "EDPB"
-    },
-    {
-      "title": "Stakeholder event on guidelines on the interplay between data protection and competition law: save the date",
-      "link": "https://www.edpb.europa.eu/news/stakeholder-event-on-guidelines-on-the-interplay-between-data-protection-and-competition-law_en",
-      "date": "2026-07-23T12:00:00+00:00",
-      "summary": "<p>Brussels, 23 July – The EDPB and the European Commission organise a remote stakeholder event in the context of their joint work on upcoming <strong>guidelines on the interplay between competition and data protection</strong>. The event will take place on <strong>15 October 2026</strong> and is an",
-      "source_id": "edpb",
-      "source_name": "EDPB"
-    },
-    {
       "title": "Multiples vulnérabilités dans Microsoft Sharepoint (22 juillet 2026)",
       "link": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-008/",
       "date": "2026-07-22T00:00:00+00:00",
       "summary": "Le 14 juillet 2026, à l'occasion de sa mise à jour mensuelle, Microsoft a publié, entre autres, des correctifs pour deux vulnérabilités critiques affectant SharePoint. Les vulnérabilités CVE-2026-50522 et CVE-2026-58644 permettent à un attaquant non authentifié d'exécuter du code arbitraire à...",
       "source_id": "anssi",
       "source_name": "ANSSI"
-    },
-    {
-      "title": "EDPB calls for legal basis for cross-regulatory information sharing",
-      "link": "https://www.edpb.europa.eu/news/edpb-calls-for-legal-basis-for-cross-regulatory-information-sharing_en",
-      "date": "2026-07-17T12:00:00+00:00",
-      "summary": "<p>Dublin, 17 July– At a high-level meeting in Dublin on 16 and 17 July 2026, the European Data Protection Board (EDPB) called for a clear legal basis for the sharing of information among regulators with different competences. The Board also discussed how to further expand efforts to support a consi",
-      "source_id": "edpb",
-      "source_name": "EDPB"
-    },
-    {
-      "title": "EDPB requires Belgian DPA to handle the merits of NOYB cookie banner complaint",
-      "link": "https://www.edpb.europa.eu/news/edpb-requires-belgian-dpa-to-handle-the-merits-of-noyb-cookie-banner-complaint_en",
-      "date": "2026-07-14T12:00:00+00:00",
-      "summary": "<p><span>Brussels, 14 July–The EDPB has published its&nbsp;</span><a href=\"https://www.edpb.europa.eu/documents/edpb-binding-decisions/binding-decision-12026-on-the-dispute-submitted-by-the-belgian-sa_en\"><span><u>binding decision of 28 May 2026&nbsp;under Art.65(1)(a) GDPR*.</u></span></a><span><st",
-      "source_id": "edpb",
-      "source_name": "EDPB"
     },
     {
       "title": "Multiples vulnérabilités dans les produits Siemens (10 septembre 2019)",
