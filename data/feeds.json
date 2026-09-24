@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T09:03:43.970368+00:00",
+  "updated": "2026-09-24T14:18:35.214275+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -28,6 +28,14 @@
   },
   "items": [
     {
+      "title": "Ordre du jour de la séance plénière du 24 septembre 2026",
+      "link": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-24-septembre-2026",
+      "date": "2026-09-24T12:00:00+00:00",
+      "summary": "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 24 septembre 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
+      "source_id": "cnil",
+      "source_name": "CNIL"
+    },
+    {
       "title": "Clôture de l’injonction prononcée à l’encontre de la société SOLOCAL MARKETING SERVICES",
       "link": "https://www.cnil.fr/fr/cloture-injonction-solocal-marketing-services",
       "date": "2026-09-24T12:00:00+00:00",
@@ -52,6 +60,14 @@
       "source_name": "EDPB"
     },
     {
+      "title": "Multiples vulnérabilités dans Apache Tomcat (23 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1218/",
+      "date": "2026-09-23T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Apache Tomcat. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
       "title": "The Spanish DPA fined Securitas Direct 100 000 EUR for making the exercise of data subject rights more difficult by directing individuals to a chargeable telephone number",
       "link": "https://www.edpb.europa.eu/news/the-spanish-dpa-fined-securitas-direct-100-000-eur-for-making-the-exercise-of-data-subject_en",
       "date": "2026-09-22T12:00:00+00:00",
@@ -60,12 +76,60 @@
       "source_name": "EDPB"
     },
     {
+      "title": "Multiples vulnérabilités dans Moodle (22 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1210/",
+      "date": "2026-09-22T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Moodle. Elles permettent à un attaquant de provoquer une injection SQL (SQLi) et un contournement de la politique de sécurité.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Vulnérabilité dans SolarWinds Access Rights Manager (22 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1211/",
+      "date": "2026-09-22T00:00:00+00:00",
+      "summary": "Une vulnérabilité a été découverte dans SolarWinds Access Rights Manager. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
       "title": "EDPB harmonises fining methodology and adopts final DSA-GDPR guidelines",
       "link": "https://www.edpb.europa.eu/news/edpb-harmonises-fining-methodology-and-adopts-final-dsa-gdpr-guidelines_en",
       "date": "2026-09-21T12:00:00+00:00",
       "summary": "<p>Brussels, 21 September – During its latest plenary, the EDPB has adopted <a href=\"https://www.edpb.europa.eu/documents/guideline/guidelines-042026-on-the-application-of-the-power-to-impose-administrative_en\">guidelines on the application of the power to impose administrative fines in relation to",
       "source_id": "edpb",
       "source_name": "EDPB"
+    },
+    {
+      "title": "Bulletin d'actualité CERTFR-2026-ACT-040 (21 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-040/",
+      "date": "2026-09-21T00:00:00+00:00",
+      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques pour prioriser l'application des...",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans Microsoft Edge (21 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1208/",
+      "date": "2026-09-21T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une élévation de privilèges et un problème de sécurité non spécifié par l'éditeur.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans Synology DSM (21 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1209/",
+      "date": "2026-09-21T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Synology DSM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans les produits Mattermost (21 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1207/",
+      "date": "2026-09-21T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Mattermost. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
     },
     {
       "title": "Data Union Conference",
@@ -172,30 +236,6 @@
       "source_name": "Commission européenne"
     },
     {
-      "title": "Vulnérabilité dans NetApp ONTAP 9 (17 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1194/",
-      "date": "2026-09-17T00:00:00+00:00",
-      "summary": "Une vulnérabilité a été découverte dans NetApp ONTAP 9. Elle permet à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Vulnérabilité dans les produits Check Point (17 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1193/",
-      "date": "2026-09-17T00:00:00+00:00",
-      "summary": "Une vulnérabilité a été découverte dans les produits Check Point. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. Checkpoint recommande de rechercher, via la *SmartConsole*, le motif **\"Administrator failed to log in: Username too long\"** dans les journaux...",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Vulnérabilité dans KeyCloak (17 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1195/",
-      "date": "2026-09-17T00:00:00+00:00",
-      "summary": "Une vulnérabilité a été découverte dans KeyCloak. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
       "title": "Multiples vulnérabilités dans Drupal (17 septembre 2026)",
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1196/",
       "date": "2026-09-17T00:00:00+00:00",
@@ -212,14 +252,6 @@
       "source_name": "ANSSI"
     },
     {
-      "title": "Multiples vulnérabilités dans ISC BIND (17 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1192/",
-      "date": "2026-09-17T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans ISC BIND. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
       "title": "Vulnérabilité dans Nextcloud Server (17 septembre 2026)",
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1198/",
       "date": "2026-09-17T00:00:00+00:00",
@@ -228,66 +260,10 @@
       "source_name": "ANSSI"
     },
     {
-      "title": "Multiples vulnérabilités dans Oracle Virtualization (16 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1188/",
-      "date": "2026-09-16T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Oracle Virtualization. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Docker (16 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1189/",
-      "date": "2026-09-16T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Docker. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Oracle PeopleSoft (16 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1187/",
-      "date": "2026-09-16T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Oracle PeopleSoft. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Microsoft Edge (16 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1191/",
-      "date": "2026-09-16T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une élévation de privilèges.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Mattermost Server (16 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1190/",
-      "date": "2026-09-16T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Mattermost Server. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un problème de sécurité non spécifié par l'éditeur.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans les produits Mozilla (16 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1183/",
-      "date": "2026-09-16T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
       "title": "Vulnérabilité dans F5 NGINX (16 septembre 2026)",
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1182/",
       "date": "2026-09-16T00:00:00+00:00",
       "summary": "Une vulnérabilité a été découverte dans F5 NGINX. Elle permet à un attaquant de provoquer un déni de service à distance et une atteinte à l'intégrité des données.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Oracle Weblogic (16 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1186/",
-      "date": "2026-09-16T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Oracle Weblogic. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
       "source_id": "anssi",
       "source_name": "ANSSI"
     },
@@ -360,14 +336,6 @@
       "link": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-3-septembre-2026",
       "date": "2026-09-03T12:00:00+00:00",
       "summary": "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 3 septembre 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
-      "source_id": "cnil",
-      "source_name": "CNIL"
-    },
-    {
-      "title": "Violation de données en matière de santé : sanction de 500 000 euros à l’encontre de l’HÔPITAL PRIVÉ DE LA LOIRE",
-      "link": "https://www.cnil.fr/fr/sanction-hopital-prive-loire",
-      "date": "2026-09-03T12:00:00+00:00",
-      "summary": "Le 3 septembre 2026, la CNIL a prononcé une sanction de 500&amp;nbsp;000&amp;nbsp;€ à l’encontre de l’HÔPITAL PRIVÉ DE LA LOIRE, pour ne pas avoir pris des mesures adaptées pour assurer la sécurité des données de ses patients et de certains de leurs proches.",
       "source_id": "cnil",
       "source_name": "CNIL"
     },
@@ -466,6 +434,38 @@
       "summary": "<p><span>Brussels, 14 July–The EDPB has published its&nbsp;</span><a href=\"https://www.edpb.europa.eu/documents/edpb-binding-decisions/binding-decision-12026-on-the-dispute-submitted-by-the-belgian-sa_en\"><span><u>binding decision of 28 May 2026&nbsp;under Art.65(1)(a) GDPR*.</u></span></a><span><st",
       "source_id": "edpb",
       "source_name": "EDPB"
+    },
+    {
+      "title": "Multiples vulnérabilités dans les produits Siemens (10 septembre 2019)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2019-AVI-429/",
+      "date": "2019-09-10T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Siemens. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Vulnérabilité dans Apple Mac OS X (24 juillet 2015)",
+      "link": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2015-ALE-009/",
+      "date": "2015-07-24T00:00:00+00:00",
+      "summary": "Une vulnérabilité a été découverte dans Apple Mac OS X. Elle permet à un attaquant de provoquer une élévation de privilèges.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Bulletin d'actualité CERTFR-2015-ACT-006 (09 février 2015)",
+      "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2015-ACT-006/",
+      "date": "2015-02-09T00:00:00+00:00",
+      "summary": "1 - Rappel des vulnérabilités récentes dans Adobe Flash Player Adobe Flash Player est utilisé principalement par les navigateurs Internet pour afficher du contenu dynamique sur des pages web. Depuis le début de l'année, plusieurs vulnérabilités sur Adobe Flash Player ont été signalées par le...",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Bulletin d'actualité CERTFR-2014-ACT-004 (24 janvier 2014)",
+      "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2014-ACT-004/",
+      "date": "2014-01-24T00:00:00+00:00",
+      "summary": "1 - Création du CERT-FR Le 21 janvier 2014, le CERTA a changé de nom pour devenir le CERT-FR (Computer Emergency Response Team - France). Le CERT-FR est le CERT gouvernemental français. Il apporte son soutien en matière de gestion d'incidents aux ministères, institutions, juridictions, autorités...",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
     }
   ]
 }
