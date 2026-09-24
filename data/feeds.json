@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T03:35:46.812839+00:00",
+  "updated": "2026-09-24T09:03:43.970368+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -27,6 +27,14 @@
     }
   },
   "items": [
+    {
+      "title": "Clôture de l’injonction prononcée à l’encontre de la société SOLOCAL MARKETING SERVICES",
+      "link": "https://www.cnil.fr/fr/cloture-injonction-solocal-marketing-services",
+      "date": "2026-09-24T12:00:00+00:00",
+      "summary": "Par délibération du 17 septembre 2026, la CNIL a clôturé l’injonction prononcée le 15&amp;nbsp;mai 2025 à l’encontre de la société SOLOCAL MARKETING SERVICES.",
+      "source_id": "cnil",
+      "source_name": "CNIL"
+    },
     {
       "title": "Amendes RGPD et interaction avec le règlement sur les services numériques : retour sur la plénière du CEPD du 17 septembre 2026",
       "link": "https://www.cnil.fr/fr/pleniere-cepd-amendes-reglement-services-numeriques",
@@ -136,6 +144,14 @@
       "link": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-17-septembre-2026",
       "date": "2026-09-17T12:00:00+00:00",
       "summary": "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 17 septembre 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
+      "source_id": "cnil",
+      "source_name": "CNIL"
+    },
+    {
+      "title": "Statut et organisation de la CNIL",
+      "link": "https://www.cnil.fr/fr/fonctionnement/statut-et-organisation-de-la-cnil",
+      "date": "2026-09-17T12:00:00+00:00",
+      "summary": "Créée en 1978 par la loi Informatique et Libertés, la CNIL est une autorité administrative indépendante, composée d’un Collège de 18 membres et d’une équipe d’agents contractuels de l’État.",
       "source_id": "cnil",
       "source_name": "CNIL"
     },
@@ -364,28 +380,12 @@
       "source_name": "EDPB"
     },
     {
-      "title": "Participez aux Rencontres Informatique & Libertés le 29 septembre 2026",
-      "link": "https://www.cnil.fr/fr/ril-2026",
-      "date": "2026-08-31T12:00:00+00:00",
-      "summary": "La CNIL organise la 2ème édition de ses Rencontres Informatique &amp;amp; Libertés le mardi 29&amp;nbsp;septembre 2026. Cette matinée est l'occasion d’échanger sur différents sujets en lien avec la protection des données, notamment l’essor des lunettes connectées ou le rôle des sanctions.",
-      "source_id": "cnil",
-      "source_name": "CNIL"
-    },
-    {
       "title": "Commission designates ChatGPT, Reddit, Roblox under Digital Services Act",
       "link": "https://digital-strategy.ec.europa.eu/en/news/commission-designates-chatgpt-reddit-roblox-under-digital-services-act",
       "date": "2026-08-31T09:10:00+00:00",
       "summary": "<span>Commission designates ChatGPT, Reddit, Roblox under Digital Services Act</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-08-31T11:10:00+02:00\" title=\"Monday, August 31, 2026 - 11:10\">Mon, 08/31/2026 - 11:10</time>\n</span>\n\n<div>\n  <div class=\"cnt-thumbnail-",
       "source_id": "commission",
       "source_name": "Commission européenne"
-    },
-    {
-      "title": "Sensibiliser les élèves de CM2 à la protection des données",
-      "link": "https://www.cnil.fr/fr/sensibiliser-les-eleves-de-cm2-la-protection-des-donnees",
-      "date": "2026-08-27T12:00:00+00:00",
-      "summary": "En 2026, la CNIL a contribué à sensibiliser 2&amp;nbsp;500 élèves de CM2 du département de l’Oise aux enjeux du numérique et à la protection des données personnelles. Vous êtes enseignant(e)&amp;nbsp;? Retrouvez, dans cette page, les ressources pour reproduire ce projet pédagogique.",
-      "source_id": "cnil",
-      "source_name": "CNIL"
     },
     {
       "title": "Pitching day: Finalists of the Apply AI Startup Award",
