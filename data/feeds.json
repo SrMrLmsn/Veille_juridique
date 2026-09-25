@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T11:21:09.183086+00:00",
+  "updated": "2026-09-25T15:53:26.375254+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -64,6 +64,54 @@
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1218/",
       "date": "2026-09-23T00:00:00+00:00",
       "summary": "De multiples vulnérabilités ont été découvertes dans Apache Tomcat. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans les produits FoxIT (23 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1214/",
+      "date": "2026-09-23T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits FoxIT. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans SolarWinds Observability Self-Hosted (23 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1215/",
+      "date": "2026-09-23T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans SolarWinds Observability Self-Hosted. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Vulnérabilité dans WordPress (23 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1216/",
+      "date": "2026-09-23T00:00:00+00:00",
+      "summary": "Une vulnérabilité a été découverte dans WordPress. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans Mattermost Server (23 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1212/",
+      "date": "2026-09-23T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Mattermost Server. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans les produits HPE Aruba Networking (23 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1217/",
+      "date": "2026-09-23T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits HPE Aruba Networking. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans Google Chrome (23 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1213/",
+      "date": "2026-09-23T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
       "source_id": "anssi",
       "source_name": "ANSSI"
     },
@@ -156,22 +204,6 @@
       "source_name": "ANSSI"
     },
     {
-      "title": "Multiples vulnérabilités dans WordPress (18 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1200/",
-      "date": "2026-09-18T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans WordPress. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Google Chrome (18 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1199/",
-      "date": "2026-09-18T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
       "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (18 septembre 2026)",
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1202/",
       "date": "2026-09-18T00:00:00+00:00",
@@ -234,46 +266,6 @@
       "summary": "<span>Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy'</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-09-17T09:21:00+02:00\" title=\"Thursday, September 17, 2026 - 09:21\">Thu, 09/17/2026 - 09:21</time>\n</span>\n\n<div>\n  <d",
       "source_id": "commission",
       "source_name": "Commission européenne"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Drupal (17 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1196/",
-      "date": "2026-09-17T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Drupal. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS).",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans les produits Cisco (17 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1197/",
-      "date": "2026-09-17T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance. Cisco indique que la vulnérabilité CVE-2026-76460 est...",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Vulnérabilité dans Nextcloud Server (17 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1198/",
-      "date": "2026-09-17T00:00:00+00:00",
-      "summary": "Une vulnérabilité a été découverte dans Nextcloud Server. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Vulnérabilité dans F5 NGINX (16 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1182/",
-      "date": "2026-09-16T00:00:00+00:00",
-      "summary": "Une vulnérabilité a été découverte dans F5 NGINX. Elle permet à un attaquant de provoquer un déni de service à distance et une atteinte à l'intégrité des données.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans les produits Cisco (15 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1175/",
-      "date": "2026-09-15T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une injection SQL (SQLi). Cisco indique que la vulnérabilité CVE-2026-76461 est...",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
     },
     {
       "title": "Failure to respect the rights of individuals: The CNIL fined EXTIA 300 000 EUR",
@@ -434,6 +426,14 @@
       "summary": "<p><span>Brussels, 14 July–The EDPB has published its&nbsp;</span><a href=\"https://www.edpb.europa.eu/documents/edpb-binding-decisions/binding-decision-12026-on-the-dispute-submitted-by-the-belgian-sa_en\"><span><u>binding decision of 28 May 2026&nbsp;under Art.65(1)(a) GDPR*.</u></span></a><span><st",
       "source_id": "edpb",
       "source_name": "EDPB"
+    },
+    {
+      "title": "Multiples vulnérabilités dans Roundcube (26 mai 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0644/",
+      "date": "2026-05-26T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Roundcube. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
     },
     {
       "title": "Multiples vulnérabilités dans les produits Siemens (10 septembre 2019)",
