@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T04:27:18.390814+00:00",
+  "updated": "2026-09-30T10:40:54.282047+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -80,6 +80,14 @@
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1226/",
       "date": "2026-09-24T00:00:00+00:00",
       "summary": "De multiples vulnérabilités ont été découvertes dans Zabbix Agent. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans PHP (24 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1227/",
+      "date": "2026-09-24T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans PHP. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
       "source_id": "anssi",
       "source_name": "ANSSI"
     },
@@ -242,14 +250,6 @@
       "summary": "<span>Data Union Conference</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-09-18T09:43:00+02:00\" title=\"Friday, September 18, 2026 - 09:43\">Fri, 09/18/2026 - 09:43</time>\n</span>\n\n<div>\n  <div class=\"cnt-thumbnail-media ecl-u-type-m cnt-content-wrapper\">",
       "source_id": "commission",
       "source_name": "Commission européenne"
-    },
-    {
-      "title": "Multiples vulnérabilités dans les produits IBM (18 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1206/",
-      "date": "2026-09-18T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
     },
     {
       "title": "Ordre du jour de la séance plénière du 17 septembre 2026",
