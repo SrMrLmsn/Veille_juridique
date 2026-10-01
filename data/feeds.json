@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T14:19:03.376276+00:00",
+  "updated": "2026-10-01T19:42:24.256335+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -27,6 +27,14 @@
     }
   },
   "items": [
+    {
+      "title": "Ordre du jour de la séance plénière du 1er octobre 2026",
+      "link": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-1er-octobre-2026",
+      "date": "2026-10-01T12:00:00+00:00",
+      "summary": "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 1er octobre 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
+      "source_id": "cnil",
+      "source_name": "CNIL"
+    },
     {
       "title": "Cybermois 2026 : la CNIL et Cybermalveillance.gouv.fr publient une nouvelle ressource pour adopter les bons réflexes face à une violation de données",
       "link": "https://www.cnil.fr/fr/cybermois-2026",
@@ -320,14 +328,6 @@
       "link": "https://www.cnil.fr/fr/facturation-electronique-quels-enjeux",
       "date": "2026-09-10T12:00:00+00:00",
       "summary": "Depuis le 1er septembre 2026, la réforme relative à la facturation électronique entre entreprises est entrée en vigueur. La CNIL aide les entreprises à comprendre les enjeux et à assurer la sécurité des données traitées.",
-      "source_id": "cnil",
-      "source_name": "CNIL"
-    },
-    {
-      "title": "La CNIL publie le tome 2 de L’Agence Privacy : une nouvelle enquête pour mieux comprendre la cybercriminalité",
-      "link": "https://www.cnil.fr/fr/audeladelecran",
-      "date": "2026-09-10T12:00:00+00:00",
-      "summary": "Avec «&amp;nbsp;Au-delà de l’écran&amp;nbsp;», l’Agence Privacy revient avec de nouvelles aventures&amp;nbsp;! Hypertrucage (deepfakes), arnaque aux sentiments, défis nocifs sur les réseaux sociaux, brouteurs : ce tome 2 aborde des risques numériques pour la vie privée auxquels adolescents comme par",
       "source_id": "cnil",
       "source_name": "CNIL"
     },
