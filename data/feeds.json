@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T06:07:42.288944+00:00",
+  "updated": "2026-10-05T15:08:17.651555+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -36,6 +36,38 @@
       "source_name": "CNIL"
     },
     {
+      "title": "Vulnérabilités de produits du secteur santé : Retour d'expérience du CERT Santé et du CERT-FR (02 octobre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2026-CTI-007/",
+      "date": "2026-10-02T00:00:00+00:00",
+      "summary": "Le CERT Santé et le CERT-FR assurent le traitement des vulnérabilités qui leur sont signalées par des tiers. A ce titre, ils accompagnent les éditeurs affectés dans la conception et le suivi de plan d’action incluant le développement de correctifs et la communication vers leurs utilisateurs. Dans...",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans les produits Moxa (02 octobre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1250/",
+      "date": "2026-10-02T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Moxa. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Vulnérabilité dans Fortinet FortiMail (02 octobre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1257/",
+      "date": "2026-10-02T00:00:00+00:00",
+      "summary": "Une vulnérabilité a été découverte dans Fortinet FortiMail. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. Fortinet indique que la vulnérabilité CVE-2026-104286 est activement exploitée. Des indicateurs de compromission sont disponibles dans l'avis de l'éditeur.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans Microsoft Edge (02 octobre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1251/",
+      "date": "2026-10-02T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
       "title": "Ordre du jour de la séance plénière du 1er octobre 2026",
       "link": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-1er-octobre-2026",
       "date": "2026-10-01T12:00:00+00:00",
@@ -56,6 +88,30 @@
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1243/",
       "date": "2026-10-01T00:00:00+00:00",
       "summary": "De multiples vulnérabilités ont été découvertes dans CPython. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans Redmine (01 octobre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1245/",
+      "date": "2026-10-01T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Redmine. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans Mozilla Thunderbird (01 octobre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1244/",
+      "date": "2026-10-01T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Mozilla Thunderbird. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Vulnérabilité dans Cisco Catalyst SD-WAN (01 octobre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1246/",
+      "date": "2026-10-01T00:00:00+00:00",
+      "summary": "Une vulnérabilité a été découverte dans Cisco Catalyst SD-WAN. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité. Cisco indique que la vulnérabilité CVE-2026-76504 est activement exploitée.",
       "source_id": "anssi",
       "source_name": "ANSSI"
     },
@@ -167,7 +223,7 @@
       "title": "Multiples vulnérabilités dans Citrix NetScaler ADC et Gateway (28 septembre 2026)",
       "link": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-011/",
       "date": "2026-09-28T00:00:00+00:00",
-      "summary": "[Mise à jour du 30 septembre 2026] Dans un billet de blogue du 29 septembre 2026 (cf. section Documentation), Mandiant et Google Threat Intelligence Group (GTIG) fournissent des indicateurs de compromission ainsi que des règles de détection au format YARA. Ceux-ci n'ont pas été qualifiés par...",
+      "summary": "**[Mise à jour du 05 octobre 2026]** Le 4 octobre 2026, Citrix a publié un avis concernant une nouvelle vulnérabilité (CVE-2026-88779) permettant un déni de service à distance. La CISA indique que cette vulnérabilité est activement exploitée. **[Mise à jour du 30 septembre 2026]** Dans un billet...",
       "source_id": "anssi",
       "source_name": "ANSSI"
     },
@@ -192,14 +248,6 @@
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1232/",
       "date": "2026-09-25T00:00:00+00:00",
       "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian LTS. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans les produits Elastic (25 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1228/",
-      "date": "2026-09-25T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Elastic. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.",
       "source_id": "anssi",
       "source_name": "ANSSI"
     },
@@ -236,14 +284,6 @@
       "source_name": "CNIL"
     },
     {
-      "title": "Multiples vulnérabilités dans PHP (24 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1227/",
-      "date": "2026-09-24T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans PHP. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
       "title": "Amendes RGPD et interaction avec le règlement sur les services numériques : retour sur la plénière du CEPD du 17 septembre 2026",
       "link": "https://www.cnil.fr/fr/pleniere-cepd-amendes-reglement-services-numeriques",
       "date": "2026-09-23T12:00:00+00:00",
@@ -252,7 +292,7 @@
       "source_name": "CNIL"
     },
     {
-      "title": "The Irish Data Protection Commission fines Google 403 000 000 EUR following Inquiry into Google’s processing of location data",
+      "title": "The Irish Data Protection Commission fines Google EUR 403 000 000 following Inquiry into Google’s processing of location data",
       "link": "https://www.edpb.europa.eu/news/the-irish-data-protection-commission-fines-google-403-000-000-eur-following-inquiry_en",
       "date": "2026-09-23T12:00:00+00:00",
       "summary": "<div class=\"heading-wrapper\"><h2 id=\"background-information\">Background information</h2><ul><li>Date of final decision: 21 September 2026</li><li>National case</li><li>Legal Reference(s): Article 5 (Principles relating to processing of personal data), Article 6 (Lawfulness of processing), Article 12",
@@ -260,8 +300,8 @@
       "source_name": "EDPB"
     },
     {
-      "title": "The Spanish DPA fined Securitas Direct 100 000 EUR for making the exercise of data subject rights more difficult by directing individuals to a chargeable telephone number",
-      "link": "https://www.edpb.europa.eu/news/the-spanish-dpa-fined-securitas-direct-100-000-eur-for-making-the-exercise-of-data-subject_en",
+      "title": "The Spanish DPA fined Securitas Direct EUR 100 000 for making the exercise of data subject rights more difficult by directing individuals to a chargeable telephone number",
+      "link": "https://www.edpb.europa.eu/news/the-spanish-dpa-fined-securitas-direct-eur-100-000-for-making-the-exercise-of-data-subject_en",
       "date": "2026-09-22T12:00:00+00:00",
       "summary": "<div class=\"heading-wrapper\"><h2 id=\"background-information\"><strong>Background information</strong></h2><ul><li>Date of final decision: 1 February 2023</li><li>National case</li><li>Controller: SECURITAS DIRECT, S.A.</li><li>Legal Reference(s): Article 12 (Transparent information, communication and",
       "source_id": "edpb",
@@ -316,8 +356,8 @@
       "source_name": "Commission européenne"
     },
     {
-      "title": "Failure to respect the rights of individuals: The CNIL fined EXTIA 300 000 EUR",
-      "link": "https://www.edpb.europa.eu/news/failure-to-respect-the-rights-of-individuals-the-cnil-fined-extia-300-000-eur_en",
+      "title": "Failure to respect the rights of individuals: The CNIL fined EXTIA EUR 300 000",
+      "link": "https://www.edpb.europa.eu/news/failure-to-respect-the-rights-of-individuals-the-cnil-fined-extia-eur-300-000_en",
       "date": "2026-09-11T12:00:00+00:00",
       "summary": "<div class=\"heading-wrapper\"><h2 id=\"background-information\">Background information</h2><ul><li>Date of final decision: 21 July 2026</li><li>National case</li><li>Legal Reference(s): Article 12 (Transparent information, communication and modalities for the exercise of the rights of the data subject)",
       "source_id": "edpb",
@@ -332,8 +372,8 @@
       "source_name": "CNIL"
     },
     {
-      "title": "Health data breach: the CNIL fined Hôpital Privé de la Loire 500 000 EUR",
-      "link": "https://www.edpb.europa.eu/news/health-data-breach-the-cnil-fined-hopital-prive-de-la-loire-500-000-eur_en",
+      "title": "Health data breach: the CNIL fined Hôpital Privé de la Loire EUR 500 000",
+      "link": "https://www.edpb.europa.eu/news/health-data-breach-the-cnil-fined-hopital-prive-de-la-loire-eur-500-000_en",
       "date": "2026-09-09T12:00:00+00:00",
       "summary": "<div class=\"heading-wrapper\"><h2 id=\"background-information\"><strong>Background information</strong></h2><ul><li>Date of final decision: 3 September 2026</li><li>National case</li><li>Controller: Hôpital Privé de la Loire</li><li>Legal Reference: Article 32 (Security of processing), Article 34 (Comm",
       "source_id": "edpb",
@@ -426,46 +466,6 @@
       "summary": "<p><span>Brussels, 14 July–The EDPB has published its&nbsp;</span><a href=\"https://www.edpb.europa.eu/documents/edpb-binding-decisions/binding-decision-12026-on-the-dispute-submitted-by-the-belgian-sa_en\"><span><u>binding decision of 28 May 2026&nbsp;under Art.65(1)(a) GDPR*.</u></span></a><span><st",
       "source_id": "edpb",
       "source_name": "EDPB"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Roundcube (26 mai 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0644/",
-      "date": "2026-05-26T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Roundcube. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans les produits Siemens (10 septembre 2019)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2019-AVI-429/",
-      "date": "2019-09-10T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Siemens. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Vulnérabilité dans Apple Mac OS X (24 juillet 2015)",
-      "link": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2015-ALE-009/",
-      "date": "2015-07-24T00:00:00+00:00",
-      "summary": "Une vulnérabilité a été découverte dans Apple Mac OS X. Elle permet à un attaquant de provoquer une élévation de privilèges.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Bulletin d'actualité CERTFR-2015-ACT-006 (09 février 2015)",
-      "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2015-ACT-006/",
-      "date": "2015-02-09T00:00:00+00:00",
-      "summary": "1 - Rappel des vulnérabilités récentes dans Adobe Flash Player Adobe Flash Player est utilisé principalement par les navigateurs Internet pour afficher du contenu dynamique sur des pages web. Depuis le début de l'année, plusieurs vulnérabilités sur Adobe Flash Player ont été signalées par le...",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Bulletin d'actualité CERTFR-2014-ACT-004 (24 janvier 2014)",
-      "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2014-ACT-004/",
-      "date": "2014-01-24T00:00:00+00:00",
-      "summary": "1 - Création du CERT-FR Le 21 janvier 2014, le CERTA a changé de nom pour devenir le CERT-FR (Computer Emergency Response Team - France). Le CERT-FR est le CERT gouvernemental français. Il apporte son soutien en matière de gestion d'incidents aux ministères, institutions, juridictions, autorités...",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
     }
   ]
 }
