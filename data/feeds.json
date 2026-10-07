@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T06:54:23.653181+00:00",
+  "updated": "2026-10-07T14:15:54.385133+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -27,6 +27,78 @@
     }
   },
   "items": [
+    {
+      "title": "Vulnérabilité dans les produits Atlassian (06 octobre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1264/",
+      "date": "2026-10-06T00:00:00+00:00",
+      "summary": "Unevulnérabilité a été découverte dans les produits Atlassian. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Establishing the European AI Observatory: Call for tenders",
+      "link": "https://digital-strategy.ec.europa.eu/en/funding/establishing-european-ai-observatory-call-tenders",
+      "date": "2026-10-05T07:22:00+00:00",
+      "summary": "<span>Establishing the European AI Observatory: Call for tenders</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-10-05T09:22:00+02:00\" title=\"Monday, October 5, 2026 - 09:22\">Mon, 10/05/2026 - 09:22</time>\n</span>\n\n<div>\n  <div class=\"cnt-thumbnail-media ecl-u-ty",
+      "source_id": "commission",
+      "source_name": "Commission européenne"
+    },
+    {
+      "title": "Bulletin d'actualité CERTFR-2026-ACT-042 (05 octobre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-042/",
+      "date": "2026-10-05T00:00:00+00:00",
+      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques pour prioriser l'application des...",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Vulnérabilité dans Citrix NetScaler ADC et Gateway (05 octobre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1263/",
+      "date": "2026-10-05T00:00:00+00:00",
+      "summary": "Une vulnérabilité a été découverte dans Citrix NetScaler ADC et Gateway. Elle permet à un attaquant de provoquer un déni de service à distance. La CISA indique que la vulnérabilité CVE-2026-88779 est activement exploitée.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans OpenOffice (05 octobre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1260/",
+      "date": "2026-10-05T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans OpenOffice. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans Google Chrome (05 octobre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1259/",
+      "date": "2026-10-05T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Vulnérabilité dans Microsoft Exchange Server (05 octobre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1258/",
+      "date": "2026-10-05T00:00:00+00:00",
+      "summary": "Une vulnérabilité a été découverte dans Microsoft Exchange Server. Elle permet à un attaquant de provoquer une élévation de privilèges.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Vulnérabilité dans GitLab (05 octobre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1262/",
+      "date": "2026-10-05T00:00:00+00:00",
+      "summary": "Une vulnérabilité a été découverte dans GitLab. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans Zabbix (05 octobre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1261/",
+      "date": "2026-10-05T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Zabbix. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
     {
       "title": "Violations de données personnelles : dans quels cas peut-on être indemnisé ?",
       "link": "https://www.cnil.fr/fr/violations-de-donnees-personnelles-cas-indemnite",
@@ -92,6 +164,46 @@
       "source_name": "ANSSI"
     },
     {
+      "title": "Multiples vulnérabilités dans Tenable Nessus (02 octobre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1247/",
+      "date": "2026-10-02T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Tenable Nessus. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans Apache HTTP Server (02 octobre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1248/",
+      "date": "2026-10-02T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Apache HTTP Server. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans les produits VMware (02 octobre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1249/",
+      "date": "2026-10-02T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans le noyau Linux de Debian (02 octobre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1253/",
+      "date": "2026-10-02T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (02 octobre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1252/",
+      "date": "2026-10-02T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et un déni de service à distance.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
       "title": "Ordre du jour de la séance plénière du 1er octobre 2026",
       "link": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-1er-octobre-2026",
       "date": "2026-10-01T12:00:00+00:00",
@@ -140,76 +252,12 @@
       "source_name": "ANSSI"
     },
     {
-      "title": "Point de situation de l’opération REACTIV – septembre 2026 (30 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2026-CTI-006/",
-      "date": "2026-09-30T00:00:00+00:00",
-      "summary": "Face à l’intensification des attaques cybercriminelles liées à des violations de données affectant les services de l’État, le Premier ministre a demandé le 1er septembre 2026 à l’Agence nationale de la sécurité des systèmes d’information (ANSSI) de mettre en place une capacité renforcée de...",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans HPE Aruba Networking Instant On (30 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1238/",
-      "date": "2026-09-30T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans HPE Aruba Networking Instant On. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans les produits Mozilla (30 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1240/",
-      "date": "2026-09-30T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Google Chrome (30 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1237/",
-      "date": "2026-09-30T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans OpenSSL (30 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1241/",
-      "date": "2026-09-30T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans OpenSSL. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans GitLab (30 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1242/",
-      "date": "2026-09-30T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans GitLab. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité. Gitlab indique que la vulnérabilité CVE-2026-85706 est activement exploitée.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Vulnérabilité dans CPython (30 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1239/",
-      "date": "2026-09-30T00:00:00+00:00",
-      "summary": "Une vulnérabilité a été découverte dans CPython. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
       "title": "Targeted consultation to support a better copyright environment for creativity and innovation",
       "link": "https://digital-strategy.ec.europa.eu/en/consultations/targeted-consultation-support-better-copyright-environment-creativity-and-innovation",
       "date": "2026-09-29T08:15:00+00:00",
       "summary": "<span>Targeted consultation to support a better copyright environment for creativity and innovation</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-09-29T10:15:00+02:00\" title=\"Tuesday, September 29, 2026 - 10:15\">Tue, 09/29/2026 - 10:15</time>\n</span>\n\n<div>\n  <",
       "source_id": "commission",
       "source_name": "Commission européenne"
-    },
-    {
-      "title": "Vulnérabilité dans les produits Apple (29 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1236/",
-      "date": "2026-09-29T00:00:00+00:00",
-      "summary": "Une vulnérabilité a été découverte dans les produits Apple. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. Apple indique que la vulnérabilité CVE-2026-86950 est activement exploitée.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
     },
     {
       "title": "Évènement air 2026 : Convaincre ou manipuler ? L'éthique du numérique à l'épreuve des urnes, le 16 novembre à la CNIL",
@@ -220,50 +268,10 @@
       "source_name": "CNIL"
     },
     {
-      "title": "Bulletin d'actualité CERTFR-2026-ACT-041 (28 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-041/",
-      "date": "2026-09-28T00:00:00+00:00",
-      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques pour prioriser l'application des...",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Citrix NetScaler ADC et Gateway (28 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1235/",
-      "date": "2026-09-28T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Citrix NetScaler ADC et Gateway. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité. Citrix indique que les...",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans MongoDB (28 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1234/",
-      "date": "2026-09-28T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans MongoDB. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données, un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
       "title": "Multiples vulnérabilités dans Citrix NetScaler ADC et Gateway (28 septembre 2026)",
       "link": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-011/",
       "date": "2026-09-28T00:00:00+00:00",
       "summary": "**[Mise à jour du 05 octobre 2026]** Le 4 octobre 2026, Citrix a publié un avis concernant une nouvelle vulnérabilité (CVE-2026-88779) permettant un déni de service à distance. La CISA indique que cette vulnérabilité est activement exploitée. **[Mise à jour du 30 septembre 2026]** Dans un billet...",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans les produits IBM (25 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1233/",
-      "date": "2026-09-25T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans le noyau Linux de Debian LTS (25 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1232/",
-      "date": "2026-09-25T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian LTS. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service.",
       "source_id": "anssi",
       "source_name": "ANSSI"
     },
@@ -424,14 +432,6 @@
       "link": "https://digital-strategy.ec.europa.eu/en/events/join-inaugural-d-tect-forum",
       "date": "2026-08-10T12:07:00+00:00",
       "summary": "<span>Join the Inaugural D-TECT Forum</span>\n<span><span>lobacni</span></span>\n<span><time datetime=\"2026-08-10T14:07:00+02:00\" title=\"Monday, August 10, 2026 - 14:07\">Mon, 08/10/2026 - 14:07</time>\n</span>\n\n<div>\n  <div class=\"cnt-thumbnail-media ecl-u-type-m cnt-content-wrapper\">",
-      "source_id": "commission",
-      "source_name": "Commission européenne"
-    },
-    {
-      "title": "Commission starts enforcing AI Act rules and new transparency requirements on 2 August",
-      "link": "https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august",
-      "date": "2026-07-31T07:00:00+00:00",
-      "summary": "<span>Commission starts enforcing AI Act rules and new transparency requirements on 2 August</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-07-31T09:00:00+02:00\" title=\"Friday, July 31, 2026 - 09:00\">Fri, 07/31/2026 - 09:00</time>\n</span>\n\n<div>\n  <div class=\"cn",
       "source_id": "commission",
       "source_name": "Commission européenne"
     },
