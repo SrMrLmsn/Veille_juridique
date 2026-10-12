@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T15:54:02.710516+00:00",
+  "updated": "2026-10-12T22:45:32.809842+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -140,6 +140,14 @@
       "source_name": "ANSSI"
     },
     {
+      "title": "Vulnérabilité dans Ceph (08 octobre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1280/",
+      "date": "2026-10-08T00:00:00+00:00",
+      "summary": "Une vulnérabilité a été découverte dans Ceph. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et une élévation de privilèges.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
       "title": "Multiples vulnérabilités dans Sonicwall Secure Mobile Access (07 octobre 2026)",
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1275/",
       "date": "2026-10-07T00:00:00+00:00",
@@ -274,14 +282,6 @@
       "summary": "<span>Establishing the European AI Observatory: Call for tenders</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-10-05T09:22:00+02:00\" title=\"Monday, October 5, 2026 - 09:22\">Mon, 10/05/2026 - 09:22</time>\n</span>\n\n<div>\n  <div class=\"cnt-thumbnail-media ecl-u-ty",
       "source_id": "commission",
       "source_name": "Commission européenne"
-    },
-    {
-      "title": "Bulletin d'actualité CERTFR-2026-ACT-042 (05 octobre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-042/",
-      "date": "2026-10-05T00:00:00+00:00",
-      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques pour prioriser l'application des...",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
     },
     {
       "title": "Vulnérabilité dans Citrix NetScaler ADC et Gateway (05 octobre 2026)",
