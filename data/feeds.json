@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T10:55:07.309452+00:00",
+  "updated": "2026-10-13T17:59:24.132873+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -27,6 +27,22 @@
     }
   },
   "items": [
+    {
+      "title": "Le CEPD publie une déclaration sur les enjeux de protection des données liés aux lunettes connectées",
+      "link": "https://www.cnil.fr/fr/cepd-declaration-lunettes-connectees",
+      "date": "2026-10-13T12:00:00+00:00",
+      "summary": "Lors de sa dernière plénière, le CEPD a adopté une déclaration sur les lunettes connectées et publié le rapport intitulé « Le regard connecté. Une sociologie des usages et des défis liés aux lunettes connectées », élaboré dans le cadre du programme de réserve d’experts (Support Pool of Expert).",
+      "source_id": "cnil",
+      "source_name": "CNIL"
+    },
+    {
+      "title": "EDPB publishes statement on the data protection challenges of smart glasses",
+      "link": "https://www.edpb.europa.eu/news/edpb-publishes-statement-on-the-data-protection-challenges-of-smart-glasses_en",
+      "date": "2026-10-13T12:00:00+00:00",
+      "summary": "<p>Brussels, 13 October – During its latest plenary, the EDPB has adopted <a href=\"https://www.edpb.europa.eu/documents/statement/statement-of-the-edpb-on-smart-glasses_en\">statement on smart glasses</a> and published the <a href=\"https://www.edpb.europa.eu/documents/support-pool-of-experts/the-conn",
+      "source_id": "edpb",
+      "source_name": "EDPB"
+    },
     {
       "title": "Italian DPA fines Wind Tre EUR 16 700 000 for unlawful telemarketing and data protection infringements",
       "link": "https://www.edpb.europa.eu/news/italian-dpa-fines-wind-tre-eur-16-700-000-for-unlawful-telemarketing-and-data-protection_en",
@@ -144,6 +160,14 @@
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1280/",
       "date": "2026-10-08T00:00:00+00:00",
       "summary": "Une vulnérabilité a été découverte dans Ceph. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et une élévation de privilèges.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans les produits Cisco (08 octobre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1282/",
+      "date": "2026-10-08T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
       "source_id": "anssi",
       "source_name": "ANSSI"
     },
@@ -292,30 +316,6 @@
       "source_name": "ANSSI"
     },
     {
-      "title": "Multiples vulnérabilités dans OpenOffice (05 octobre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1260/",
-      "date": "2026-10-05T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans OpenOffice. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Google Chrome (05 octobre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1259/",
-      "date": "2026-10-05T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Vulnérabilité dans Microsoft Exchange Server (05 octobre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1258/",
-      "date": "2026-10-05T00:00:00+00:00",
-      "summary": "Une vulnérabilité a été découverte dans Microsoft Exchange Server. Elle permet à un attaquant de provoquer une élévation de privilèges.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
       "title": "Vulnérabilité dans GitLab (05 octobre 2026)",
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1262/",
       "date": "2026-10-05T00:00:00+00:00",
@@ -404,26 +404,10 @@
       "source_name": "CNIL"
     },
     {
-      "title": "Amendes RGPD et interaction avec le règlement sur les services numériques : retour sur la plénière du CEPD du 17 septembre 2026",
-      "link": "https://www.cnil.fr/fr/pleniere-cepd-amendes-reglement-services-numeriques",
-      "date": "2026-09-23T12:00:00+00:00",
-      "summary": "Le 17 septembre 2026, le CEPD a adopté des lignes directrices sur le pouvoir des autorités de protection des données d’infliger des amendes administratives et la version finale de ses lignes directrices sur l'interaction entre le règlement sur les services numériques (DSA) et le RGPD.",
-      "source_id": "cnil",
-      "source_name": "CNIL"
-    },
-    {
       "title": "The Irish Data Protection Commission fines Google EUR 403 000 000 following Inquiry into Google’s processing of location data",
       "link": "https://www.edpb.europa.eu/news/the-irish-data-protection-commission-fines-google-403-000-000-eur-following-inquiry_en",
       "date": "2026-09-23T12:00:00+00:00",
       "summary": "<div class=\"heading-wrapper\"><h2 id=\"background-information\">Background information</h2><ul><li>Date of final decision: 21 September 2026</li><li>National case</li><li>Legal Reference(s): Article 5 (Principles relating to processing of personal data), Article 6 (Lawfulness of processing), Article 12",
-      "source_id": "edpb",
-      "source_name": "EDPB"
-    },
-    {
-      "title": "The Spanish DPA fines Securitas Direct EUR 100 000 for making the exercise of data subject rights more difficult by directing individuals to a chargeable telephone number",
-      "link": "https://www.edpb.europa.eu/news/the-spanish-dpa-fines-securitas-direct-eur-100-000-for-making-the-exercise-of-data-subject_en",
-      "date": "2026-09-22T12:00:00+00:00",
-      "summary": "<div class=\"heading-wrapper\"><h2 id=\"background-information\">Background information</h2><ul><li>Date of final decision: 1 February 2023</li><li>National case</li><li>Controller: SECURITAS DIRECT, S.A.</li><li>Legal Reference(s): Article 12 (Transparent information, communication and modalities for t",
       "source_id": "edpb",
       "source_name": "EDPB"
     },
@@ -444,12 +428,28 @@
       "source_name": "Commission européenne"
     },
     {
+      "title": "Vulnérabilité dans Metabase (10 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-010/",
+      "date": "2026-09-10T00:00:00+00:00",
+      "summary": "Le 06 août 2026, Metabase a publié un avis de sécurité concernant une vulnérabilité critique permettant à un attaquant non authentifié de provoquer une injection SQL (SQLi) dans la base de donnée de l'application Metabase. Cette injection SQL permet d’obtenir les droits administrateur de...",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
       "title": "Apply AI Summit",
       "link": "https://digital-strategy.ec.europa.eu/en/events/apply-ai-summit",
       "date": "2026-09-07T13:58:15+00:00",
       "summary": "<span>Apply AI Summit</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-09-07T15:58:15+02:00\" title=\"Monday, September 7, 2026 - 15:58\">Mon, 09/07/2026 - 15:58</time>\n</span>\n\n<div>\n  <div class=\"cnt-thumbnail-media ecl-u-type-m cnt-content-wrapper\">",
       "source_id": "commission",
       "source_name": "Commission européenne"
+    },
+    {
+      "title": "Multiples vulnérabilités dans SonicWall Secure Mobile Access (02 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-009/",
+      "date": "2026-09-02T00:00:00+00:00",
+      "summary": "Le 01 septembre 2026, SonicWall a publié un avis de sécurité concernant deux vulnérabilités affectant les Secure Mobile Access (SMA) 1000. La vulnérabilité critique CVE-2026-83548 permet une falsification de requêtes côté serveur (SSRF) de la part d'un attaquant non authentifié. La vulnérabilité...",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
     },
     {
       "title": "Commission designates ChatGPT, Reddit, Roblox under Digital Services Act",
