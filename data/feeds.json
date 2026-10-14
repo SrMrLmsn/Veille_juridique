@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T07:12:39.791435+00:00",
+  "updated": "2026-10-14T12:58:49.979340+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -27,6 +27,14 @@
     }
   },
   "items": [
+    {
+      "title": "Clôture de l’injonction prononcée à l’encontre de GOOGLE",
+      "link": "https://www.cnil.fr/fr/cloture-injonction-google",
+      "date": "2026-10-14T12:00:00+00:00",
+      "summary": "Par décision du 23 septembre 2026, la formation restreinte de la CNIL a clos l’injonction prononcée le 1er septembre 2025 à l’encontre des sociétés GOOGLE LLC et GOOGLE IRELAND LIMITED.",
+      "source_id": "cnil",
+      "source_name": "CNIL"
+    },
     {
       "title": "Le CEPD publie une déclaration sur les enjeux de protection des données liés aux lunettes connectées",
       "link": "https://www.cnil.fr/fr/cepd-declaration-lunettes-connectees",
@@ -392,14 +400,6 @@
       "link": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-24-septembre-2026",
       "date": "2026-09-24T12:00:00+00:00",
       "summary": "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 24 septembre 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
-      "source_id": "cnil",
-      "source_name": "CNIL"
-    },
-    {
-      "title": "Clôture de l’injonction prononcée à l’encontre de la société SOLOCAL MARKETING SERVICES",
-      "link": "https://www.cnil.fr/fr/cloture-injonction-solocal-marketing-services",
-      "date": "2026-09-24T12:00:00+00:00",
-      "summary": "Par délibération du 17 septembre 2026, la CNIL a clôturé l’injonction prononcée le 15&amp;nbsp;mai 2025 à l’encontre de la société SOLOCAL MARKETING SERVICES.",
       "source_id": "cnil",
       "source_name": "CNIL"
     },
