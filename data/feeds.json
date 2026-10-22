@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-22T15:30:37.728093+00:00",
+  "updated": "2026-10-22T19:47:06.943076+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
       "country": "FR",
       "color": "#003189",
-      "count": 0
+      "count": 10
     },
     "anssi": {
       "name": "ANSSI",
@@ -92,6 +92,14 @@
       "source_name": "ANSSI"
     },
     {
+      "title": "Journée RGPD à Poitiers : cybersécurité, IA et conformité au cœur des enjeux de protection des données",
+      "link": "https://www.cnil.fr/fr/journee-rgpd-2026-poitiers",
+      "date": "2026-10-20T12:00:00+00:00",
+      "summary": "La CNIL organise une nouvelle Journée RGPD à Poitiers le 1er décembre 2026. Cet évènement sera l’occasion d’échanger avec les acteurs du territoire sur les actualités en matière de protection des données personnelles et les enjeux concrets auxquels sont confrontés les professionnels.",
+      "source_id": "cnil",
+      "source_name": "CNIL"
+    },
+    {
       "title": "Violations de données applicatives - Retour d’expérience du CERT-FR (20 octobre 2026)",
       "link": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2026-CTI-008/",
       "date": "2026-10-20T00:00:00+00:00",
@@ -114,6 +122,14 @@
       "summary": "De multiples vulnérabilités ont été découvertes dans Laravel. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.",
       "source_id": "anssi",
       "source_name": "ANSSI"
+    },
+    {
+      "title": "Revoir le webinaire - Nouveau régime de la prospection téléphonique : comment et quand recueillir le consentement de la personne concernée ?",
+      "link": "https://www.cnil.fr/fr/webinaire-demarchage-telephonique",
+      "date": "2026-10-19T12:00:00+00:00",
+      "summary": "La CNIL vous propose de décrypter un sujet ou une actualité en lien avec la protection des données à travers&amp;nbsp;une série de webinaires. Retrouvez ce nouvel épisode consacré à la prospection téléphonique.",
+      "source_id": "cnil",
+      "source_name": "CNIL"
     },
     {
       "title": "Bulletin d'actualité CERTFR-2026-ACT-044 (19 octobre 2026)",
@@ -170,6 +186,30 @@
       "summary": "De multiples vulnérabilités ont été découvertes dans Roundcube Webmail. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une falsification de requêtes côté serveur (SSRF) et une injection de code indirecte à distance (XSS).",
       "source_id": "anssi",
       "source_name": "ANSSI"
+    },
+    {
+      "title": "De la protection des données à la création de valeur en finance : des autorités européennes publient une étude et des bonnes pratiques",
+      "link": "https://www.cnil.fr/fr/protection-donnees-valeur-finance-etude-autorites-europeennes",
+      "date": "2026-10-16T12:00:00+00:00",
+      "summary": "La CNIL, l’ICO et la CNPD publient leur étude conjointe «&amp;nbsp;De la protection des données à la création de valeur en finance&amp;nbsp;: évaluation des données, comptabilité, fusions-acquisitions et gouvernance&amp;nbsp;», rassemblant analyses et bonnes pratiques à destination des entreprises e",
+      "source_id": "cnil",
+      "source_name": "CNIL"
+    },
+    {
+      "title": "Reconstitution d’adresses électroniques professionnelles : dans quel cadre est-ce autorisé ?",
+      "link": "https://www.cnil.fr/fr/reconstitution-adresses-professionnelles-quel-cadre",
+      "date": "2026-10-16T12:00:00+00:00",
+      "summary": "La reconstitution d’adresses électroniques professionnelles à partir de données accessibles en ligne est utilisée pour contacter des interlocuteurs, notamment dans le cadre de la prospection. Elle est encadrée par le RGPD et ne peut reposer sur l’intérêt légitime que si certaines conditions sont rem",
+      "source_id": "cnil",
+      "source_name": "CNIL"
+    },
+    {
+      "title": "Reconstitution d’adresses électroniques professionnelles : quels sont vos droits ?",
+      "link": "https://www.cnil.fr/fr/reconstitution-adresses-professionnelles-vos-droits",
+      "date": "2026-10-16T12:00:00+00:00",
+      "summary": "Lorsque vos données personnelles sont accessibles sur Internet, elles peuvent être récupérées par des organismes pour reconstituer votre adresse électronique professionnelle, notamment pour faire de la prospection. La reconstitution d’adresse électronique doit respecter le RGPD afin d’être légale. L",
+      "source_id": "cnil",
+      "source_name": "CNIL"
     },
     {
       "title": "Norwegian DPA fines Xandr EUR 8 600 000 for unlawful processing of personal data",
@@ -236,12 +276,44 @@
       "source_name": "ANSSI"
     },
     {
+      "title": "Ordre du jour de la séance plénière du 15 octobre 2026",
+      "link": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-15-octobre-2026",
+      "date": "2026-10-15T12:00:00+00:00",
+      "summary": "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 15 octobre 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
+      "source_id": "cnil",
+      "source_name": "CNIL"
+    },
+    {
+      "title": "Clôture de l’injonction prononcée à l’encontre de GOOGLE",
+      "link": "https://www.cnil.fr/fr/cloture-injonction-google",
+      "date": "2026-10-14T12:00:00+00:00",
+      "summary": "Par décision du 23 septembre 2026, la formation restreinte de la CNIL a clos l’injonction prononcée le 1er septembre 2025 à l’encontre des sociétés GOOGLE LLC et GOOGLE IRELAND LIMITED.",
+      "source_id": "cnil",
+      "source_name": "CNIL"
+    },
+    {
+      "title": "Le CEPD publie une déclaration sur les enjeux de protection des données liés aux lunettes connectées",
+      "link": "https://www.cnil.fr/fr/cepd-declaration-lunettes-connectees",
+      "date": "2026-10-13T12:00:00+00:00",
+      "summary": "Lors de sa dernière plénière, le CEPD a adopté une déclaration sur les lunettes connectées et publié le rapport intitulé « Le regard connecté. Une sociologie des usages et des défis liés aux lunettes connectées », élaboré dans le cadre du programme de réserve d’experts (Support Pool of Expert).",
+      "source_id": "cnil",
+      "source_name": "CNIL"
+    },
+    {
       "title": "EDPB publishes statement on the data protection challenges of smart glasses",
       "link": "https://www.edpb.europa.eu/news/edpb-publishes-statement-on-the-data-protection-challenges-of-smart-glasses_en",
       "date": "2026-10-13T12:00:00+00:00",
       "summary": "<p>Brussels, 13 October – During its latest plenary, the EDPB has adopted <a href=\"https://www.edpb.europa.eu/documents/statement/statement-of-the-edpb-on-smart-glasses_en\">statement 1/2026 on smart glasses</a> and published the <a href=\"https://www.edpb.europa.eu/documents/support-pool-of-experts/t",
       "source_id": "edpb",
       "source_name": "EDPB"
+    },
+    {
+      "title": "Rencontres Informatique & Libertés 2026 : voir la rediffusion de l'évènement",
+      "link": "https://www.cnil.fr/fr/ril-2026",
+      "date": "2026-10-09T12:00:00+00:00",
+      "summary": "La CNIL a organisé la 2ème édition de ses Rencontres Informatique &amp;amp; Libertés le mardi 29&amp;nbsp;septembre 2026. Cette matinée a été l'occasion d’échanger sur différents sujets en lien avec la protection des données, notamment l’essor des lunettes connectées ou le rôle des sanctions.",
+      "source_id": "cnil",
+      "source_name": "CNIL"
     },
     {
       "title": "Italian DPA fines IQVIA EUR 7 000 000 for unlawful processing of patients’ health data",
@@ -274,6 +346,14 @@
       "summary": "<div class=\"heading-wrapper\"><h2 id=\"background-information\">Background information</h2><ul><li>Date of final decision: 3 July 2026</li><li>National case</li><li>Controller: Banco Bilbao Vizcaya Argentaria, S.A., Italian branch (BBVA)</li><li>Legal Reference(s): Article 5 (Principles relating to pro",
       "source_id": "edpb",
       "source_name": "EDPB"
+    },
+    {
+      "title": "Ordre du jour de la séance plénière du 8 octobre 2026",
+      "link": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-8-octobre-2026",
+      "date": "2026-10-08T12:00:00+00:00",
+      "summary": "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 8 octobre 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
+      "source_id": "cnil",
+      "source_name": "CNIL"
     },
     {
       "title": "Swedish DPA fines Miljödata i Karlskrona approximately EUR 160 000 for insufficient technical and organisational measures to ensure information security",
