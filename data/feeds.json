@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T05:12:35.805770+00:00",
+  "updated": "2026-10-22T10:27:10.037185+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -23,10 +23,34 @@
       "name": "Commission européenne",
       "country": "EU",
       "color": "#9a7e00",
-      "count": 0
+      "count": 10
     }
   },
   "items": [
+    {
+      "title": "Commission to investigate how Booking.com combats scams and fraud under the Digital Services Act",
+      "link": "https://digital-strategy.ec.europa.eu/en/news/commission-investigate-how-bookingcom-combats-scams-and-fraud-under-digital-services-act",
+      "date": "2026-10-21T10:06:59+00:00",
+      "summary": "<span>Commission to investigate how Booking.com combats scams and fraud under the Digital Services Act</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-10-21T12:06:59+02:00\" title=\"Wednesday, October 21, 2026 - 12:06\">Wed, 10/21/2026 - 12:06</time>\n</span>\n\n<div>",
+      "source_id": "commission",
+      "source_name": "Commission européenne"
+    },
+    {
+      "title": "Digital Services Act study on financial scams on online platforms and ways to counter them",
+      "link": "https://digital-strategy.ec.europa.eu/en/library/digital-services-act-study-financial-scams-online-platforms-and-ways-counter-them",
+      "date": "2026-10-20T06:47:54+00:00",
+      "summary": "<span>Digital Services Act study on financial scams on online platforms and ways to counter them</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-10-20T08:47:54+02:00\" title=\"Tuesday, October 20, 2026 - 08:47\">Tue, 10/20/2026 - 08:47</time>\n</span>\n\n<div>\n  <div c",
+      "source_id": "commission",
+      "source_name": "Commission européenne"
+    },
+    {
+      "title": "First harmonised standard supporting the AI Act published in the Official Journal",
+      "link": "https://digital-strategy.ec.europa.eu/en/library/first-harmonised-standard-supporting-ai-act-published-official-journal",
+      "date": "2026-10-19T07:37:54+00:00",
+      "summary": "<span>First harmonised standard supporting the AI Act published in the Official Journal</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-10-19T09:37:54+02:00\" title=\"Monday, October 19, 2026 - 09:37\">Mon, 10/19/2026 - 09:37</time>\n</span>\n\n<div>\n  <div class=\"cnt-",
+      "source_id": "commission",
+      "source_name": "Commission européenne"
+    },
     {
       "title": "Bulletin d'actualité CERTFR-2026-ACT-044 (19 octobre 2026)",
       "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-044/",
@@ -276,6 +300,14 @@
       "source_name": "EDPB"
     },
     {
+      "title": "Commission holds special meeting of Scientific panel on frontier AI safety and risks",
+      "link": "https://digital-strategy.ec.europa.eu/en/news/commission-holds-special-meeting-scientific-panel-frontier-ai-safety-and-risks",
+      "date": "2026-10-09T07:16:00+00:00",
+      "summary": "<span>Commission holds special meeting of Scientific panel on frontier AI safety and risks</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-10-09T09:16:00+02:00\" title=\"Friday, October 9, 2026 - 09:16\">Fri, 10/09/2026 - 09:16</time>\n</span>\n\n<div>\n  <div class=\"cn",
+      "source_id": "commission",
+      "source_name": "Commission européenne"
+    },
+    {
       "title": "Swedish DPA fines Miljödata i Karlskrona approximately EUR 160 000 for insufficient technical and organisational measures to ensure information security",
       "link": "https://www.edpb.europa.eu/news/swedish-dpa-fines-miljodata-i-karlskrona-approximately-eur-160-000-for-insufficient-technical_en",
       "date": "2026-10-08T12:00:00+00:00",
@@ -300,12 +332,60 @@
       "source_name": "EDPB"
     },
     {
+      "title": "European AI Innovation Month",
+      "link": "https://digital-strategy.ec.europa.eu/en/events/european-ai-innovation-month",
+      "date": "2026-10-08T07:00:00+00:00",
+      "summary": "<span>European AI Innovation Month</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-10-08T09:00:00+02:00\" title=\"Thursday, October 8, 2026 - 09:00\">Thu, 10/08/2026 - 09:00</time>\n</span>\n\n<div>\n  <div class=\"cnt-thumbnail-media ecl-u-type-m cnt-content-wrapper\">",
+      "source_id": "commission",
+      "source_name": "Commission européenne"
+    },
+    {
+      "title": "Establishing the European AI Observatory: Call for tenders",
+      "link": "https://digital-strategy.ec.europa.eu/en/funding/establishing-european-ai-observatory-call-tenders",
+      "date": "2026-10-05T07:22:00+00:00",
+      "summary": "<span>Establishing the European AI Observatory: Call for tenders</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-10-05T09:22:00+02:00\" title=\"Monday, October 5, 2026 - 09:22\">Mon, 10/05/2026 - 09:22</time>\n</span>\n\n<div>\n  <div class=\"cnt-thumbnail-media ecl-u-ty",
+      "source_id": "commission",
+      "source_name": "Commission européenne"
+    },
+    {
+      "title": "Consultation on EU KIDS ACT",
+      "link": "https://digital-strategy.ec.europa.eu/en/consultations/consultation-eu-kids-act",
+      "date": "2026-10-02T10:26:26+00:00",
+      "summary": "<span>Consultation on EU KIDS ACT</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-10-02T12:26:26+02:00\" title=\"Friday, October 2, 2026 - 12:26\">Fri, 10/02/2026 - 12:26</time>\n</span>\n\n<div>\n  <div class=\"cnt-thumbnail-media ecl-u-type-m cnt-content-wrapper\">",
+      "source_id": "commission",
+      "source_name": "Commission européenne"
+    },
+    {
+      "title": "Targeted consultation to support a better copyright environment for creativity and innovation",
+      "link": "https://digital-strategy.ec.europa.eu/en/consultations/targeted-consultation-support-better-copyright-environment-creativity-and-innovation",
+      "date": "2026-09-29T08:15:00+00:00",
+      "summary": "<span>Targeted consultation to support a better copyright environment for creativity and innovation</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-09-29T10:15:00+02:00\" title=\"Tuesday, September 29, 2026 - 10:15\">Tue, 09/29/2026 - 10:15</time>\n</span>\n\n<div>\n  <",
+      "source_id": "commission",
+      "source_name": "Commission européenne"
+    },
+    {
       "title": "The Irish Data Protection Commission fines Google EUR 403 000 000 following Inquiry into Google’s processing of location data",
       "link": "https://www.edpb.europa.eu/news/the-irish-data-protection-commission-fines-google-403-000-000-eur-following-inquiry_en",
       "date": "2026-09-23T12:00:00+00:00",
       "summary": "<div class=\"heading-wrapper\"><h2 id=\"background-information\">Background information</h2><ul><li>Date of final decision: 21 September 2026</li><li>National case</li><li>Legal Reference(s): Article 5 (Principles relating to processing of personal data), Article 6 (Lawfulness of processing), Article 12",
       "source_id": "edpb",
       "source_name": "EDPB"
+    },
+    {
+      "title": "EU KIDS Act to restrict social media platforms’ access to children in the EU",
+      "link": "https://digital-strategy.ec.europa.eu/en/news/eu-kids-act-restrict-social-media-platforms-access-children-eu",
+      "date": "2026-09-17T07:36:00+00:00",
+      "summary": "<span>EU KIDS Act to restrict social media platforms’ access to children in the EU</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-09-17T09:36:00+02:00\" title=\"Thursday, September 17, 2026 - 09:36\">Thu, 09/17/2026 - 09:36</time>\n</span>\n\n<div>\n  <div class=\"cnt-t",
+      "source_id": "commission",
+      "source_name": "Commission européenne"
+    },
+    {
+      "title": "Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy'",
+      "link": "https://digital-strategy.ec.europa.eu/en/library/proposal-eu-kids-act-eu-keeping-internet-digital-spaces-accountable-and-trustworthy",
+      "date": "2026-09-17T07:21:00+00:00",
+      "summary": "<span>Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy'</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-09-17T09:21:00+02:00\" title=\"Thursday, September 17, 2026 - 09:21\">Thu, 09/17/2026 - 09:21</time>\n</span>\n\n<div>\n  <d",
+      "source_id": "commission",
+      "source_name": "Commission européenne"
     }
   ]
 }
