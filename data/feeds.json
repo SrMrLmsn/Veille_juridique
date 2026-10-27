@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T04:03:44.962327+00:00",
+  "updated": "2026-10-27T09:57:27.571454+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -252,18 +252,18 @@
       "source_name": "CNIL"
     },
     {
-      "title": "Reconstitution d’adresses électroniques professionnelles : dans quel cadre est-ce autorisé ?",
-      "link": "https://www.cnil.fr/fr/reconstitution-adresses-professionnelles-quel-cadre",
-      "date": "2026-10-16T12:00:00+00:00",
-      "summary": "La reconstitution d’adresses électroniques professionnelles à partir de données accessibles en ligne est utilisée pour contacter des interlocuteurs, notamment dans le cadre de la prospection. Elle est encadrée par le RGPD et ne peut reposer sur l’intérêt légitime que si certaines conditions sont rem",
-      "source_id": "cnil",
-      "source_name": "CNIL"
-    },
-    {
       "title": "Reconstitution d’adresses électroniques professionnelles : quels sont vos droits ?",
       "link": "https://www.cnil.fr/fr/reconstitution-adresses-professionnelles-vos-droits",
       "date": "2026-10-16T12:00:00+00:00",
       "summary": "Lorsque vos données personnelles sont accessibles sur Internet, elles peuvent être récupérées par des organismes pour reconstituer votre adresse électronique professionnelle, notamment pour faire de la prospection. La reconstitution d’adresse électronique doit respecter le RGPD afin d’être légale. L",
+      "source_id": "cnil",
+      "source_name": "CNIL"
+    },
+    {
+      "title": "Reconstitution d’adresses électroniques professionnelles : dans quel cadre est-ce autorisé ?",
+      "link": "https://www.cnil.fr/fr/reconstitution-adresses-professionnelles-quel-cadre",
+      "date": "2026-10-16T12:00:00+00:00",
+      "summary": "La reconstitution d’adresses électroniques professionnelles à partir de données accessibles en ligne est utilisée pour contacter des interlocuteurs, notamment dans le cadre de la prospection. Elle est encadrée par le RGPD et ne peut reposer sur l’intérêt légitime que si certaines conditions sont rem",
       "source_id": "cnil",
       "source_name": "CNIL"
     },
