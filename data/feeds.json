@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T08:08:38.144307+00:00",
+  "updated": "2026-10-29T15:25:56.040705+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -23,10 +23,26 @@
       "name": "Commission européenne",
       "country": "EU",
       "color": "#9a7e00",
-      "count": 0
+      "count": 10
     }
   },
   "items": [
+    {
+      "title": "Cookies et application mobile : sanctions de 7 millions d’euros à l’encontre des sociétés FNAC DARTY PARTICIPATIONS ET SERVICES et FNAC DIRECT",
+      "link": "https://www.cnil.fr/fr/sanction-cookies-app-fnac",
+      "date": "2026-10-29T12:00:00+00:00",
+      "summary": "Le 22 octobre 2026, la CNIL a sanctionné les sociétés FNAC DARTY PARTICIPATIONS ET SERVICES et FNAC DIRECT d’une amende de 7&amp;nbsp;millions d’euros pour non-respect des règles applicables en matière de traceurs (cookies).",
+      "source_id": "cnil",
+      "source_name": "CNIL"
+    },
+    {
+      "title": "Local Digital Twins CiTiVERSE EDIC joins Smart City Expo World Congress 2026",
+      "link": "https://digital-strategy.ec.europa.eu/en/events/local-digital-twins-citiverse-edic-joins-smart-city-expo-world-congress-2026",
+      "date": "2026-10-29T08:12:20+00:00",
+      "summary": "<span>Local Digital Twins CiTiVERSE EDIC joins Smart City Expo World Congress 2026</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-10-29T09:12:20+01:00\" title=\"Thursday, October 29, 2026 - 09:12\">Thu, 10/29/2026 - 09:12</time>\n</span>\n\n<div>\n  <div class=\"cnt-thu",
+      "source_id": "commission",
+      "source_name": "Commission européenne"
+    },
     {
       "title": "Multiples vulnérabilités dans Microsoft Edge (27 octobre 2026)",
       "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1395/",
@@ -82,6 +98,14 @@
       "summary": "De multiples vulnérabilités ont été découvertes dans les produits Apple. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données. Apple indique que la vulnérabilité CVE-2026-86950...",
       "source_id": "anssi",
       "source_name": "ANSSI"
+    },
+    {
+      "title": "Commission accepts Temu's action plan to remedy the breach of the Digital Services Act",
+      "link": "https://digital-strategy.ec.europa.eu/en/news/commission-accepts-temus-action-plan-remedy-breach-digital-services-act",
+      "date": "2026-10-26T09:28:00+00:00",
+      "summary": "<span>Commission accepts Temu's action plan to remedy the breach of the Digital Services Act</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-10-26T10:28:00+01:00\" title=\"Monday, October 26, 2026 - 10:28\">Mon, 10/26/2026 - 10:28</time>\n</span>\n\n<div>\n  <div class=",
+      "source_id": "commission",
+      "source_name": "Commission européenne"
     },
     {
       "title": "Bulletin d'actualité CERTFR-2026-ACT-045 (26 octobre 2026)",
@@ -228,6 +252,14 @@
       "source_name": "CNIL"
     },
     {
+      "title": "Commission to investigate how Booking.com combats scams and fraud under the Digital Services Act",
+      "link": "https://digital-strategy.ec.europa.eu/en/news/commission-investigate-how-bookingcom-combats-scams-and-fraud-under-digital-services-act",
+      "date": "2026-10-21T10:06:59+00:00",
+      "summary": "<span>Commission to investigate how Booking.com combats scams and fraud under the Digital Services Act</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-10-21T12:06:59+02:00\" title=\"Wednesday, October 21, 2026 - 12:06\">Wed, 10/21/2026 - 12:06</time>\n</span>\n\n<div>",
+      "source_id": "commission",
+      "source_name": "Commission européenne"
+    },
+    {
       "title": "[Màj] Multiples vulnérabilités dans PHP (21 octobre 2026)",
       "link": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2026-ALE-014/",
       "date": "2026-10-21T00:00:00+00:00",
@@ -244,12 +276,28 @@
       "source_name": "CNIL"
     },
     {
+      "title": "Digital Services Act study on financial scams on online platforms and ways to counter them",
+      "link": "https://digital-strategy.ec.europa.eu/en/library/digital-services-act-study-financial-scams-online-platforms-and-ways-counter-them",
+      "date": "2026-10-20T06:47:54+00:00",
+      "summary": "<span>Digital Services Act study on financial scams on online platforms and ways to counter them</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-10-20T08:47:54+02:00\" title=\"Tuesday, October 20, 2026 - 08:47\">Tue, 10/20/2026 - 08:47</time>\n</span>\n\n<div>\n  <div c",
+      "source_id": "commission",
+      "source_name": "Commission européenne"
+    },
+    {
       "title": "Revoir le webinaire - Nouveau régime de la prospection téléphonique : comment et quand recueillir le consentement de la personne concernée ?",
       "link": "https://www.cnil.fr/fr/webinaire-demarchage-telephonique",
       "date": "2026-10-19T12:00:00+00:00",
       "summary": "La CNIL vous propose de décrypter un sujet ou une actualité en lien avec la protection des données à travers&amp;nbsp;une série de webinaires. Retrouvez ce nouvel épisode consacré à la prospection téléphonique.",
       "source_id": "cnil",
       "source_name": "CNIL"
+    },
+    {
+      "title": "First harmonised standard supporting the AI Act published in the Official Journal",
+      "link": "https://digital-strategy.ec.europa.eu/en/library/first-harmonised-standard-supporting-ai-act-published-official-journal",
+      "date": "2026-10-19T07:37:54+00:00",
+      "summary": "<span>First harmonised standard supporting the AI Act published in the Official Journal</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-10-19T09:37:54+02:00\" title=\"Monday, October 19, 2026 - 09:37\">Mon, 10/19/2026 - 09:37</time>\n</span>\n\n<div>\n  <div class=\"cnt-",
+      "source_id": "commission",
+      "source_name": "Commission européenne"
     },
     {
       "title": "De la protection des données à la création de valeur en finance : des autorités européennes publient une étude et des bonnes pratiques",
@@ -316,14 +364,6 @@
       "source_name": "EDPB"
     },
     {
-      "title": "Rencontres Informatique & Libertés 2026 : voir la rediffusion de l'évènement",
-      "link": "https://www.cnil.fr/fr/ril-2026",
-      "date": "2026-10-09T12:00:00+00:00",
-      "summary": "La CNIL a organisé la 2ème édition de ses Rencontres Informatique &amp;amp; Libertés le mardi 29&amp;nbsp;septembre 2026. Cette matinée a été l'occasion d’échanger sur différents sujets en lien avec la protection des données, notamment l’essor des lunettes connectées ou le rôle des sanctions.",
-      "source_id": "cnil",
-      "source_name": "CNIL"
-    },
-    {
       "title": "Italian DPA fines IQVIA EUR 7 000 000 for unlawful processing of patients’ health data",
       "link": "https://www.edpb.europa.eu/news/italian-dpa-fines-iqvia-eur-7-000-000-for-unlawful-processing-of-patients-health-data_en",
       "date": "2026-10-09T12:00:00+00:00",
@@ -380,12 +420,52 @@
       "source_name": "EDPB"
     },
     {
+      "title": "European AI Innovation Month",
+      "link": "https://digital-strategy.ec.europa.eu/en/events/european-ai-innovation-month",
+      "date": "2026-10-08T07:00:00+00:00",
+      "summary": "<span>European AI Innovation Month</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-10-08T09:00:00+02:00\" title=\"Thursday, October 8, 2026 - 09:00\">Thu, 10/08/2026 - 09:00</time>\n</span>\n\n<div>\n  <div class=\"cnt-thumbnail-media ecl-u-type-m cnt-content-wrapper\">",
+      "source_id": "commission",
+      "source_name": "Commission européenne"
+    },
+    {
+      "title": "Establishing the European AI Observatory: Call for tenders",
+      "link": "https://digital-strategy.ec.europa.eu/en/funding/establishing-european-ai-observatory-call-tenders",
+      "date": "2026-10-05T07:22:00+00:00",
+      "summary": "<span>Establishing the European AI Observatory: Call for tenders</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-10-05T09:22:00+02:00\" title=\"Monday, October 5, 2026 - 09:22\">Mon, 10/05/2026 - 09:22</time>\n</span>\n\n<div>\n  <div class=\"cnt-thumbnail-media ecl-u-ty",
+      "source_id": "commission",
+      "source_name": "Commission européenne"
+    },
+    {
+      "title": "Consultation on EU KIDS ACT",
+      "link": "https://digital-strategy.ec.europa.eu/en/consultations/consultation-eu-kids-act",
+      "date": "2026-10-02T10:26:26+00:00",
+      "summary": "<span>Consultation on EU KIDS ACT</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-10-02T12:26:26+02:00\" title=\"Friday, October 2, 2026 - 12:26\">Fri, 10/02/2026 - 12:26</time>\n</span>\n\n<div>\n  <div class=\"cnt-thumbnail-media ecl-u-type-m cnt-content-wrapper\">",
+      "source_id": "commission",
+      "source_name": "Commission européenne"
+    },
+    {
+      "title": "Targeted consultation to support a better copyright environment for creativity and innovation",
+      "link": "https://digital-strategy.ec.europa.eu/en/consultations/targeted-consultation-support-better-copyright-environment-creativity-and-innovation",
+      "date": "2026-09-29T08:15:00+00:00",
+      "summary": "<span>Targeted consultation to support a better copyright environment for creativity and innovation</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-09-29T10:15:00+02:00\" title=\"Tuesday, September 29, 2026 - 10:15\">Tue, 09/29/2026 - 10:15</time>\n</span>\n\n<div>\n  <",
+      "source_id": "commission",
+      "source_name": "Commission européenne"
+    },
+    {
       "title": "The Irish Data Protection Commission fines Google EUR 403 000 000 following Inquiry into Google’s processing of location data",
       "link": "https://www.edpb.europa.eu/news/the-irish-data-protection-commission-fines-google-403-000-000-eur-following-inquiry_en",
       "date": "2026-09-23T12:00:00+00:00",
       "summary": "<div class=\"heading-wrapper\"><h2 id=\"background-information\">Background information</h2><ul><li>Date of final decision: 21 September 2026</li><li>National case</li><li>Legal Reference(s): Article 5 (Principles relating to processing of personal data), Article 6 (Lawfulness of processing), Article 12",
       "source_id": "edpb",
       "source_name": "EDPB"
+    },
+    {
+      "title": "EU KIDS Act to restrict social media platforms’ access to children in the EU",
+      "link": "https://digital-strategy.ec.europa.eu/en/news/eu-kids-act-restrict-social-media-platforms-access-children-eu",
+      "date": "2026-09-17T07:36:00+00:00",
+      "summary": "<span>EU KIDS Act to restrict social media platforms’ access to children in the EU</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-09-17T09:36:00+02:00\" title=\"Thursday, September 17, 2026 - 09:36\">Thu, 09/17/2026 - 09:36</time>\n</span>\n\n<div>\n  <div class=\"cnt-t",
+      "source_id": "commission",
+      "source_name": "Commission européenne"
     }
   ]
 }
