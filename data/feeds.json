@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T06:52:29.862978+00:00",
+  "updated": "2026-11-04T15:11:05.643712+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -17,7 +17,7 @@
       "name": "EDPB",
       "country": "EU",
       "color": "#003399",
-      "count": 10
+      "count": 0
     },
     "commission": {
       "name": "Commission européenne",
@@ -27,6 +27,30 @@
     }
   },
   "items": [
+    {
+      "title": "Independent study on the impact of age assurance on fundamental rights and costs for businesses",
+      "link": "https://digital-strategy.ec.europa.eu/en/library/independent-study-impact-age-assurance-fundamental-rights-and-costs-businesses",
+      "date": "2026-11-04T14:04:13+00:00",
+      "summary": "<span>Independent study on the impact of age assurance on fundamental rights and costs for businesses</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-11-04T15:04:13+01:00\" title=\"Wednesday, November 4, 2026 - 15:04\">Wed, 11/04/2026 - 15:04</time>\n</span>\n\n<div>",
+      "source_id": "commission",
+      "source_name": "Commission européenne"
+    },
+    {
+      "title": "Privacy for Kids : le CEPD lance une plateforme dédiée à la vie privée des enfants",
+      "link": "https://www.cnil.fr/fr/cepd-privacy-for-kids",
+      "date": "2026-11-04T12:00:00+00:00",
+      "summary": "Le Comité européen de la protection des données (CEPD), en lien avec différentes autorités de protection de données, dont la CNIL, lance sa plateforme Privacy for kids dédiée à l’éducation au numérique.",
+      "source_id": "cnil",
+      "source_name": "CNIL"
+    },
+    {
+      "title": "Call for evidence on advertising repositories",
+      "link": "https://digital-strategy.ec.europa.eu/en/consultations/call-evidence-advertising-repositories",
+      "date": "2026-11-04T10:10:00+00:00",
+      "summary": "<span>Call for evidence on advertising repositories</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-11-04T11:10:00+01:00\" title=\"Wednesday, November 4, 2026 - 11:10\">Wed, 11/04/2026 - 11:10</time>\n</span>\n\n<div>\n  <div class=\"cnt-thumbnail-media ecl-u-type-m cnt-",
+      "source_id": "commission",
+      "source_name": "Commission européenne"
+    },
     {
       "title": "Call for proposals: EU AI Media Platform – Modular multilingual public-interest infrastructure for European news and audiovisual media (IA) - Apply AI",
       "link": "https://digital-strategy.ec.europa.eu/en/funding/call-proposals-eu-ai-media-platform-modular-multilingual-public-interest-infrastructure-european",
@@ -308,14 +332,6 @@
       "source_name": "CNIL"
     },
     {
-      "title": "Reconstitution d’adresses électroniques professionnelles : quels sont vos droits ?",
-      "link": "https://www.cnil.fr/fr/reconstitution-adresses-professionnelles-vos-droits",
-      "date": "2026-10-16T12:00:00+00:00",
-      "summary": "Lorsque vos données personnelles sont accessibles sur Internet, elles peuvent être récupérées par des organismes pour reconstituer votre adresse électronique professionnelle, notamment pour faire de la prospection. La reconstitution d’adresse électronique doit respecter le RGPD afin d’être légale. L",
-      "source_id": "cnil",
-      "source_name": "CNIL"
-    },
-    {
       "title": "Reconstitution d’adresses électroniques professionnelles : dans quel cadre est-ce autorisé ?",
       "link": "https://www.cnil.fr/fr/reconstitution-adresses-professionnelles-quel-cadre",
       "date": "2026-10-16T12:00:00+00:00",
@@ -324,12 +340,12 @@
       "source_name": "CNIL"
     },
     {
-      "title": "Norwegian DPA fines Xandr EUR 8 600 000 for unlawful processing of personal data",
-      "link": "https://www.edpb.europa.eu/news/norwegian-dpa-fines-xandr-eur-8-600-000-for-unlawful-processing-of-personal-data_en",
+      "title": "Reconstitution d’adresses électroniques professionnelles : quels sont vos droits ?",
+      "link": "https://www.cnil.fr/fr/reconstitution-adresses-professionnelles-vos-droits",
       "date": "2026-10-16T12:00:00+00:00",
-      "summary": "<div class=\"heading-wrapper\"><h2 id=\"background-information\">Background information</h2><ul><li>Date of final decision: 2 October 2026</li><li>National case&nbsp;</li><li>Controller: Xandr Inc.</li><li>Legal References: Article 6 (Lawfulness of processing), Article 9 (Processing of special categorie",
-      "source_id": "edpb",
-      "source_name": "EDPB"
+      "summary": "Lorsque vos données personnelles sont accessibles sur Internet, elles peuvent être récupérées par des organismes pour reconstituer votre adresse électronique professionnelle, notamment pour faire de la prospection. La reconstitution d’adresse électronique doit respecter le RGPD afin d’être légale. L",
+      "source_id": "cnil",
+      "source_name": "CNIL"
     },
     {
       "title": "Ordre du jour de la séance plénière du 15 octobre 2026",
@@ -356,108 +372,12 @@
       "source_name": "ANSSI"
     },
     {
-      "title": "Le CEPD publie une déclaration sur les enjeux de protection des données liés aux lunettes connectées",
-      "link": "https://www.cnil.fr/fr/cepd-declaration-lunettes-connectees",
-      "date": "2026-10-13T12:00:00+00:00",
-      "summary": "Lors de sa dernière plénière, le CEPD a adopté une déclaration sur les lunettes connectées et publié le rapport intitulé « Le regard connecté. Une sociologie des usages et des défis liés aux lunettes connectées », élaboré dans le cadre du programme de réserve d’experts (Support Pool of Expert).",
-      "source_id": "cnil",
-      "source_name": "CNIL"
-    },
-    {
-      "title": "EDPB publishes statement on the data protection challenges of smart glasses",
-      "link": "https://www.edpb.europa.eu/news/edpb-publishes-statement-on-the-data-protection-challenges-of-smart-glasses_en",
-      "date": "2026-10-13T12:00:00+00:00",
-      "summary": "<p>Brussels, 13 October – During its latest plenary, the EDPB has adopted <a href=\"https://www.edpb.europa.eu/documents/statement/statement-of-the-edpb-on-smart-glasses_en\">statement 1/2026 on smart glasses</a> and published the <a href=\"https://www.edpb.europa.eu/documents/support-pool-of-experts/t",
-      "source_id": "edpb",
-      "source_name": "EDPB"
-    },
-    {
-      "title": "Italian DPA fines IQVIA EUR 7 000 000 for unlawful processing of patients’ health data",
-      "link": "https://www.edpb.europa.eu/news/italian-dpa-fines-iqvia-eur-7-000-000-for-unlawful-processing-of-patients-health-data_en",
-      "date": "2026-10-09T12:00:00+00:00",
-      "summary": "<div class=\"heading-wrapper\"><h2 id=\"background-information\">Background information</h2><ul><li>Date of final decision: 23 September 2026</li><li>National case</li><li>Controller: IQVIA Solutions Italy S.r.l</li><li>Legal Reference(s): Article 5 (Principles relating to processing of personal data),",
-      "source_id": "edpb",
-      "source_name": "EDPB"
-    },
-    {
-      "title": "Italian DPA fines security company EUR 39 000 for violations concerning employees’ data",
-      "link": "https://www.edpb.europa.eu/news/italian-dpa-fines-security-company-eur-39-000-for-violations-concerning-employees-data_en",
-      "date": "2026-10-09T12:00:00+00:00",
-      "summary": "<div class=\"heading-wrapper\"><h2 id=\"background-information\">Background information</h2><ul><li>Date of final decision: 6 August 2026</li><li>National case</li><li>Controller: La Patria S.p.A.</li><li>Legal Reference(s): Article 12 (Transparent information, communication and modalities for the exerc",
-      "source_id": "edpb",
-      "source_name": "EDPB"
-    },
-    {
-      "title": "Italian DPA fines Emirates EUR 180 000 for infringements concerning passengers’ health data",
-      "link": "https://www.edpb.europa.eu/news/italian-dpa-fines-emirates-eur-180-000-for-infringements-concerning-passengers-health-data_en",
-      "date": "2026-10-09T12:00:00+00:00",
-      "summary": "<div class=\"heading-wrapper\"><h2 id=\"background-information\">Background information</h2><ul><li>Date of final decision: 14 May 2026</li><li>National case</li><li>Controller: Emirates</li><li>Legal Reference(s): Article 5 (Principles relating to processing of personal data), Article 12 (Transparent i",
-      "source_id": "edpb",
-      "source_name": "EDPB"
-    },
-    {
-      "title": "Italian DPA fines BBVA EUR 5 508 000 for failing to respect a customer’s objection to direct marketing",
-      "link": "https://www.edpb.europa.eu/news/italian-dpa-fines-bbva-eur-5-508-000-for-failing-to-respect-a-customers-objection-to-direct_en",
-      "date": "2026-10-09T12:00:00+00:00",
-      "summary": "<div class=\"heading-wrapper\"><h2 id=\"background-information\">Background information</h2><ul><li>Date of final decision: 3 July 2026</li><li>National case</li><li>Controller: Banco Bilbao Vizcaya Argentaria, S.A., Italian branch (BBVA)</li><li>Legal Reference(s): Article 5 (Principles relating to pro",
-      "source_id": "edpb",
-      "source_name": "EDPB"
-    },
-    {
-      "title": "Swedish DPA fines Miljödata i Karlskrona approximately EUR 160 000 for insufficient technical and organisational measures to ensure information security",
-      "link": "https://www.edpb.europa.eu/news/swedish-dpa-fines-miljodata-i-karlskrona-approximately-eur-160-000-for-insufficient-technical_en",
-      "date": "2026-10-08T12:00:00+00:00",
-      "summary": "<div class=\"heading-wrapper\"><h2 id=\"background-information\">Background information</h2><ul><li>Date of final decision: 22/09/2026</li><li>National case</li><li>Legal Reference(s): Article 32 (Security of processing)</li><li>Decision: Administrative fine</li><li>Key words: Cybersecurity, personal da",
-      "source_id": "edpb",
-      "source_name": "EDPB"
-    },
-    {
-      "title": "Hellenic DPA decision on a data breach involving E.E.T.A.A. S.A. as processor for the Ministry of Social Cohesion and Family Affairs",
-      "link": "https://www.edpb.europa.eu/news/hellenic-dpa-decision-on-a-data-breach-involving-eetaa-sa-as-processor-for-the-ministry-of_en",
-      "date": "2026-10-08T12:00:00+00:00",
-      "summary": "<div class=\"heading-wrapper\"><h2 id=\"background-information\">Background information</h2><ul><li>Date of final decision: 28/07/2026</li><li>National case</li><li>Controller: Ministry of Social Cohesion and Family Affairs</li><li>Legal Reference(s): Article 25 (Data protection by design and by default",
-      "source_id": "edpb",
-      "source_name": "EDPB"
-    },
-    {
-      "title": "Dutch DPA fines Uber EUR 824 990 000 for unlawful automated decision-making and insufficient information on profiling",
-      "link": "https://www.edpb.europa.eu/news/dutch-dpa-fines-uber-eur-824-990-000-for-unlawful-automated-decision-making-and-insufficient_en",
-      "date": "2026-10-08T12:00:00+00:00",
-      "summary": "<div class=\"heading-wrapper\"><h2 id=\"background-information\">Background information</h2><ul><li>Cross-border case</li><li>Controller: Uber B.V</li><li>Legal Reference(s): Article 22 (Automated individual decision making, including profiling) and Article 13 (Information to be provided where personal",
-      "source_id": "edpb",
-      "source_name": "EDPB"
-    },
-    {
       "title": "European AI Innovation Month",
       "link": "https://digital-strategy.ec.europa.eu/en/events/european-ai-innovation-month",
       "date": "2026-10-08T07:00:00+00:00",
       "summary": "<span>European AI Innovation Month</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-10-08T09:00:00+02:00\" title=\"Thursday, October 8, 2026 - 09:00\">Thu, 10/08/2026 - 09:00</time>\n</span>\n\n<div>\n  <div class=\"cnt-thumbnail-media ecl-u-type-m cnt-content-wrapper\">",
       "source_id": "commission",
       "source_name": "Commission européenne"
-    },
-    {
-      "title": "Establishing the European AI Observatory: Call for tenders",
-      "link": "https://digital-strategy.ec.europa.eu/en/funding/establishing-european-ai-observatory-call-tenders",
-      "date": "2026-10-05T07:22:00+00:00",
-      "summary": "<span>Establishing the European AI Observatory: Call for tenders</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-10-05T09:22:00+02:00\" title=\"Monday, October 5, 2026 - 09:22\">Mon, 10/05/2026 - 09:22</time>\n</span>\n\n<div>\n  <div class=\"cnt-thumbnail-media ecl-u-ty",
-      "source_id": "commission",
-      "source_name": "Commission européenne"
-    },
-    {
-      "title": "Consultation on EU KIDS ACT",
-      "link": "https://digital-strategy.ec.europa.eu/en/consultations/consultation-eu-kids-act",
-      "date": "2026-10-02T10:26:26+00:00",
-      "summary": "<span>Consultation on EU KIDS ACT</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-10-02T12:26:26+02:00\" title=\"Friday, October 2, 2026 - 12:26\">Fri, 10/02/2026 - 12:26</time>\n</span>\n\n<div>\n  <div class=\"cnt-thumbnail-media ecl-u-type-m cnt-content-wrapper\">",
-      "source_id": "commission",
-      "source_name": "Commission européenne"
-    },
-    {
-      "title": "The Irish Data Protection Commission fines Google EUR 403 000 000 following Inquiry into Google’s processing of location data",
-      "link": "https://www.edpb.europa.eu/news/the-irish-data-protection-commission-fines-google-403-000-000-eur-following-inquiry_en",
-      "date": "2026-09-23T12:00:00+00:00",
-      "summary": "<div class=\"heading-wrapper\"><h2 id=\"background-information\">Background information</h2><ul><li>Date of final decision: 21 September 2026</li><li>National case</li><li>Legal Reference(s): Article 5 (Principles relating to processing of personal data), Article 6 (Lawfulness of processing), Article 12",
-      "source_id": "edpb",
-      "source_name": "EDPB"
     },
     {
       "title": "Campagne de notifications de menace envoyée par Apple (11 septembre 2025)",
