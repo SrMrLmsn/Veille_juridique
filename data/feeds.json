@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T09:04:29.598196+00:00",
+  "updated": "2026-11-05T17:33:16.625963+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -28,6 +28,30 @@
   },
   "items": [
     {
+      "title": "Ordre du jour de la séance plénière du 5 novembre 2026",
+      "link": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-5-novembre-2026",
+      "date": "2026-11-05T12:00:00+00:00",
+      "summary": "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 5 novembre 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
+      "source_id": "cnil",
+      "source_name": "CNIL"
+    },
+    {
+      "title": "Rejeu de session : ces outils qui enregistrent votre activité en ligne",
+      "link": "https://www.cnil.fr/fr/rejeu-de-session-vos-droits",
+      "date": "2026-11-05T12:00:00+00:00",
+      "summary": "Lorsque vous naviguez sur Internet ou que vous utilisez une application sur votre téléphone, vos actions peuvent être enregistrées par ce que l’on appelle des outils de rejeu de session. À quoi servent-ils et quels sont vos droits&amp;nbsp;?",
+      "source_id": "cnil",
+      "source_name": "CNIL"
+    },
+    {
+      "title": "Outils de rejeu de session : la CNIL publie sa recommandation pour guider les acteurs",
+      "link": "https://www.cnil.fr/fr/rejeu-de-session-recommandation",
+      "date": "2026-11-05T12:00:00+00:00",
+      "summary": "La CNIL publie une recommandation relative aux outils de rejeu de session permettant le suivi et l'analyse du comportement en ligne des utilisateurs. L’objectif est d’aider les acteurs qui conçoivent ces outils et ceux qui les utilisent dans leur mise en conformité.",
+      "source_id": "cnil",
+      "source_name": "CNIL"
+    },
+    {
       "title": "Independent study on the impact of age assurance on fundamental rights and costs for businesses",
       "link": "https://digital-strategy.ec.europa.eu/en/library/independent-study-impact-age-assurance-fundamental-rights-and-costs-businesses",
       "date": "2026-11-04T14:04:13+00:00",
@@ -50,6 +74,62 @@
       "summary": "<span>Call for evidence on advertising repositories</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-11-04T11:10:00+01:00\" title=\"Wednesday, November 4, 2026 - 11:10\">Wed, 11/04/2026 - 11:10</time>\n</span>\n\n<div>\n  <div class=\"cnt-thumbnail-media ecl-u-type-m cnt-",
       "source_id": "commission",
       "source_name": "Commission européenne"
+    },
+    {
+      "title": "Multiples vulnérabilités dans les produits Symfony (04 novembre 2026)",
+      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1460/",
+      "date": "2026-11-04T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Symfony. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans Apache Zookeeper (04 novembre 2026)",
+      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1448/",
+      "date": "2026-11-04T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Apache Zookeeper. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans les produits SonicWall (04 novembre 2026)",
+      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1456/",
+      "date": "2026-11-04T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits SonicWall. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et une injection SQL (SQLi).",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Vulnérabilité dans MongoDB (04 novembre 2026)",
+      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1454/",
+      "date": "2026-11-04T00:00:00+00:00",
+      "summary": "Une vulnérabilité a été découverte dans MongoDB. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans les produits Mattermost (04 novembre 2026)",
+      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1458/",
+      "date": "2026-11-04T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Mattermost. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Vulnérabilité dans Laravel (04 novembre 2026)",
+      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1457/",
+      "date": "2026-11-04T00:00:00+00:00",
+      "summary": "Une vulnérabilité a été découverte dans Laravel. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans les produits HPE Aruba Networking (04 novembre 2026)",
+      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1451/",
+      "date": "2026-11-04T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits HPE Aruba Networking. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
     },
     {
       "title": "Call for proposals: EU AI Media Platform – Modular multilingual public-interest infrastructure for European news and audiovisual media (IA) - Apply AI",
@@ -96,6 +176,14 @@
       "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1447/",
       "date": "2026-11-03T00:00:00+00:00",
       "summary": "De multiples vulnérabilités ont été découvertes dans Xen. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans Google Android (03 novembre 2026)",
+      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1443/",
+      "date": "2026-11-03T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Google Android. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.",
       "source_id": "anssi",
       "source_name": "ANSSI"
     },
@@ -176,70 +264,6 @@
       "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1439/",
       "date": "2026-11-02T00:00:00+00:00",
       "summary": "Une vulnérabilité a été découverte dans Traefik. Elle permet à un attaquant de provoquer un déni de service à distance.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans les produits IBM (30 octobre 2026)",
-      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1433/",
-      "date": "2026-10-30T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Vulnérabilité dans Stormshield Management Center (30 octobre 2026)",
-      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1429/",
-      "date": "2026-10-30T00:00:00+00:00",
-      "summary": "Une vulnérabilité a été découverte dans Stormshield Management Center. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (30 octobre 2026)",
-      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1432/",
-      "date": "2026-10-30T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un contournement de la politique de sécurité et un déni de service.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (30 octobre 2026)",
-      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1431/",
-      "date": "2026-10-30T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans les produits MongoDB (30 octobre 2026)",
-      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1430/",
-      "date": "2026-10-30T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits MongoDB. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données, une injection SQL (SQLi) et un contournement de la politique de sécurité.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Suricata (30 octobre 2026)",
-      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1428/",
-      "date": "2026-10-30T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Suricata. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Veeam Management Pack (30 octobre 2026)",
-      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1426/",
-      "date": "2026-10-30T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Veeam Management Pack. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Vulnérabilité dans GitLab (30 octobre 2026)",
-      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1427/",
-      "date": "2026-10-30T00:00:00+00:00",
-      "summary": "Une vulnérabilité a été découverte dans les produits GitLab. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
       "source_id": "anssi",
       "source_name": "ANSSI"
     },
@@ -336,30 +360,6 @@
       "link": "https://www.cnil.fr/fr/reconstitution-adresses-professionnelles-quel-cadre",
       "date": "2026-10-16T12:00:00+00:00",
       "summary": "La reconstitution d’adresses électroniques professionnelles à partir de données accessibles en ligne est utilisée pour contacter des interlocuteurs, notamment dans le cadre de la prospection. Elle est encadrée par le RGPD et ne peut reposer sur l’intérêt légitime que si certaines conditions sont rem",
-      "source_id": "cnil",
-      "source_name": "CNIL"
-    },
-    {
-      "title": "Reconstitution d’adresses électroniques professionnelles : quels sont vos droits ?",
-      "link": "https://www.cnil.fr/fr/reconstitution-adresses-professionnelles-vos-droits",
-      "date": "2026-10-16T12:00:00+00:00",
-      "summary": "Lorsque vos données personnelles sont accessibles sur Internet, elles peuvent être récupérées par des organismes pour reconstituer votre adresse électronique professionnelle, notamment pour faire de la prospection. La reconstitution d’adresse électronique doit respecter le RGPD afin d’être légale. L",
-      "source_id": "cnil",
-      "source_name": "CNIL"
-    },
-    {
-      "title": "Ordre du jour de la séance plénière du 15 octobre 2026",
-      "link": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-15-octobre-2026",
-      "date": "2026-10-15T12:00:00+00:00",
-      "summary": "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 15 octobre 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
-      "source_id": "cnil",
-      "source_name": "CNIL"
-    },
-    {
-      "title": "Clôture de l’injonction prononcée à l’encontre de GOOGLE",
-      "link": "https://www.cnil.fr/fr/cloture-injonction-google",
-      "date": "2026-10-14T12:00:00+00:00",
-      "summary": "Par décision du 23 septembre 2026, la formation restreinte de la CNIL a clos l’injonction prononcée le 1er septembre 2025 à l’encontre des sociétés GOOGLE LLC et GOOGLE IRELAND LIMITED.",
       "source_id": "cnil",
       "source_name": "CNIL"
     },
