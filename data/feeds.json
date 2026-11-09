@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T02:53:10.578881+00:00",
+  "updated": "2026-11-09T10:59:28.260458+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -27,6 +27,14 @@
     }
   },
   "items": [
+    {
+      "title": "Cybersécurité des collectivités territoriales : la CNIL prononce dix sanctions",
+      "link": "https://www.cnil.fr/fr/sanctions-cybersecurite-collectivites-territoriales",
+      "date": "2026-11-09T12:00:00+00:00",
+      "summary": "En novembre 2026, la CNIL a prononcé dix sanctions simplifiées à l’encontre de collectivités territoriales et d’un établissement public, pour des manquements relatifs à la cybersécurité.",
+      "source_id": "cnil",
+      "source_name": "CNIL"
+    },
     {
       "title": "Recherches internes : quelles sont les obligations pour les professionnels de santé ?",
       "link": "https://www.cnil.fr/fr/recherches-internes-sante-quelles-obligations",
@@ -378,14 +386,6 @@
       "summary": "De multiples vulnérabilités ont été découvertes dans Roundcube Webmail. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une falsification de requêtes côté serveur (SSRF) et une injection de code indirecte à distance (XSS).",
       "source_id": "anssi",
       "source_name": "ANSSI"
-    },
-    {
-      "title": "De la protection des données à la création de valeur en finance : des autorités européennes publient une étude et des bonnes pratiques",
-      "link": "https://www.cnil.fr/fr/protection-donnees-valeur-finance-etude-autorites-europeennes",
-      "date": "2026-10-16T12:00:00+00:00",
-      "summary": "La CNIL, l’ICO et la CNPD publient leur étude conjointe «&amp;nbsp;De la protection des données à la création de valeur en finance&amp;nbsp;: évaluation des données, comptabilité, fusions-acquisitions et gouvernance&amp;nbsp;», rassemblant analyses et bonnes pratiques à destination des entreprises e",
-      "source_id": "cnil",
-      "source_name": "CNIL"
     }
   ]
 }
