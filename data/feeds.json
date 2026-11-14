@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T21:52:48.295002+00:00",
+  "updated": "2026-11-14T01:59:19.228683+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -276,18 +276,18 @@
       "source_name": "CNIL"
     },
     {
-      "title": "Rejeu de session : ces outils qui enregistrent votre activité en ligne",
-      "link": "https://www.cnil.fr/fr/rejeu-de-session-vos-droits",
-      "date": "2026-11-05T12:00:00+00:00",
-      "summary": "Lorsque vous naviguez sur Internet ou que vous utilisez une application sur votre téléphone, vos actions peuvent être enregistrées par ce que l’on appelle des outils de rejeu de session. À quoi servent-ils et quels sont vos droits&amp;nbsp;?",
-      "source_id": "cnil",
-      "source_name": "CNIL"
-    },
-    {
       "title": "Outils de rejeu de session : la CNIL publie sa recommandation pour guider les acteurs",
       "link": "https://www.cnil.fr/fr/rejeu-de-session-recommandation",
       "date": "2026-11-05T12:00:00+00:00",
       "summary": "La CNIL publie une recommandation relative aux outils de rejeu de session permettant le suivi et l'analyse du comportement en ligne des utilisateurs. L’objectif est d’aider les acteurs qui conçoivent ces outils et ceux qui les utilisent dans leur mise en conformité.",
+      "source_id": "cnil",
+      "source_name": "CNIL"
+    },
+    {
+      "title": "Rejeu de session : ces outils qui enregistrent votre activité en ligne",
+      "link": "https://www.cnil.fr/fr/rejeu-de-session-vos-droits",
+      "date": "2026-11-05T12:00:00+00:00",
+      "summary": "Lorsque vous naviguez sur Internet ou que vous utilisez une application sur votre téléphone, vos actions peuvent être enregistrées par ce que l’on appelle des outils de rejeu de session. À quoi servent-ils et quels sont vos droits&amp;nbsp;?",
       "source_id": "cnil",
       "source_name": "CNIL"
     },
