@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T01:10:29.069331+00:00",
+  "updated": "2026-11-18T08:55:35.617937+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -27,6 +27,14 @@
     }
   },
   "items": [
+    {
+      "title": "Conservation des mots de passe clients en clair : la CNIL prononce une sanction de 5 millions d’euros",
+      "link": "https://www.cnil.fr/fr/conservation-des-mots-de-passe-sanction-5-millions-deuros",
+      "date": "2026-11-18T12:00:00+00:00",
+      "summary": "En novembre 2026, la CNIL a infligé une sanction de 5&amp;nbsp;millions d’euros à une société en raison de l’insuffisance des mesures prises pour assurer la sécurité des données de ses clients et d’une durée excessive de conservation des données.",
+      "source_id": "cnil",
+      "source_name": "CNIL"
+    },
     {
       "title": "La CNIL a prononcé 38 nouvelles sanctions en procédure simplifiée depuis juin 2026",
       "link": "https://www.cnil.fr/fr/38-sanctions-simplifiees",
@@ -322,14 +330,6 @@
       "summary": "<span>Independent study on the impact of age assurance on fundamental rights and costs for businesses</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-11-04T15:04:13+01:00\" title=\"Wednesday, November 4, 2026 - 15:04\">Wed, 11/04/2026 - 15:04</time>\n</span>\n\n<div>",
       "source_id": "commission",
       "source_name": "Commission européenne"
-    },
-    {
-      "title": "Privacy for Kids : le CEPD lance une plateforme dédiée à la vie privée des enfants",
-      "link": "https://www.cnil.fr/fr/cepd-privacy-for-kids",
-      "date": "2026-11-04T12:00:00+00:00",
-      "summary": "Le Comité européen de la protection des données (CEPD), en lien avec différentes autorités de protection de données, dont la CNIL, lance sa plateforme Privacy for kids dédiée à l’éducation au numérique.",
-      "source_id": "cnil",
-      "source_name": "CNIL"
     },
     {
       "title": "Call for evidence on advertising repositories",
