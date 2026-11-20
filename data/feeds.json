@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T04:10:26.801997+00:00",
+  "updated": "2026-11-20T13:26:49.070069+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -27,6 +27,14 @@
     }
   },
   "items": [
+    {
+      "title": "Pixels de suivi dans les courriels : la CNIL sollicite un premier retour d’expérience sur sa recommandation",
+      "link": "https://www.cnil.fr/fr/recommandation-pixels-retour-dexperience",
+      "date": "2026-11-20T12:00:00+00:00",
+      "summary": "Le 14 avril 2026, la CNIL a publié sa recommandation sur les pixels de suivi dans les courriels. Elle invite désormais les acteurs concernés, expéditeurs de messages et fournisseurs de solutions, à effectuer un retour d’expérience jusqu’au 3 décembre 2026.",
+      "source_id": "cnil",
+      "source_name": "CNIL"
+    },
     {
       "title": "Le Groupe VYV et la CNIL publient « La Voix des jeunesses » : une enquête pour éclairer les usages de l’IA conversationnelle",
       "link": "https://www.cnil.fr/fr/ia-conversationnelle-la-voix-des-jeunesses",
@@ -304,14 +312,6 @@
       "link": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-5-novembre-2026",
       "date": "2026-11-05T12:00:00+00:00",
       "summary": "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 5 novembre 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
-      "source_id": "cnil",
-      "source_name": "CNIL"
-    },
-    {
-      "title": "Rejeu de session : ces outils qui enregistrent votre activité en ligne",
-      "link": "https://www.cnil.fr/fr/rejeu-de-session-vos-droits",
-      "date": "2026-11-05T12:00:00+00:00",
-      "summary": "Lorsque vous naviguez sur Internet ou que vous utilisez une application sur votre téléphone, vos actions peuvent être enregistrées par ce que l’on appelle des outils de rejeu de session. À quoi servent-ils et quels sont vos droits&amp;nbsp;?",
       "source_id": "cnil",
       "source_name": "CNIL"
     },
