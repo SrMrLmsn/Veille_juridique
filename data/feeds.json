@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T06:13:50.093089+00:00",
+  "updated": "2026-11-23T18:37:40.804940+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -17,7 +17,7 @@
       "name": "EDPB",
       "country": "EU",
       "color": "#003399",
-      "count": 0
+      "count": 10
     },
     "commission": {
       "name": "Commission européenne",
@@ -27,6 +27,22 @@
     }
   },
   "items": [
+    {
+      "title": "Trophées des classes 2027 - Ensemble, tous protégés sur Internet !",
+      "link": "https://www.cnil.fr/fr/trophees-des-classes-2027",
+      "date": "2026-11-23T12:00:00+00:00",
+      "summary": "Le ministère de l’Éducation nationale et la CNIL organisent le concours Trophées des classes dont la thématique, pour cette édition 2027, est&amp;nbsp;: «&amp;nbsp;Comment je sécurise mes données personnelles en ligne&amp;nbsp;?&amp;nbsp;».",
+      "source_id": "cnil",
+      "source_name": "CNIL"
+    },
+    {
+      "title": "Découvrez les lauréats du concours Trophées des classes 2026 « Comment je protège ma vie privée en ligne ? »",
+      "link": "https://www.cnil.fr/fr/trophees-des-classes-2026-laureats",
+      "date": "2026-11-23T12:00:00+00:00",
+      "summary": "La CNIL et le ministère de l’Éducation nationale dévoilent les classes gagnantes de l’édition 2026 des «&amp;nbsp;Trophées des classes&amp;nbsp;», un concours pour sensibiliser les élèves à leurs droits numériques et à la citoyenneté en ligne.",
+      "source_id": "cnil",
+      "source_name": "CNIL"
+    },
     {
       "title": "IA et éducation : une résolution mondiale pour la protection des données",
       "link": "https://www.cnil.fr/fr/gpa-ia-education",
@@ -84,6 +100,110 @@
       "source_name": "ANSSI"
     },
     {
+      "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (20 novembre 2026)",
+      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1592/",
+      "date": "2026-11-20T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (20 novembre 2026)",
+      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1593/",
+      "date": "2026-11-20T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans les produits Mattermost (20 novembre 2026)",
+      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1588/",
+      "date": "2026-11-20T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Mattermost. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans Apache Tomcat (20 novembre 2026)",
+      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1587/",
+      "date": "2026-11-20T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Apache Tomcat. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Vulnérabilité dans GitLab (20 novembre 2026)",
+      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1591/",
+      "date": "2026-11-20T00:00:00+00:00",
+      "summary": "Une vulnérabilité a été découverte dans GitLab. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans le noyau Linux de Debian (20 novembre 2026)",
+      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1594/",
+      "date": "2026-11-20T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (20 novembre 2026)",
+      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1596/",
+      "date": "2026-11-20T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à l'intégrité des données et un déni de service.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Vulnérabilité dans Metabase (20 novembre 2026)",
+      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1585/",
+      "date": "2026-11-20T00:00:00+00:00",
+      "summary": "Une vulnérabilité a été découverte dans Metabase. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans Moodle (20 novembre 2026)",
+      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1581/",
+      "date": "2026-11-20T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Moodle. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans Tenable Security Center  (20 novembre 2026)",
+      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1583/",
+      "date": "2026-11-20T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Tenable Security Center. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une injection SQL (SQLi) et un contournement de la politique de sécurité.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Norwegian DPA fines private individual for credit check and publication of personal data without a lawful basis",
+      "link": "https://www.edpb.europa.eu/news/norwegian-dpa-fines-private-individual-for-credit-check-and-publication-of-personal-data_en",
+      "date": "2026-11-19T12:00:00+00:00",
+      "summary": "<div class=\"heading-wrapper\"><h2 id=\"background-information\">Background information</h2><ul><li>Date of final decision: 16/10/2026</li><li>National case</li><li>Controller: Private individual</li><li>Legal References: Article 6(1) (Lawfulness of processing)</li><li>Decision: Administrative fine</li>",
+      "source_id": "edpb",
+      "source_name": "EDPB"
+    },
+    {
+      "title": "EDPB and DPAs from countries and organisation with EU adequacy decision take stock of progress and set 2027 priorities",
+      "link": "https://www.edpb.europa.eu/news/edpb-and-dpas-from-countries-and-organisation-with-eu-adequacy-decision-take-stock-of-progress_en",
+      "date": "2026-11-19T12:00:00+00:00",
+      "summary": "<p><strong>Brussels, 19 November</strong> - The EDPB met on 17 November with Commissioners and representatives of the Data Protection Authorities (DPAs) from the countries and the international organisation with an EU adequacy decision. This gathering marked the third of its kind, following the <a h",
+      "source_id": "edpb",
+      "source_name": "EDPB"
+    },
+    {
+      "title": "The Norwegian Data Protection Authority fines Social Garden AS for publishing personal data without a lawful basis",
+      "link": "https://www.edpb.europa.eu/news/the-norwegian-data-protection-authority-fines-social-garden-as-for-publishing-personal-data_en",
+      "date": "2026-11-19T12:00:00+00:00",
+      "summary": "<div class=\"heading-wrapper\"><h2 id=\"background-information\">Background information</h2><ul><li>Date of final decision: 13/11/2026</li><li>Cross-border case</li><li>One-Stop-Shop Procedure: the decision was taken by national supervisory authorities following the One-Stop-Shop cooperation procedure (",
+      "source_id": "edpb",
+      "source_name": "EDPB"
+    },
+    {
       "title": "Multiples vulnérabilités dans les produits Mitel (19 novembre 2026)",
       "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1569/",
       "date": "2026-11-19T00:00:00+00:00",
@@ -96,14 +216,6 @@
       "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1575/",
       "date": "2026-11-19T00:00:00+00:00",
       "summary": "De multiples vulnérabilités ont été découvertes dans Wireshark. Elles permettent à un attaquant de provoquer un déni de service à distance.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Vulnérabilité dans VMware Tanzu (19 novembre 2026)",
-      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1568/",
-      "date": "2026-11-19T00:00:00+00:00",
-      "summary": "Une vulnérabilité a été découverte dans VMware Tanzu. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
       "source_id": "anssi",
       "source_name": "ANSSI"
     },
@@ -204,60 +316,36 @@
       "source_name": "CNIL"
     },
     {
-      "title": "Multiples vulnérabilités dans les produits F5 (18 novembre 2026)",
-      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1567/",
-      "date": "2026-11-18T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits F5. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
+      "title": "Italian DPA fines a company EUR 25 500 over employee access rights and corporate email accounts",
+      "link": "https://www.edpb.europa.eu/news/italian-dpa-fines-a-company-eur-25-500-over-employee-access-rights-and-corporate-email_en",
+      "date": "2026-11-18T12:00:00+00:00",
+      "summary": "<div class=\"heading-wrapper\"><h2 id=\"background-information\">Background information</h2><ul><li>Date of final decision: 20/10/2026</li><li>National case</li><li>Controller: Techpartner S.r.l.</li><li>Legal References: Article 5 (Principles relating to processing of personal data), Article 12 (Transp",
+      "source_id": "edpb",
+      "source_name": "EDPB"
     },
     {
-      "title": "Multiples vulnérabilités dans Oracle Weblogic (18 novembre 2026)",
-      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1565/",
-      "date": "2026-11-18T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Oracle Weblogic. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
+      "title": "Italian DPA fines Meta EUR 805 million for unlawful access to Facebook users’ photo galleries",
+      "link": "https://www.edpb.europa.eu/news/italian-dpa-fines-meta-eur-805-million-for-unlawful-access-to-facebook-users-photo-galleries_en",
+      "date": "2026-11-18T12:00:00+00:00",
+      "summary": "<div class=\"heading-wrapper\"><h2 id=\"background-information\">Background information</h2><ul><li>Date of final decision: 13/11/2026</li><li>National case</li><li>Controller: Meta Platforms Ireland Limited</li><li>Decision: Administrative fine, Compliance order</li><li>Key words: Fines, Online platfor",
+      "source_id": "edpb",
+      "source_name": "EDPB"
     },
     {
-      "title": "Multiples vulnérabilités dans Oracle MySQL (18 novembre 2026)",
-      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1563/",
-      "date": "2026-11-18T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Oracle MySQL. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
+      "title": "Italian DPA fines radiology centre and IT provider a combined  EUR 28 000 for exposing patient health data",
+      "link": "https://www.edpb.europa.eu/news/italian-dpa-fines-radiology-centre-and-it-provider-a-combined-eur-28-000-for-exposing-patient_en",
+      "date": "2026-11-18T12:00:00+00:00",
+      "summary": "<div class=\"heading-wrapper\"><h2 id=\"background-information\">Background information</h2><ul><li>Date of final decision: 07/10/2026</li><li>National case</li><li>Controller: Centro Radiologico Madonna della Bruna S.r.l.</li><li>Processor: MedStore Saronno S.r.l.</li><li>Legal References: Article 5 (P",
+      "source_id": "edpb",
+      "source_name": "EDPB"
     },
     {
-      "title": "Multiples vulnérabilités dans Oracle PeopleSoft (18 novembre 2026)",
-      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1564/",
-      "date": "2026-11-18T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Oracle PeopleSoft. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Oracle Virtualization (18 novembre 2026)",
-      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1566/",
-      "date": "2026-11-18T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Oracle Virtualization. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans F5 NGINX (18 novembre 2026)",
-      "link": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2026-ALE-017/",
-      "date": "2026-11-18T00:00:00+00:00",
-      "summary": "Le 18 novembre 2026, F5 a publié deux avis de sécurité concernant les vulnérabilités CVE-2026-123633 et CVE-2026-123007. Celles-ci affectent NGINX Open Source et NGINX Plus permettent à un attaquant non authentifié d'exécuter du code à distance, en utilisant le protocole HTTP en version 2. Le...",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Vulnérabilité dans Oracle Java SE (18 novembre 2026)",
-      "link": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2026-ALE-016/",
-      "date": "2026-11-18T00:00:00+00:00",
-      "summary": "Le 17 novembre 2026, Oracle a publié un avis de sécurité concernant la vulnérabilité CVE-2026-114938, surnommée *java4shell*, qui affecte le décodeur Base64 de OpenJDK sur les processeurs x86-64 supportant AVX-512 VBMI. Celle-ci permet à un attaquant de provoquer une exécution de code arbitraire...",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
+      "title": "Italian DPA fines Business School EUR 8 000 for unlawful telemarketing and failure to handle data subject request",
+      "link": "https://www.edpb.europa.eu/news/italian-dpa-fines-business-school-eur-8-000-for-unlawful-telemarketing-and-failure-to-handle_en",
+      "date": "2026-11-18T12:00:00+00:00",
+      "summary": "<div class=\"heading-wrapper\"><h2 id=\"background-information\">Background information</h2><ul><li>Date of final decision: 23/09/2026</li><li>Controller: Business School S.r.l.</li><li>Legal References: Article 5 (Principles relating to processing of personal data), Article 12 (Transparent information,",
+      "source_id": "edpb",
+      "source_name": "EDPB"
     },
     {
       "title": "La CNIL a prononcé 38 nouvelles sanctions en procédure simplifiée depuis juin 2026",
@@ -266,6 +354,14 @@
       "summary": "Cookies, sécurité des données, prospection commerciale, non-coopération&amp;nbsp;: entre juin et octobre 2026, la CNIL a prononcé 38&amp;nbsp;nouvelles sanctions dans le cadre de la procédure simplifiée, dont 23 ont pour origine des plaintes.",
       "source_id": "cnil",
       "source_name": "CNIL"
+    },
+    {
+      "title": "Irish Data Protection Commission fines MTCH EUR 11 million following Inquiry into Tinder users’ personal data requests",
+      "link": "https://www.edpb.europa.eu/news/irish-data-protection-commission-fines-mtch-eur-11-million-following-inquiry-into-tinder-users_en",
+      "date": "2026-11-17T12:00:00+00:00",
+      "summary": "<div class=\"heading-wrapper\"><h2 id=\"background-information\">Background information</h2><ul><li>Date of final decision: 13/11/2026</li><li>National case</li><li>Controller: MTCH Technology Services Limited (“MTCH”)</li><li>Legal References: Article 15 (Right to access by the data subject)</li><li>De",
+      "source_id": "edpb",
+      "source_name": "EDPB"
     },
     {
       "title": "Commission preliminarily finds Temu in breach of the Digital Services Act for failure to tackle the sale of illegal products",
@@ -284,6 +380,14 @@
       "source_name": "Commission européenne"
     },
     {
+      "title": "EDPB supports use of other models of contractual clauses for onward transfers of personal data",
+      "link": "https://www.edpb.europa.eu/news/edpb-supports-use-of-other-models-of-contractual-clauses-for-onward-transfers-of-personal-data_en",
+      "date": "2026-11-13T12:00:00+00:00",
+      "summary": "<p>Brussels 13 November – At its latest plenary, the EDPB adopted a <a href=\"https://www.edpb.europa.eu/documents/statement/statement-32026-on-use-of-other-model-clauses_en\"><strong><u>statement on the use of other models of contractual clauses for onward transfers of personal data</u></strong></a><",
+      "source_id": "edpb",
+      "source_name": "EDPB"
+    },
+    {
       "title": "Ordre du jour de la séance plénière du 12 novembre 2026",
       "link": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-12-novembre-2026",
       "date": "2026-11-12T12:00:00+00:00",
@@ -300,20 +404,12 @@
       "source_name": "CNIL"
     },
     {
-      "title": "La CNIL sera présente au Salon des maires et des collectivités locales 2026",
-      "link": "https://www.cnil.fr/fr/salon-maires-collectivites-2026",
-      "date": "2026-11-10T12:00:00+00:00",
-      "summary": "Du 24 au 26 novembre 2026, la CNIL sera présente au Salon des maires et des collectivités locales pour échanger avec les élus et agents territoriaux et répondre à leurs questions.",
-      "source_id": "cnil",
-      "source_name": "CNIL"
-    },
-    {
-      "title": "Cybersécurité des collectivités territoriales : la CNIL prononce dix sanctions",
-      "link": "https://www.cnil.fr/fr/sanctions-cybersecurite-collectivites-territoriales",
-      "date": "2026-11-09T12:00:00+00:00",
-      "summary": "En novembre 2026, la CNIL a prononcé dix sanctions simplifiées à l’encontre de collectivités territoriales et d’un établissement public, pour des manquements relatifs à la cybersécurité.",
-      "source_id": "cnil",
-      "source_name": "CNIL"
+      "title": "EDPB adopts statement on review of the Republic of Korea adequacy, processor BCR recommendations, and selects topic for 2027 coordinated enforcement action",
+      "link": "https://www.edpb.europa.eu/news/edpb-adopts-statement-on-review-of-the-republic-of-korea-adequacy-processor-bcr_en",
+      "date": "2026-11-11T12:00:00+00:00",
+      "summary": "<p>Brussels, 11 November – During its latest plenary, the EDPB has adopted a <a href=\"https://www.edpb.europa.eu/documents/reports-statements-and-letters/statement-22026-on-the-first-review-of-the-functioning-of_en\">statement on the first review of the functioning of the adequacy decision of the Rep",
+      "source_id": "edpb",
+      "source_name": "EDPB"
     },
     {
       "title": "Commission preliminarily finds TikTok’s ‘For You’ feed in breach of Digital Services Act for harmful ‘rabbit holes’ effect",
@@ -338,14 +434,6 @@
       "summary": "<span>Call for evidence on advertising repositories</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-11-04T11:10:00+01:00\" title=\"Wednesday, November 4, 2026 - 11:10\">Wed, 11/04/2026 - 11:10</time>\n</span>\n\n<div>\n  <div class=\"cnt-thumbnail-media ecl-u-type-m cnt-",
       "source_id": "commission",
       "source_name": "Commission européenne"
-    },
-    {
-      "title": "Multiples vulnérabilités dans les produits Mattermost (04 novembre 2026)",
-      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1458/",
-      "date": "2026-11-04T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Mattermost. Elles permettent à un attaquant de provoquer un déni de service à distance et un problème de sécurité non spécifié par l'éditeur.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
     },
     {
       "title": "Call for proposals: EU AI Media Platform – Modular multilingual public-interest infrastructure for European news and audiovisual media (IA) - Apply AI",
@@ -378,14 +466,6 @@
       "summary": "<span>Commission accepts Temu's action plan to remedy the breach of the Digital Services Act</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-10-26T10:28:00+01:00\" title=\"Monday, October 26, 2026 - 10:28\">Mon, 10/26/2026 - 10:28</time>\n</span>\n\n<div>\n  <div class=",
       "source_id": "commission",
       "source_name": "Commission européenne"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Mattermost Server (20 octobre 2026)",
-      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1344/",
-      "date": "2026-10-20T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Mattermost Server. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
     }
   ]
 }
