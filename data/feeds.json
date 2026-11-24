@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T04:12:06.420715+00:00",
+  "updated": "2026-11-24T15:07:49.640473+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -28,6 +28,14 @@
   },
   "items": [
     {
+      "title": "Acteurs du secteur de la livraison : comment définir les responsabilités au regard du RGPD ?",
+      "link": "https://www.cnil.fr/fr/acteurs-secteur-livraison-responsabilites",
+      "date": "2026-11-24T12:00:00+00:00",
+      "summary": "Dans le cadre de leurs activités, les professionnels de la livraison sont amenés à traiter des données personnelles. Dans la plupart des cas, la CNIL considère que le transporteur est responsable de traitement, mais ce n’est pas systématique. Comment clarifier les rôles de chacun&amp;nbsp;?",
+      "source_id": "cnil",
+      "source_name": "CNIL"
+    },
+    {
       "title": "Trophées des classes 2027 - Ensemble, tous protégés sur Internet !",
       "link": "https://www.cnil.fr/fr/trophees-des-classes-2027",
       "date": "2026-11-23T12:00:00+00:00",
@@ -42,6 +50,30 @@
       "summary": "La CNIL et le ministère de l’Éducation nationale dévoilent les classes gagnantes de l’édition 2026 des «&amp;nbsp;Trophées des classes&amp;nbsp;», un concours pour sensibiliser les élèves à leurs droits numériques et à la citoyenneté en ligne.",
       "source_id": "cnil",
       "source_name": "CNIL"
+    },
+    {
+      "title": "Contrôles de la CNIL : une charte pour tout comprendre",
+      "link": "https://www.cnil.fr/fr/controles-de-la-cnil-une-charte-pour-tout-comprendre",
+      "date": "2026-11-23T12:00:00+00:00",
+      "summary": "La CNIL peut effectuer des contrôles auprès de l’ensemble des organismes qui traitent des données personnelles. Afin d’assurer une plus grande transparence sur cette activité et favoriser le bon déroulement des investigations, la CNIL présente une charte des contrôles.",
+      "source_id": "cnil",
+      "source_name": "CNIL"
+    },
+    {
+      "title": "Bulletin d'actualité CERTFR-2026-ACT-049 (23 novembre 2026)",
+      "link": "https://www.cert.cyber.gouv.fr/actualite/CERTFR-2026-ACT-049/",
+      "date": "2026-11-23T00:00:00+00:00",
+      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques pour prioriser l'application des...",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans SPIP (23 novembre 2026)",
+      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1599/",
+      "date": "2026-11-23T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans SPIP. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS) et une injection de requêtes illégitimes par rebond (CSRF).",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
     },
     {
       "title": "IA et éducation : une résolution mondiale pour la protection des données",
@@ -180,6 +212,46 @@
       "source_name": "ANSSI"
     },
     {
+      "title": "Vulnérabilité dans KeyCloak (20 novembre 2026)",
+      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1586/",
+      "date": "2026-11-20T00:00:00+00:00",
+      "summary": "Une vulnérabilité a été découverte dans KeyCloak. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Vulnérabilité dans les produits Palo Alto Networks (20 novembre 2026)",
+      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1584/",
+      "date": "2026-11-20T00:00:00+00:00",
+      "summary": "Une vulnérabilité a été découverte dans les produits Palo Alto Networks. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans le noyau Linux de Debian LTS (20 novembre 2026)",
+      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1595/",
+      "date": "2026-11-20T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian LTS. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans les produits Moxa (20 novembre 2026)",
+      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1589/",
+      "date": "2026-11-20T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Moxa. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
+      "title": "Multiples vulnérabilités dans les produits Citrix (20 novembre 2026)",
+      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1582/",
+      "date": "2026-11-20T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Citrix. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
       "title": "Norwegian DPA fines private individual for credit check and publication of personal data without a lawful basis",
       "link": "https://www.edpb.europa.eu/news/norwegian-dpa-fines-private-individual-for-credit-check-and-publication-of-personal-data_en",
       "date": "2026-11-19T12:00:00+00:00",
@@ -204,38 +276,6 @@
       "source_name": "EDPB"
     },
     {
-      "title": "Multiples vulnérabilités dans les produits Mitel (19 novembre 2026)",
-      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1569/",
-      "date": "2026-11-19T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Mitel. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Wireshark (19 novembre 2026)",
-      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1575/",
-      "date": "2026-11-19T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Wireshark. Elles permettent à un attaquant de provoquer un déni de service à distance.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Progress WS_FTP Server (19 novembre 2026)",
-      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1570/",
-      "date": "2026-11-19T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Progress WS_FTP Server. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans les produits Cisco (19 novembre 2026)",
-      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1573/",
-      "date": "2026-11-19T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
       "title": "Multiples vulnérabilités dans PHP (19 novembre 2026)",
       "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1580/",
       "date": "2026-11-19T00:00:00+00:00",
@@ -252,42 +292,10 @@
       "source_name": "ANSSI"
     },
     {
-      "title": "Multiples vulnérabilités dans WordPress (19 novembre 2026)",
-      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1574/",
-      "date": "2026-11-19T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans WordPress. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans les produits Splunk (19 novembre 2026)",
-      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1576/",
-      "date": "2026-11-19T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Splunk. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans ClamAV (19 novembre 2026)",
-      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1572/",
-      "date": "2026-11-19T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans ClamAV. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
       "title": "Vulnérabilité dans les produits Elastic (19 novembre 2026)",
       "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1578/",
       "date": "2026-11-19T00:00:00+00:00",
       "summary": "Une vulnérabilité a été découverte dans les produits Elastic. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.",
-      "source_id": "anssi",
-      "source_name": "ANSSI"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Laravel (19 novembre 2026)",
-      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1571/",
-      "date": "2026-11-19T00:00:00+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Laravel. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.",
       "source_id": "anssi",
       "source_name": "ANSSI"
     },
@@ -372,6 +380,14 @@
       "source_name": "Commission européenne"
     },
     {
+      "title": "Multiples vulnérabilités dans Mitel MiCollab (17 novembre 2026)",
+      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1547/",
+      "date": "2026-11-17T00:00:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Mitel MiCollab. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
+      "source_id": "anssi",
+      "source_name": "ANSSI"
+    },
+    {
       "title": "Commission hosts Apply AI Summit to boost Europe’s AI innovation and uptake",
       "link": "https://digital-strategy.ec.europa.eu/en/news/commission-hosts-apply-ai-summit-boost-europes-ai-innovation-and-uptake",
       "date": "2026-11-16T12:43:00+00:00",
@@ -386,22 +402,6 @@
       "summary": "<p>Brussels 13 November – At its latest plenary, the EDPB adopted a <a href=\"https://www.edpb.europa.eu/documents/statement/statement-32026-on-use-of-other-model-clauses_en\"><strong><u>statement on the use of other models of contractual clauses for onward transfers of personal data</u></strong></a><",
       "source_id": "edpb",
       "source_name": "EDPB"
-    },
-    {
-      "title": "Ordre du jour de la séance plénière du 12 novembre 2026",
-      "link": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-12-novembre-2026",
-      "date": "2026-11-12T12:00:00+00:00",
-      "summary": "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 12 novembre 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
-      "source_id": "cnil",
-      "source_name": "CNIL"
-    },
-    {
-      "title": "Actualité du CEPD : adéquation de la Corée du Sud, versions finales des BCR-ST, et action coordonnée sur le recrutement via IA",
-      "link": "https://www.cnil.fr/fr/actualite-du-cepd-adequation-de-la-coree-du-sud-versions-finales-des-bcr-st-et-action-coordonnee-sur",
-      "date": "2026-11-12T12:00:00+00:00",
-      "summary": "Le 10 novembre 2026, le Comité européen de la protection des données (CEPD) a adopté une déclaration sur l’adéquation de la Corée du Sud en matière de protection des données, ses recommandations finales sur les règles d’entreprises contraignantes et le thème de la sixième action coordonnée (CEF).",
-      "source_id": "cnil",
-      "source_name": "CNIL"
     },
     {
       "title": "EDPB adopts statement on review of the Republic of Korea adequacy, processor BCR recommendations, and selects topic for 2027 coordinated enforcement action",
