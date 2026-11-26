@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T02:03:49.183046+00:00",
+  "updated": "2026-11-26T11:19:38.226389+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -27,6 +27,22 @@
     }
   },
   "items": [
+    {
+      "title": "Hellenic DPA fines Teleperformance Greece EUR 100 000 for GDPR breaches",
+      "link": "https://www.edpb.europa.eu/news/hellenic-dpa-fines-teleperformance-greece-eur-100-000-for-gdpr-breaches_en",
+      "date": "2026-11-25T12:00:00+00:00",
+      "summary": "<div class=\"heading-wrapper\"><h2 id=\"background-information\">Background information</h2><ul><li>Date of final decision: 05/10/2026</li><li>National case</li><li>Controller: TELEPERFORMANCE GREECE</li><li>Legal References: Articles 5 (Principles relating to processing of personal data), 12 (Transpare",
+      "source_id": "edpb",
+      "source_name": "EDPB"
+    },
+    {
+      "title": "Commission proposes Quantum Act and new Sovereign Tech Equity Fund to strengthen Europe's industrial capacity and security",
+      "link": "https://digital-strategy.ec.europa.eu/en/news/commission-proposes-quantum-act-and-new-sovereign-tech-equity-fund-strengthen-europes-industrial",
+      "date": "2026-11-25T07:52:00+00:00",
+      "summary": "<span>Commission proposes Quantum Act and new Sovereign Tech Equity Fund to strengthen Europe's industrial capacity and security</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-11-25T08:52:00+01:00\" title=\"Wednesday, November 25, 2026 - 08:52\">Wed, 11/25/2026 - 0",
+      "source_id": "commission",
+      "source_name": "Commission européenne"
+    },
     {
       "title": "Acteurs du secteur de la livraison : comment définir les responsabilités au regard du RGPD ?",
       "link": "https://www.cnil.fr/fr/acteurs-secteur-livraison-responsabilites",
@@ -404,14 +420,6 @@
       "source_name": "EDPB"
     },
     {
-      "title": "EDPB adopts statement on review of the Republic of Korea adequacy, processor BCR recommendations, and selects topic for 2027 coordinated enforcement action",
-      "link": "https://www.edpb.europa.eu/news/edpb-adopts-statement-on-review-of-the-republic-of-korea-adequacy-processor-bcr_en",
-      "date": "2026-11-11T12:00:00+00:00",
-      "summary": "<p>Brussels, 11 November – During its latest plenary, the EDPB has adopted a <a href=\"https://www.edpb.europa.eu/documents/reports-statements-and-letters/statement-22026-on-the-first-review-of-the-functioning-of_en\">statement on the first review of the functioning of the adequacy decision of the Rep",
-      "source_id": "edpb",
-      "source_name": "EDPB"
-    },
-    {
       "title": "Commission preliminarily finds TikTok’s ‘For You’ feed in breach of Digital Services Act for harmful ‘rabbit holes’ effect",
       "link": "https://digital-strategy.ec.europa.eu/en/news/commission-preliminarily-finds-tiktoks-you-feed-breach-digital-services-act-harmful-rabbit-holes",
       "date": "2026-11-06T11:09:12+00:00",
@@ -456,14 +464,6 @@
       "link": "https://digital-strategy.ec.europa.eu/en/events/local-digital-twins-citiverse-edic-joins-smart-city-expo-world-congress-2026",
       "date": "2026-10-29T08:12:20+00:00",
       "summary": "<span>Local Digital Twins CiTiVERSE EDIC joins Smart City Expo World Congress 2026</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-10-29T09:12:20+01:00\" title=\"Thursday, October 29, 2026 - 09:12\">Thu, 10/29/2026 - 09:12</time>\n</span>\n\n<div>\n  <div class=\"cnt-thu",
-      "source_id": "commission",
-      "source_name": "Commission européenne"
-    },
-    {
-      "title": "Commission accepts Temu's action plan to remedy the breach of the Digital Services Act",
-      "link": "https://digital-strategy.ec.europa.eu/en/news/commission-accepts-temus-action-plan-remedy-breach-digital-services-act",
-      "date": "2026-10-26T09:28:00+00:00",
-      "summary": "<span>Commission accepts Temu's action plan to remedy the breach of the Digital Services Act</span>\n<span><span>Anonymous (not verified)</span></span>\n<span><time datetime=\"2026-10-26T10:28:00+01:00\" title=\"Monday, October 26, 2026 - 10:28\">Mon, 10/26/2026 - 10:28</time>\n</span>\n\n<div>\n  <div class=",
       "source_id": "commission",
       "source_name": "Commission européenne"
     }
