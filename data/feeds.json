@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T03:05:34.134696+00:00",
+  "updated": "2026-11-27T12:57:26.588943+00:00",
   "sources_meta": {
     "cnil": {
       "name": "CNIL",
@@ -27,6 +27,14 @@
     }
   },
   "items": [
+    {
+      "title": "IA en contexte de soins : accompagner le bon usage avec le guide CNIL et HAS",
+      "link": "https://www.cnil.fr/fr/ia-en-soins-guide-has-cnil",
+      "date": "2026-11-27T12:00:00+00:00",
+      "summary": "Avec la publication du guide «&amp;nbsp;IA en contexte de soins&amp;nbsp;: accompagner le bon usage&amp;nbsp;» qu’elles ont conjointement élaboré, la Haute Autorité de santé (HAS) et la CNIL se mobilisent pour accompagner les acteurs de la santé en clarifiant les règles et les bonnes pratiques.",
+      "source_id": "cnil",
+      "source_name": "CNIL"
+    },
     {
       "title": "Ordre du jour de la séance plénière du 26 novembre 2026",
       "link": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-26-novembre-2026",
@@ -336,14 +344,6 @@
       "link": "https://www.cnil.fr/fr/ia-conversationnelle-la-voix-des-jeunesses",
       "date": "2026-11-18T12:00:00+00:00",
       "summary": "Alors que près d’un jeune sur deux se confie à une IA sur des sujets intimes, avec le livret «&amp;nbsp;La Voix des jeunesses&amp;nbsp;», le Groupe VYV, premier acteur mutualiste de santé et de protection sociale en France, et la CNIL croisent enquête européenne, témoignages, et expertises pour écla",
-      "source_id": "cnil",
-      "source_name": "CNIL"
-    },
-    {
-      "title": "Conservation des mots de passe clients en clair : la CNIL prononce une sanction de 5 millions d’euros",
-      "link": "https://www.cnil.fr/fr/conservation-des-mots-de-passe-sanction-5-millions-deuros",
-      "date": "2026-11-18T12:00:00+00:00",
-      "summary": "En novembre 2026, la CNIL a infligé une sanction de 5&amp;nbsp;millions d’euros à une société en raison de l’insuffisance des mesures prises pour assurer la sécurité des données de ses clients et d’une durée excessive de conservation des données.",
       "source_id": "cnil",
       "source_name": "CNIL"
     },
